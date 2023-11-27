@@ -1,0 +1,13 @@
+<!-- res/drawable/rounded_corners_background.xml -->
+<shape xmlns:android="http://schemas.android.com/apk/res/android"
+    android:innerRadius="10dp"
+    >
+
+    <solid android:color="#0389A9C1" /> <!-- Background color of your LinearLayout -->
+    <stroke android:width="100dp" android:color="#EB254F78"/>
+    
+    <corners   /> <!-- Radius of the rounded corners, adjust as needed -->
+    <corners android:bottomLeftRadius="50dp"
+        android:bottomRightRadius="50dp"
+        />
+</shape>

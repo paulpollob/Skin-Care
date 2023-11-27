@@ -1,0 +1,56 @@
+[
+  {
+    "product_Id": 1,
+    "product_Name": "The Ordinary",
+    "product_Image": "https://i.ibb.co/CHr6G4v/the-ordinary.jpg",
+    "product_Type": "Gentle Cleanser",
+    "product_Description": "The Ordinary is a gentle face wash that effectively cleanses without compromising the skin's natural moisture.",
+    "product_Ingredients": "Squalane, Tocopherol (Vitamin E), Glycerin",
+    "how_To_Use": "Apply to wet face, lather, and massage in circular motions. Rinse thoroughly with water."
+  },
+  {
+    "product_Id": 2,
+    "product_Name": "Osillivrac",
+    "product_Image": "https://i.ibb.co/2gKSNph/osillivrac.jpg",
+    "product_Type": "Micellar Water",
+    "product_Description": "Osillivrac is a micellar water face wash that effectively removes makeup and impurities.",
+    "product_Ingredients": "Micelles, Rose Water, Witch Hazel Extract",
+    "how_To_Use": "Apply to a cotton pad, gently wipe the face to remove makeup and impurities."
+  },
+  {
+    "product_Id": 3,
+    "product_Name": "Pixi Pxi",
+    "product_Image": "https://i.ibb.co/tzDwrFx/pixi-pxi.jpg",
+    "product_Type": "Hydrating Cleanser",
+    "product_Description": "Pixi Pxi is a hydrating cleanser that nourishes the skin while cleansing, leaving it soft and supple.",
+    "product_Ingredients": "Cocoa Butter, Chamomile Extract, Aloe Vera",
+    "how_To_Use": "Apply to wet face, lather, and massage gently. Rinse thoroughly with water."
+  },
+  {
+    "product_Id": 4,
+    "product_Name": "Pixi Earth",
+    "product_Image": "https://i.ibb.co/8889CBH/pixi-earth.jpg",
+    "product_Type": "Detoxifying Mud",
+    "product_Description": "Pixi Earth is a detoxifying mud face wash that helps absorb excess oil and impurities.",
+    "product_Ingredients": "Kaolin Clay, Charcoal Powder, Tea Tree Oil",
+    "how_To_Use": "Apply to wet face, leave on for a few minutes, and rinse off with water."
+  },
+  {
+    "product_Id": 5,
+    "product_Name": "Loreal",
+    "product_Image": "https://i.ibb.co/nkwmx2j/loreal.jpg",
+    "product_Type": "Brightening Foam",
+    "product_Description": "Loreal is a brightening foam face wash that promotes a radiant and even skin tone.",
+    "product_Ingredients": "Vitamin C, Niacinamide, Licorice Extract",
+    "how_To_Use": "Wet face, apply a small amount, and massage gently. Rinse thoroughly with water."
+  },
+  {
+    "product_Id": 6,
+    "product_Name": "Oily CF",
+    "product_Image": "https://i.ibb.co/SfPfwdR/oily-cf.jpg",
+    "product_Type": "Oil-Control Formula",
+    "product_Description": "Oily CF is a face wash specifically formulated to control excess oil and reduce shine.",
+    "product_Ingredients": "Salicylic Acid, Witch Hazel Extract, Green Tea Extract",
+    "how_To_Use": "Apply to wet face, lather, and massage in circular motions. Rinse thoroughly with water."
+  }
+]

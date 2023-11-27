@@ -1,0 +1,152 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+
+<ScrollView
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:scrollbars="vertical"
+    android:background="#EB254F78"
+
+
+    android:layout_width="match_parent"
+
+    android:layout_height="match_parent"
+    android:fillViewport="false">
+
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    android:padding="10dp"
+    android:background="#CDD2DA"
+    tools:context=".tips_skincare">
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginLeft="110dp"
+        android:layout_marginTop="5dp"
+
+        android:fontFamily="@font/ananda"
+        android:text="Skin Care Tips"
+        android:textColor="#E64A19"
+        android:textSize="30sp"
+
+
+
+        />
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="1.Know Your Skin Type: Understand whether you have oily, dry, combination, or sensitive skin. Different skin types require different skincare routines and products."
+
+        android:layout_marginLeft="10dp"
+        android:layout_marginTop="19dp"
+        android:textColor="#485081"
+        android:textStyle="bold"
+        android:textSize="17sp"
+
+        />
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="2.Cleansing: Cleanse your face twice daily (morning and night) to remove dirt, makeup, and impurities. Use a gentle, pH-balanced cleanser that suits your skin type."
+
+        android:layout_marginLeft="10dp"
+        android:layout_marginTop="19dp"
+        android:textColor="#485081"
+        android:textStyle="bold"
+
+        android:textSize="17sp"
+
+        />
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="3.Exfoliate: Exfoliate 1-3 times a week to remove dead skin cells and promote cell turnover. You can use chemical exfoliants (like AHAs or BHAs) or physical exfoliants (scrubs). Be gentle, as over-exfoliating can damage your skin."
+
+        android:layout_marginLeft="10dp"
+        android:layout_marginTop="19dp"
+        android:textColor="#485081"
+        android:textStyle="bold"
+        android:textSize="17sp"
+
+        />
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="3.Exfoliate: Exfoliate 1-3 times a week to remove dead skin cells and promote cell turnover. You can use chemical exfoliants (like AHAs or BHAs) or physical exfoliants (scrubs). Be gentle, as over-exfoliating can damage your skin."
+
+        android:layout_marginLeft="10dp"
+        android:layout_marginTop="19dp"
+        android:textColor="#485081"
+        android:textStyle="bold"
+        android:textSize="17sp"
+
+        />
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="4.Moisturize: Apply a moisturizer suitable for your skin type after cleansing to keep your skin hydrated and maintain its barrier function."
+
+        android:layout_marginLeft="10dp"
+        android:layout_marginTop="19dp"
+        android:textColor="#485081"
+        android:textStyle="bold"
+
+        android:textSize="17sp"
+
+        />
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="5.Sun Protection: Always wear sunscreen with at least SPF 30, even on cloudy days. UV rays can damage your skin and cause premature aging. Reapply sunscreen every two hours when outdoors."
+
+        android:layout_marginLeft="10dp"
+        android:layout_marginTop="19dp"
+        android:textColor="#485081"
+        android:textStyle="bold"
+        android:textSize="17sp"
+
+        />
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="6.Eye Cream: If you have concerns about the skin around your eyes (e.g., dark circles or puffiness), use a specialized eye cream"
+
+        android:layout_marginLeft="10dp"
+        android:layout_marginTop="19dp"
+        android:textColor="#485081"
+        android:textStyle="bold"
+        android:textSize="17sp"
+
+        />
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="7.Consult a Dermatologist: If you have specific skin concerns or conditions like acne, eczema, or rosacea, consult a dermatologist for professional advice and treatment options."
+
+        android:layout_marginLeft="10dp"
+        android:layout_marginTop="19dp"
+        android:textColor="#485081"
+        android:textStyle="bold"
+        android:textSize="17sp"
+
+        />
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="8.Stay Consistent: Consistency is key with skincare. Stick to a routine for several weeks to see noticeable improvements."
+
+        android:layout_marginLeft="10dp"
+        android:layout_marginTop="19dp"
+        android:textColor="#485081"
+        android:textStyle="bold"
+        android:textSize="17sp"
+
+        />
+
+</LinearLayout>
+</ScrollView>

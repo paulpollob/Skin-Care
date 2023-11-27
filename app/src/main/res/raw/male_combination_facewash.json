@@ -1,0 +1,56 @@
+[
+  {
+    "product_Id": 1,
+    "product_Name": "Clinwue Refreshing",
+    "product_Image": "https://ibb.co/VjSTNzH",
+    "product_Type": "Facewash",
+    "product_Description": "Clinwue Refreshing facewash for a revitalizing and invigorating cleanse.",
+    "product_Ingredients": "Aqua, Sodium Lauryl Sulfate, Glycerin, Fragrance, etc.",
+    "how_To_Use": "Apply on wet face, lather, and rinse thoroughly for a refreshing feel."
+  },
+  {
+    "product_Id": 2,
+    "product_Name": "Cerabhi",
+    "product_Image": "https://ibb.co/10jgSM4",
+    "product_Type": "Facewash",
+    "product_Description": "Cerabhi facewash for a gentle and hydrating skincare routine.",
+    "product_Ingredients": "Ceramides, Aloe Vera Extract, Water, Cocamidopropyl Betaine, etc.",
+    "how_To_Use": "Wet face, apply the facewash, massage, and rinse off with water."
+  },
+  {
+    "product_Id": 3,
+    "product_Name": "Nivea Men",
+    "product_Image": "https://ibb.co/DVFLrC6",
+    "product_Type": "Facewash",
+    "product_Description": "Nivea Men facewash for effective cleansing and freshness.",
+    "product_Ingredients": "Aqua, Sodium Laureth Sulfate, Glycerin, Panax Ginseng Root Extract, etc.",
+    "how_To_Use": "Gently apply on wet face, lather, and rinse off for a refreshed look."
+  },
+  {
+    "product_Id": 4,
+    "product_Name": "Cetaphill",
+    "product_Image": "https://ibb.co/RBwSqrc",
+    "product_Type": "Facewash",
+    "product_Description": "Cetaphill facewash for gentle cleansing suitable for all skin types.",
+    "product_Ingredients": "Water, Cetyl Alcohol, Propylene Glycol, Sodium Lauryl Sulfate, etc.",
+    "how_To_Use": "Apply and massage on wet face, rinse off thoroughly for clean and soft skin."
+  },
+  {
+    "product_Id": 5,
+    "product_Name": "Vaseline",
+    "product_Image": "https://ibb.co/GHTyHzc",
+    "product_Type": "Facewash",
+    "product_Description": "Vaseline facewash for moisturizing and nourishing the skin.",
+    "product_Ingredients": "Petrolatum, Glycerin, Water, Sodium Laureth Sulfate, etc.",
+    "how_To_Use": "Wet face, apply, and massage in circular motions. Rinse off with water."
+  },
+  {
+    "product_Id": 6,
+    "product_Name": "Pure Loc",
+    "product_Image": "https://ibb.co/TP3bNXq",
+    "product_Type": "Facewash",
+    "product_Description": "Pure Loc facewash for a clean and fresh feel with natural ingredients.",
+    "product_Ingredients": "Aqua, Aloe Vera Gel, Lemon Extract, Coconut Oil, etc.",
+    "how_To_Use": "Apply on damp face, lather, and rinse off for a pure and radiant complexion."
+  }
+]

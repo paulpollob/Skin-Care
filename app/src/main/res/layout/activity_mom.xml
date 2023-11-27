@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    android:background="#E3E5EA"
+    tools:context=".mom">
+
+    <ImageView
+        android:layout_width="500dp"
+        android:layout_height="200dp"
+        android:layout_marginTop="30dp"
+        android:layout_marginRight="95dp"
+        android:paddingRight="220dp"
+        android:src="@drawable/mom" />
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginLeft="195dp"
+        android:layout_marginTop="5dp"
+
+        android:fontFamily="@font/ananda"
+        android:text="Mom's Care"
+        android:textColor="#E64A19"
+        android:textSize="40sp"
+
+
+
+        />
+    <Button
+        android:id="@+id/skin_1"
+        android:layout_width="180dp"
+        android:layout_height="70dp"
+        android:text="Pregnant "
+        android:layout_marginLeft="215dp"
+        android:paddingLeft="20dp"
+
+        android:textStyle="bold"
+        android:paddingRight="22dp"
+        android:paddingTop="18dp"
+        android:paddingBottom="16dp"
+
+        android:textSize="12sp"
+        android:layout_marginTop="10dp"
+        android:backgroundTint="#C1C4DC"
+
+        android:textColor="@color/black"
+        android:layout_marginBottom="10dp"
+        />
+    <Button
+        android:id="@+id/skin_2"
+        android:layout_width="180dp"
+        android:layout_height="70dp"
+        android:text="Baby Care"
+        android:layout_marginLeft="215dp"
+        android:paddingLeft="20dp"
+
+        android:textStyle="bold"
+        android:paddingRight="22dp"
+        android:paddingTop="18dp"
+        android:paddingBottom="16dp"
+
+        android:textSize="12sp"
+        android:layout_marginTop="5dp"
+        android:backgroundTint="#C1C4DC"
+
+        android:textColor="@color/black"
+
+        />
+    <ImageView
+        android:layout_width="500dp"
+        android:layout_height="300dp"
+        android:src="@drawable/preg"
+        android:layout_marginRight="95dp"
+        android:paddingRight="220dp"
+        android:layout_marginTop="3dp"
+        />
+
+</LinearLayout>

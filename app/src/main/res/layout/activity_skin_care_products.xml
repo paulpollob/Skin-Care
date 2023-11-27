@@ -1,0 +1,228 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ScrollView
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:scrollbars="vertical"
+    android:background="#EB254F78"
+
+
+    android:layout_width="match_parent"
+
+    android:layout_height="wrap_content"
+    android:fillViewport="false">
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:orientation="vertical"
+        android:background="#D7E1E1D7">
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginLeft="100dp"
+        android:layout_marginTop="5dp"
+
+        android:fontFamily="@font/ananda"
+        android:text="CombinationSkin Care Products"
+        android:textColor="#303F9F"
+        android:textSize="20sp"
+
+
+
+        />
+
+
+
+    <LinearLayout
+        android:layout_marginTop="30dp"
+        android:layout_width="386dp"
+        android:background="#EB6BA3DA"
+        android:layout_marginLeft="13dp"
+        android:layout_marginRight="13dp"
+
+        android:layout_height="90dp"
+        android:orientation="horizontal">
+
+        <TextView
+
+            android:layout_width="230dp"
+            android:layout_height="match_parent"
+            android:layout_marginLeft="3dp"
+            android:layout_marginTop="30dp"
+            android:layout_marginBottom="10dp"
+            android:text="Cetaphil Gentle Skin Cleanser"
+            android:textColor="#681E07"
+            android:textSize="15sp"
+            android:textStyle="bold" />
+
+        <ImageView
+            android:layout_width="165dp"
+            android:layout_height="95dp"
+            android:layout_marginTop="4dp"
+
+            android:layout_marginBottom="5dp"
+            android:paddingLeft="40dp"
+            android:src="@drawable/cetaphill" />
+    </LinearLayout>
+
+    <LinearLayout
+        android:layout_marginTop="30dp"
+        android:layout_width="386dp"
+        android:background="#EB6BA3DA"
+        android:layout_marginLeft="13dp"
+        android:layout_marginRight="13dp"
+
+        android:layout_height="90dp"
+        android:orientation="horizontal">
+
+        <TextView
+
+            android:layout_width="230dp"
+            android:layout_height="match_parent"
+            android:layout_marginLeft="3dp"
+            android:layout_marginTop="30dp"
+            android:layout_marginBottom="10dp"
+            android:text="Pixi Glow Tonic Exfoliating Toner"
+            android:textColor="#681E07"
+            android:textSize="15sp"
+            android:textStyle="bold" />
+
+        <ImageView
+            android:layout_width="165dp"
+            android:layout_height="85dp"
+            android:layout_marginTop="4dp"
+
+            android:layout_marginBottom="5dp"
+            android:paddingLeft="30dp"
+            android:src="@drawable/toner" />
+    </LinearLayout>
+    <LinearLayout
+        android:layout_marginTop="30dp"
+        android:layout_width="386dp"
+        android:background="#EB6BA3DA"
+        android:layout_marginLeft="13dp"
+        android:layout_marginRight="13dp"
+
+        android:layout_height="90dp"
+        android:orientation="horizontal">
+
+        <TextView
+
+            android:layout_width="250dp"
+            android:layout_height="match_parent"
+            android:layout_marginLeft="3dp"
+            android:layout_marginTop="30dp"
+            android:layout_marginBottom="10dp"
+            android:text="Coppertone Sport Sunscreen Lotion"
+            android:textColor="#681E07"
+            android:textSize="15sp"
+            android:textStyle="bold" />
+
+        <ImageView
+            android:layout_width="165dp"
+            android:layout_height="85dp"
+            android:layout_marginTop="4dp"
+
+            android:layout_marginBottom="5dp"
+            android:paddingLeft="40dp"
+            android:src="@drawable/cap" />
+    </LinearLayout>
+    <LinearLayout
+        android:layout_marginTop="30dp"
+        android:layout_width="386dp"
+        android:background="#EB6BA3DA"
+        android:layout_marginLeft="13dp"
+        android:layout_marginRight="13dp"
+
+        android:layout_height="90dp"
+        android:orientation="horizontal">
+
+        <TextView
+
+            android:layout_width="230dp"
+            android:layout_height="match_parent"
+            android:layout_marginLeft="3dp"
+            android:layout_marginTop="30dp"
+            android:layout_marginBottom="10dp"
+            android:text="Nivea Soft Moisturizing Cream"
+            android:textColor="#681E07"
+            android:textSize="16sp"
+            android:textStyle="bold" />
+
+        <ImageView
+            android:layout_width="165dp"
+            android:layout_height="85dp"
+            android:layout_marginTop="4dp"
+
+            android:layout_marginBottom="5dp"
+            android:paddingLeft="60dp"
+            android:src="@drawable/nivea" />
+    </LinearLayout>
+    <LinearLayout
+        android:layout_marginTop="30dp"
+        android:layout_width="386dp"
+        android:background="#EB6BA3DA"
+        android:layout_marginLeft="13dp"
+        android:layout_marginRight="13dp"
+
+        android:layout_height="90dp"
+        android:orientation="horizontal">
+
+        <TextView
+
+            android:layout_width="230dp"
+            android:layout_height="match_parent"
+            android:layout_marginLeft="3dp"
+            android:layout_marginTop="30dp"
+            android:layout_marginBottom="10dp"
+            android:text="SkinCeuticals C E Ferulic Serum"
+            android:textColor="#681E07"
+
+            android:textSize="16sp"
+            android:textStyle="bold" />
+
+        <ImageView
+            android:layout_width="165dp"
+            android:layout_height="85dp"
+            android:layout_marginTop="4dp"
+
+            android:layout_marginBottom="5dp"
+            android:paddingLeft="60dp"
+            android:src="@drawable/tone" />
+    </LinearLayout>
+    <LinearLayout
+        android:layout_marginTop="30dp"
+        android:layout_width="386dp"
+        android:background="#EB6BA3DA"
+        android:layout_marginLeft="13dp"
+        android:layout_marginRight="13dp"
+
+        android:layout_height="90dp"
+        android:orientation="horizontal">
+
+        <TextView
+
+            android:layout_width="230dp"
+            android:layout_height="match_parent"
+            android:layout_marginLeft="3dp"
+            android:layout_marginTop="30dp"
+            android:layout_marginBottom="10dp"
+            android:text="Laneige Water Sleeping Mask"
+            android:textColor="#681E07"
+            android:textSize="16sp"
+            android:textStyle="bold" />
+
+        <ImageView
+            android:layout_width="165dp"
+            android:layout_height="85dp"
+            android:layout_marginTop="4dp"
+
+            android:layout_marginBottom="5dp"
+            android:paddingLeft="60dp"
+            android:src="@drawable/mask" />
+    </LinearLayout>
+
+
+    </LinearLayout>
+</ScrollView>

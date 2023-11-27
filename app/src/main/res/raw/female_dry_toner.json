@@ -1,0 +1,56 @@
+[
+  {
+    "product_Id": 1,
+    "product_Name": "Cerabhi",
+    "product_Image": "https://i.ibb.co/4gytwnB/cerabhi.jpg",
+    "product_Type": "Gentle Cleanser",
+    "product_Description": "Cerabhi is a gentle face wash that effectively cleanses without causing irritation, suitable for daily use.",
+    "product_Ingredients": "Water, Glycerin, Aloe Vera Extract, Chamomile",
+    "how_To_Use": "Apply to wet face, lather, and massage in circular motions. Rinse thoroughly with water."
+  },
+  {
+    "product_Id": 2,
+    "product_Name": "Nutrient",
+    "product_Image": "https://i.ibb.co/VDXdQRw/nutrient.jpg",
+    "product_Type": "Nourishing Cleanser",
+    "product_Description": "Nutrient is a nourishing cleanser that cleanses while maintaining the skin's moisture balance.",
+    "product_Ingredients": "Hyaluronic Acid, Coconut Oil, Green Tea Extract",
+    "how_To_Use": "Apply to wet face, lather, and massage gently. Rinse thoroughly with water."
+  },
+  {
+    "product_Id": 3,
+    "product_Name": "Pixi Pxi",
+    "product_Image": "https://i.ibb.co/fng2kNG/pixi-pxi.jpg",
+    "product_Type": "Brightening Cleanser",
+    "product_Description": "Pixi Pxi is a brightening cleanser that helps achieve a radiant and luminous complexion.",
+    "product_Ingredients": "Vitamin C, Ginseng Extract, Jojoba Beads",
+    "how_To_Use": "Wet face, apply a small amount, and massage gently. Rinse thoroughly with water."
+  },
+  {
+    "product_Id": 4,
+    "product_Name": "Loreal",
+    "product_Image": "https://i.ibb.co/tzDwrFx/loreal.jpg",
+    "product_Type": "Refreshing Gel",
+    "product_Description": "Loreal is a refreshing gel face wash that invigorates the skin, leaving it feeling fresh and clean.",
+    "product_Ingredients": "Green Tea Extract, Aloe Vera, Salicylic Acid",
+    "how_To_Use": "Apply to wet face, lather, and massage in circular motions. Rinse thoroughly with water."
+  },
+  {
+    "product_Id": 5,
+    "product_Name": "PixiC4A",
+    "product_Image": "https://i.ibb.co/nkwmx2j/pixi-c4a.jpg",
+    "product_Type": "Cleansing Cream",
+    "product_Description": "PixiC4A is a cleansing cream face wash that provides a rich and indulgent cleanse, leaving the skin pampered.",
+    "product_Ingredients": "Shea Butter, Rosehip Oil, Vitamin E",
+    "how_To_Use": "Apply to damp face, massage in circular motions, and rinse off with water or wipe with a damp cloth."
+  },
+  {
+    "product_Id": 6,
+    "product_Name": "Neutrogena",
+    "product_Image": "https://i.ibb.co/SfPfwdR/neutrogena.jpg",
+    "product_Type": "Oil-Free Cleanser",
+    "product_Description": "Neutrogena is an oil-free cleanser that effectively removes impurities and excess oil, leaving the skin refreshed.",
+    "product_Ingredients": "Salicylic Acid, Witch Hazel, Tea Tree Oil",
+    "how_To_Use": "Wet face, apply a small amount, and massage in circular motions. Rinse thoroughly with water."
+  }
+]

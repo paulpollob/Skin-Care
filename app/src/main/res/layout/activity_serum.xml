@@ -1,0 +1,298 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:orientation="vertical"
+    android:layout_height="match_parent"
+    tools:context=".serum">
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:orientation="vertical"
+        android:background="#9EA2C1">
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginLeft="90dp"
+            android:layout_marginTop="5dp"
+
+            android:fontFamily="@font/ananda"
+            android:text="Serums For Oily Skin"
+            android:textColor="#303F9F"
+            android:textSize="22sp"
+
+
+
+            />
+        <LinearLayout
+            android:layout_marginTop="10dp"
+            android:layout_width="wrap_content"
+
+            android:layout_marginLeft="13dp"
+            android:layout_marginRight="13dp"
+            android:layout_height="200dp"
+            android:orientation="horizontal">
+
+            <RelativeLayout
+
+                android:id="@+id/face_1"
+                android:layout_width="150dp"
+                android:layout_height="200dp"
+                android:layout_marginLeft="23dp"
+                android:layout_marginRight="13dp"
+                android:alpha="0.5"
+                android:background="@color/white"
+
+
+
+
+                android:elevation="60dp">
+
+                <ImageView
+                    android:layout_width="125dp"
+                    android:layout_height="145dp"
+                    android:layout_marginStart="5dp"
+                    android:layout_marginTop="5dp"
+
+                    android:layout_marginEnd="5dp"
+                    android:layout_marginBottom="5dp"
+                    android:paddingLeft="20dp"
+                    android:src="@drawable/serum1" />
+
+                <TextView
+
+                    android:layout_width="match_parent"
+                    android:layout_height="match_parent"
+                    android:layout_marginLeft="40dp"
+                    android:layout_marginTop="140dp"
+                    android:layout_marginBottom="10dp"
+                    android:text="SilyMarin CF"
+                    android:textColor="#ED1B1A1A"
+                    android:textSize="12sp"
+                    android:textStyle="bold" />
+
+            </RelativeLayout>
+            <RelativeLayout
+
+                android:id="@+id/face_2"
+                android:layout_width="150dp"
+                android:layout_height="200dp"
+                android:layout_marginLeft="23dp"
+                android:layout_marginRight="13dp"
+                android:alpha="0.5"
+                android:background="@color/white"
+
+
+
+
+                android:elevation="60dp">
+
+                <ImageView
+                    android:layout_width="125dp"
+                    android:layout_height="145dp"
+                    android:layout_marginStart="5dp"
+                    android:layout_marginTop="5dp"
+
+                    android:layout_marginEnd="5dp"
+                    android:layout_marginBottom="5dp"
+                    android:paddingLeft="20dp"
+                    android:src="@drawable/serum6" />
+
+                <TextView
+
+                    android:layout_width="match_parent"
+                    android:layout_height="match_parent"
+                    android:layout_marginLeft="43dp"
+                    android:layout_marginTop="140dp"
+                    android:layout_marginBottom="10dp"
+                    android:text="Murad CF"
+                    android:textColor="#ED1B1A1A"
+                    android:textSize="12sp"
+                    android:textStyle="bold" />
+
+            </RelativeLayout>
+
+        </LinearLayout>
+        <LinearLayout
+            android:layout_marginTop="20dp"
+            android:layout_width="wrap_content"
+
+            android:layout_marginLeft="13dp"
+            android:layout_marginRight="13dp"
+            android:layout_height="200dp"
+            android:orientation="horizontal">
+
+            <RelativeLayout
+
+                android:id="@+id/face_3"
+                android:layout_width="150dp"
+                android:layout_height="200dp"
+                android:layout_marginLeft="23dp"
+                android:layout_marginRight="13dp"
+                android:alpha="0.5"
+                android:background="@color/white"
+
+
+
+
+                android:elevation="60dp">
+
+                <ImageView
+                    android:layout_width="115dp"
+                    android:layout_height="135dp"
+                    android:layout_marginStart="5dp"
+                    android:layout_marginTop="5dp"
+
+                    android:layout_marginEnd="5dp"
+                    android:layout_marginBottom="5dp"
+                    android:paddingLeft="20dp"
+                    android:src="@drawable/serum2" />
+
+                <TextView
+
+                    android:layout_width="match_parent"
+                    android:layout_height="match_parent"
+                    android:layout_marginLeft="45dp"
+                    android:layout_marginTop="140dp"
+                    android:layout_marginBottom="10dp"
+                    android:text="Biomaya"
+                    android:textColor="#ED1B1A1A"
+                    android:textSize="15sp"
+                    android:textStyle="bold" />
+
+            </RelativeLayout>
+            <RelativeLayout
+
+                android:id="@+id/face_4"
+                android:layout_width="150dp"
+                android:layout_height="200dp"
+                android:layout_marginLeft="23dp"
+                android:layout_marginRight="13dp"
+                android:alpha="0.5"
+                android:background="@color/white"
+
+
+
+
+                android:elevation="60dp">
+
+                <ImageView
+                    android:layout_width="115dp"
+                    android:layout_height="135dp"
+                    android:layout_marginStart="5dp"
+                    android:layout_marginTop="5dp"
+
+                    android:layout_marginEnd="5dp"
+                    android:layout_marginBottom="5dp"
+                    android:paddingLeft="20dp"
+                    android:src="@drawable/serum4" />
+
+                <TextView
+
+                    android:layout_width="match_parent"
+                    android:layout_height="match_parent"
+                    android:layout_marginLeft="55dp"
+                    android:layout_marginTop="140dp"
+                    android:layout_marginBottom="10dp"
+                    android:text="Lafz"
+                    android:textColor="#ED1B1A1A"
+                    android:textSize="15sp"
+                    android:textStyle="bold" />
+
+            </RelativeLayout>
+
+        </LinearLayout>
+        <LinearLayout
+            android:layout_marginTop="20dp"
+            android:layout_width="wrap_content"
+
+            android:layout_marginLeft="13dp"
+            android:layout_marginRight="13dp"
+            android:layout_height="200dp"
+            android:orientation="horizontal">
+
+            <RelativeLayout
+
+                android:id="@+id/face_5"
+                android:layout_width="150dp"
+                android:layout_height="200dp"
+                android:layout_marginLeft="23dp"
+                android:layout_marginRight="13dp"
+                android:alpha="0.5"
+                android:background="@color/white"
+
+
+
+
+                android:elevation="60dp">
+
+                <ImageView
+                    android:layout_width="115dp"
+                    android:layout_height="135dp"
+                    android:layout_marginStart="5dp"
+                    android:layout_marginTop="5dp"
+
+                    android:layout_marginEnd="5dp"
+                    android:layout_marginBottom="5dp"
+                    android:paddingLeft="20dp"
+                    android:src="@drawable/serum5" />
+
+                <TextView
+
+                    android:layout_width="match_parent"
+                    android:layout_height="match_parent"
+                    android:layout_marginLeft="40dp"
+                    android:layout_marginTop="140dp"
+                    android:layout_marginBottom="10dp"
+                    android:text="Night Brezze"
+                    android:textColor="#ED1B1A1A"
+                    android:textSize="15sp"
+                    android:textStyle="bold" />
+
+            </RelativeLayout>
+            <RelativeLayout
+
+                android:id="@+id/face_6"
+                android:layout_width="150dp"
+                android:layout_height="200dp"
+                android:layout_marginLeft="23dp"
+                android:layout_marginRight="13dp"
+                android:alpha="0.5"
+                android:background="@color/white"
+
+
+
+
+                android:elevation="60dp">
+
+                <ImageView
+                    android:layout_width="115dp"
+                    android:layout_height="135dp"
+                    android:layout_marginStart="5dp"
+                    android:layout_marginTop="5dp"
+
+                    android:layout_marginEnd="5dp"
+                    android:layout_marginBottom="5dp"
+                    android:paddingLeft="20dp"
+                    android:src="@drawable/serum3" />
+
+                <TextView
+
+                    android:layout_width="match_parent"
+                    android:layout_height="match_parent"
+                    android:layout_marginLeft="55dp"
+                    android:layout_marginTop="140dp"
+                    android:layout_marginBottom="10dp"
+                    android:text="Biore"
+                    android:textColor="#ED1B1A1A"
+                    android:textSize="15sp"
+                    android:textStyle="bold" />
+
+            </RelativeLayout>
+
+        </LinearLayout>
+
+    </LinearLayout>
+</LinearLayout>

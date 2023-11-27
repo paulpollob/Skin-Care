@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    android:background="#A4B9D7"
+    tools:context=".MainActivity2">
+
+
+        <ImageView
+            android:layout_width="500dp"
+            android:layout_height="300dp"
+            android:src="@drawable/skinn"
+            android:layout_marginRight="50dp"
+            android:paddingRight="98dp"
+            android:layout_marginTop="120dp"
+            />
+        <TextView
+            android:id="@+id/textAnimation"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:paddingLeft="20dp"
+            android:text="Skinsentry"
+            android:fontFamily="@font/ananda"
+
+            android:paddingRight="20dp"
+            android:layout_marginLeft="70dp"
+
+            android:layout_marginTop="10dp"
+            android:textColor="#1C2FAE"
+            android:textSize="45sp"
+            />
+        <Button
+            android:id="@+id/safe"
+            android:layout_width="180dp"
+            android:layout_height="70dp"
+            android:text="Signup?"
+            android:layout_marginLeft="115dp"
+            android:paddingLeft="20dp"
+
+            android:textStyle="bold"
+            android:paddingRight="22dp"
+            android:paddingTop="18dp"
+            android:paddingBottom="16dp"
+
+
+            android:layout_marginTop="10dp"
+            android:backgroundTint="#868FC5"
+
+            android:textColor="@color/black"
+            android:layout_marginBottom="10dp"
+            />
+        <Button
+            android:id="@+id/login"
+            android:layout_width="180dp"
+            android:layout_height="70dp"
+            android:text="Signin"
+            android:layout_marginLeft="120dp"
+            android:paddingRight="43dp"
+
+            android:textStyle="bold"
+
+            android:layout_marginTop="2dp"
+            android:backgroundTint="#868FC5"
+            android:paddingLeft="40dp"
+            android:textColor="@color/black"
+
+            />
+
+</LinearLayout>

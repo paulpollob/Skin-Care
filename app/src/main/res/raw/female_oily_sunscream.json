@@ -1,0 +1,56 @@
+[
+  {
+    "product_Id": 1,
+    "product_Name": "Lotus CF",
+    "product_Image": "https://i.ibb.co/1q7FNh6/lotus_cf.jpg",
+    "product_Type": "Foaming",
+    "product_Description": "Lotus CF is a foaming face wash that provides a refreshing and deep cleansing experience.",
+    "product_Ingredients": "Lotus Extract, Chamomile, Vitamin E, Aqua",
+    "how_To_Use": "Apply to wet face, lather, and massage in circular motions. Rinse thoroughly."
+  },
+  {
+    "product_Id": 2,
+    "product_Name": "Simple AF",
+    "product_Image": "https://i.ibb.co/QdwRxCk/simple_af.jpg",
+    "product_Type": "Gentle",
+    "product_Description": "Simple AF is a gentle face wash suitable for sensitive skin, keeping it clean and moisturized.",
+    "product_Ingredients": "Water, Glycerin, Aloe Vera, Chamomile Extract",
+    "how_To_Use": "Apply a small amount to wet face, massage gently, and rinse thoroughly."
+  },
+  {
+    "product_Id": 3,
+    "product_Name": "Biomaya",
+    "product_Image": "https://i.ibb.co/F34h994/biomaya.jpg",
+    "product_Type": "Exfoliating",
+    "product_Description": "Biomaya is an exfoliating face wash with natural extracts, promoting smooth and radiant skin.",
+    "product_Ingredients": "Bamboo Particles, Papaya Enzymes, Green Tea Extract",
+    "how_To_Use": "Massage onto wet face, focusing on areas with impurities. Rinse off with water."
+  },
+  {
+    "product_Id": 4,
+    "product_Name": "Eurcein",
+    "product_Image": "https://i.ibb.co/M7GsrXY/eurcein.jpg",
+    "product_Type": "Hydrating",
+    "product_Description": "Eurcein is a hydrating face wash that cleanses and nourishes, leaving the skin soft and supple.",
+    "product_Ingredients": "Hyaluronic Acid, Panthenol, Glycerin",
+    "how_To_Use": "Apply to damp face, lather, and massage gently. Rinse off with water."
+  },
+  {
+    "product_Id": 5,
+    "product_Name": "Sinoz",
+    "product_Image": "https://i.ibb.co/Lr1dZqy/sinoz.jpg",
+    "product_Type": "Brightening",
+    "product_Description": "Sinoz is a brightening face wash that helps to achieve a radiant and even skin tone.",
+    "product_Ingredients": "Vitamin C, Niacinamide, Licorice Extract",
+    "how_To_Use": "Wet face, apply a small amount, and massage gently. Rinse thoroughly."
+  },
+  {
+    "product_Id": 6,
+    "product_Name": "Cereve",
+    "product_Image": "https://i.ibb.co/YpHRFh5/cereve.jpg",
+    "product_Type": "Hydrating Cleanser",
+    "product_Description": "Cereve is a hydrating cleanser that effectively removes impurities without compromising the skin's natural barrier.",
+    "product_Ingredients": "Ceramides, Hyaluronic Acid, Glycerin",
+    "how_To_Use": "Apply to wet face, lather, and cleanse. Rinse off with water."
+  }
+]

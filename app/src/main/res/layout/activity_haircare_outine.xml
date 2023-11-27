@@ -1,0 +1,170 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+
+<ScrollView
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:scrollbars="vertical"
+    android:background="#EBCFD4DA"
+
+
+    android:layout_width="match_parent"
+
+    android:layout_height="match_parent"
+    android:fillViewport="false">
+<LinearLayout
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    tools:context=".haircare_outine">
+    <ImageView
+        android:layout_width="500dp"
+        android:layout_height="300dp"
+        android:src="@drawable/poo"
+        android:layout_marginRight="50dp"
+        android:paddingRight="70dp"
+        android:layout_marginTop="30dp"
+        />
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginLeft="80dp"
+        android:layout_marginTop="5dp"
+
+        android:fontFamily="@font/ananda"
+        android:text="Haircare Routine:"
+        android:textColor="#A812C1"
+        android:textSize="30sp"
+
+
+
+        />
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginLeft="48dp"
+        android:layout_marginTop="5dp"
+
+
+        android:text="How to care your hair in a week??"
+        android:textColor="#170601"
+        android:textSize="22sp"
+
+
+
+        />
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginLeft="30dp"
+        android:layout_marginTop="25dp"
+
+
+        android:text="Weekly hair care routine for your best hair yet"
+        android:textColor="#9A462D"
+        android:textSize="17sp"
+
+
+
+        />
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginLeft="30dp"
+        android:layout_marginTop="5dp"
+
+
+        android:text="1.Sunday:Detangle/prepoo"
+        android:textColor="#170601"
+        android:textSize="16sp"
+
+
+
+        />
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginLeft="30dp"
+        android:layout_marginTop="5dp"
+
+
+        android:text="2.Monday:Shampoo and condition and serum"
+        android:textColor="#170601"
+        android:textSize="16sp"
+
+
+
+        />
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginLeft="30dp"
+        android:layout_marginTop="5dp"
+
+
+        android:text="3.Tuesday:Any hair style you can do"
+        android:textColor="#170601"
+        android:textSize="16sp"
+
+
+
+        />
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginLeft="30dp"
+        android:layout_marginTop="5dp"
+
+
+        android:text="4.Wednesday:Hot oil massage"
+        android:textColor="#170601"
+        android:textSize="16sp"
+
+
+
+        />
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginLeft="30dp"
+        android:layout_marginTop="5dp"
+
+
+        android:text="5.Thrusday:Shampoo and condition"
+        android:textColor="#170601"
+        android:textSize="16sp"
+
+
+
+        />
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginLeft="30dp"
+        android:layout_marginTop="5dp"
+
+
+        android:text="6.Friday:Any Hair style you can do"
+        android:textColor="#170601"
+        android:textSize="16sp"
+
+
+
+        />
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginLeft="30dp"
+        android:layout_marginTop="5dp"
+
+
+        android:text="7.Saturday:Deep condition/Use hair pack"
+        android:textColor="#170601"
+        android:textSize="16sp"
+
+
+
+        />
+</LinearLayout>
+</ScrollView>

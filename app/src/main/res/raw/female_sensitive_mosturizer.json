@@ -1,0 +1,56 @@
+[
+  {
+    "product_Id": 1,
+    "product_Name": "Laroche 45",
+    "product_Image": "https://i.ibb.co/gMzcGnF/laroche-45.jpg",
+    "product_Type": "Anti-Aging Cleanser",
+    "product_Description": "Laroche 45 is an anti-aging face wash that helps reduce the appearance of fine lines and wrinkles, leaving the skin looking youthful.",
+    "product_Ingredients": "Retinol, Vitamin E, Hyaluronic Acid",
+    "how_To_Use": "Apply to wet face, lather, and massage gently. Rinse thoroughly with water."
+  },
+  {
+    "product_Id": 2,
+    "product_Name": "Neutrogena",
+    "product_Image": "https://i.ibb.co/MBymNS6/neutrogena.jpg",
+    "product_Type": "Oil-Free Cleanser",
+    "product_Description": "Neutrogena is an oil-free face wash that effectively cleanses without over-drying, suitable for daily use.",
+    "product_Ingredients": "Salicylic Acid, Cucumber Extract, Glycerin",
+    "how_To_Use": "Wet face, apply a small amount, and massage gently. Rinse thoroughly with water."
+  },
+  {
+    "product_Id": 3,
+    "product_Name": "Acne VE",
+    "product_Image": "https://i.ibb.co/BTSTGZC/acne-ve.jpg",
+    "product_Type": "Acne-Fighting Cleanser",
+    "product_Description": "Acne VE is a specialized face wash for acne-prone skin, helping to control breakouts and promote clear skin.",
+    "product_Ingredients": "Benzoyl Peroxide, Tea Tree Oil, Vitamin E",
+    "how_To_Use": "Apply to wet face, lather, and massage in circular motions. Rinse thoroughly with water."
+  },
+  {
+    "product_Id": 4,
+    "product_Name": "Lactro",
+    "product_Image": "https://i.ibb.co/gZKR2r1/lactro.jpg",
+    "product_Type": "Gentle Cleanser",
+    "product_Description": "Lactro is a gentle face wash suitable for daily use, providing a mild and effective cleanse for the skin.",
+    "product_Ingredients": "Milk Protein, Chamomile Extract, Aloe Vera",
+    "how_To_Use": "Wet face, apply a small amount, and massage gently. Rinse thoroughly with water."
+  },
+  {
+    "product_Id": 5,
+    "product_Name": "Unicskin",
+    "product_Image": "https://i.ibb.co/sRBg8cP/unicskin.jpg",
+    "product_Type": "Brightening Cleanser",
+    "product_Description": "Unicskin is a brightening face wash that promotes a radiant and even skin tone, leaving the skin refreshed.",
+    "product_Ingredients": "Vitamin C, Licorice Extract, Mulberry Extract",
+    "how_To_Use": "Apply to wet face, lather, and massage in circular motions. Rinse thoroughly with water."
+  },
+  {
+    "product_Id": 6,
+    "product_Name": "Simple CF",
+    "product_Image": "https://i.ibb.co/ryxPpDN/simple-cf.jpg",
+    "product_Type": "Clarifying Cleanser",
+    "product_Description": "Simple CF is a clarifying face wash that helps control excess oil and promotes a clear complexion without over-drying.",
+    "product_Ingredients": "Charcoal, Green Tea Extract, Witch Hazel",
+    "how_To_Use": "Apply to wet face, lather, and massage gently. Rinse thoroughly with water."
+  }
+]

@@ -1,0 +1,382 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:orientation="vertical"
+    android:layout_height="match_parent"
+    tools:context=".serum_hair">
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginLeft="160dp"
+        android:layout_marginTop="55dp"
+
+
+        android:text="Hair Serum"
+        android:textColor="#290D05"
+        android:textSize="20sp"
+
+
+
+        />
+
+
+    <LinearLayout
+        android:layout_marginTop="90dp"
+        android:layout_width="386dp"
+        android:background="@color/white"
+        android:layout_marginLeft="43dp"
+        android:layout_marginRight="13dp"
+
+        android:layout_height="90dp"
+        android:orientation="horizontal">
+
+
+        <LinearLayout
+            android:layout_marginTop="3dp"
+            android:layout_width="106dp"
+            android:background="@color/white"
+            android:layout_marginLeft="3dp"
+            android:layout_marginRight="3dp"
+
+            android:layout_height="160dp"
+            android:orientation="vertical">
+
+            <ImageView
+                android:layout_width="85dp"
+                android:layout_height="65dp"
+                android:layout_marginTop="4dp"
+
+
+
+                android:src="@drawable/serum1" />
+            <TextView
+                android:layout_width="160dp"
+                android:layout_height="30dp"
+
+
+                android:layout_marginLeft="25dp"
+
+                android:text="Sterex"
+                android:textColor="#202022"
+                android:textSize="12sp"
+
+
+
+                />
+        </LinearLayout>
+        <LinearLayout
+            android:layout_marginTop="3dp"
+            android:layout_width="106dp"
+            android:background="@color/white"
+            android:layout_marginLeft="3dp"
+            android:layout_marginRight="3dp"
+
+            android:layout_height="160dp"
+            android:orientation="vertical">
+
+            <ImageView
+                android:layout_width="85dp"
+                android:layout_height="55dp"
+                android:layout_marginTop="4dp"
+
+
+
+                android:src="@drawable/ser2" />
+            <TextView
+                android:layout_width="160dp"
+                android:layout_height="30dp"
+
+
+                android:layout_marginLeft="25dp"
+
+                android:text="Vatika"
+                android:textColor="#151515"
+                android:textSize="12sp"
+
+
+
+                />
+        </LinearLayout>
+
+
+        <LinearLayout
+            android:layout_marginTop="3dp"
+            android:layout_width="176dp"
+            android:background="@color/white"
+            android:layout_marginLeft="3dp"
+            android:layout_marginRight="3dp"
+
+            android:layout_height="160dp"
+            android:orientation="vertical">
+
+            <ImageView
+                android:layout_width="85dp"
+                android:layout_height="55dp"
+                android:layout_marginTop="4dp"
+
+
+
+                android:src="@drawable/ser3" />
+            <TextView
+                android:layout_width="160dp"
+                android:layout_height="30dp"
+
+
+                android:layout_marginLeft="25dp"
+
+                android:text="Maya"
+                android:textColor="#121313"
+                android:textSize="12sp"
+
+
+
+                />
+        </LinearLayout>
+
+
+
+
+
+
+    </LinearLayout>
+
+
+    <LinearLayout
+        android:layout_marginTop="30dp"
+        android:layout_width="386dp"
+        android:background="@color/white"
+        android:layout_marginLeft="33dp"
+        android:layout_marginRight="13dp"
+
+        android:layout_height="90dp"
+        android:orientation="horizontal">
+
+
+
+        <LinearLayout
+            android:layout_marginTop="3dp"
+            android:layout_width="106dp"
+            android:background="@color/white"
+            android:layout_marginLeft="13dp"
+            android:layout_marginRight="3dp"
+
+            android:layout_height="160dp"
+            android:orientation="vertical">
+
+            <ImageView
+                android:layout_width="85dp"
+                android:layout_height="55dp"
+                android:layout_marginTop="4dp"
+
+
+
+                android:src="@drawable/ser4" />
+
+            <TextView
+                android:layout_width="160dp"
+                android:layout_height="30dp"
+
+
+                android:layout_marginLeft="35dp"
+
+                android:text="Emami"
+                android:textColor="#181819"
+                android:textSize="12sp"
+
+
+
+                />
+        </LinearLayout>
+
+        <LinearLayout
+            android:layout_width="106dp"
+            android:layout_height="159dp"
+            android:layout_marginLeft="3dp"
+            android:layout_marginTop="3dp"
+            android:layout_marginRight="3dp"
+
+            android:background="@color/white"
+            android:orientation="vertical">
+
+            <ImageView
+                android:layout_width="85dp"
+                android:layout_height="55dp"
+                android:layout_marginTop="4dp"
+
+
+                android:src="@drawable/serum4" />
+
+            <TextView
+                android:layout_width="160dp"
+                android:layout_height="30dp"
+
+
+                android:layout_marginLeft="25dp"
+
+                android:text="Lafz SF"
+                android:textColor="#131313"
+                android:textSize="12sp"
+
+
+                />
+        </LinearLayout>
+
+
+        <LinearLayout
+            android:layout_marginTop="3dp"
+            android:layout_width="176dp"
+            android:background="@color/white"
+            android:layout_marginLeft="3dp"
+            android:layout_marginRight="3dp"
+
+            android:layout_height="160dp"
+            android:orientation="vertical">
+
+            <ImageView
+                android:layout_width="85dp"
+                android:layout_height="55dp"
+                android:layout_marginTop="4dp"
+
+
+
+                android:src="@drawable/ser5" />
+            <TextView
+                android:layout_width="160dp"
+                android:layout_height="30dp"
+
+
+                android:layout_marginLeft="28dp"
+
+                android:text="Livon"
+                android:textColor="#151515"
+                android:textSize="12sp"
+
+
+
+                />
+        </LinearLayout>
+
+
+
+
+
+
+    </LinearLayout>
+    <LinearLayout
+        android:layout_marginTop="30dp"
+        android:layout_width="386dp"
+        android:background="@color/white"
+        android:layout_marginLeft="43dp"
+        android:layout_marginRight="13dp"
+
+        android:layout_height="90dp"
+        android:orientation="horizontal">
+
+
+        <LinearLayout
+            android:layout_marginTop="3dp"
+            android:layout_width="106dp"
+            android:background="@color/white"
+            android:layout_marginLeft="13dp"
+            android:layout_marginRight="3dp"
+
+            android:layout_height="160dp"
+            android:orientation="vertical">
+
+            <ImageView
+                android:layout_width="85dp"
+                android:layout_height="55dp"
+                android:layout_marginTop="4dp"
+
+
+
+                android:src="@drawable/sham99" />
+            <TextView
+                android:layout_width="160dp"
+                android:layout_height="30dp"
+
+
+                android:layout_marginLeft="19dp"
+
+                android:text="Pure Glory"
+                android:textColor="#202022"
+                android:textSize="12sp"
+
+
+
+                />
+        </LinearLayout>
+        <LinearLayout
+            android:layout_marginTop="3dp"
+            android:layout_width="106dp"
+            android:background="@color/white"
+            android:layout_marginLeft="3dp"
+            android:layout_marginRight="3dp"
+
+            android:layout_height="160dp"
+            android:orientation="vertical">
+
+            <ImageView
+                android:layout_width="85dp"
+                android:layout_height="55dp"
+                android:layout_marginTop="4dp"
+
+
+
+                android:src="@drawable/ser7" />
+            <TextView
+                android:layout_width="160dp"
+                android:layout_height="30dp"
+
+
+                android:layout_marginLeft="21dp"
+
+                android:text="Gosh Serum"
+                android:textColor="#1A1A1B"
+                android:textSize="12sp"
+
+
+
+                />
+        </LinearLayout>
+        <LinearLayout
+            android:layout_marginTop="3dp"
+            android:layout_width="106dp"
+            android:background="@color/white"
+            android:layout_marginLeft="3dp"
+            android:layout_marginRight="3dp"
+
+            android:layout_height="160dp"
+            android:orientation="vertical">
+
+            <ImageView
+                android:layout_width="85dp"
+                android:layout_height="55dp"
+                android:layout_marginTop="4dp"
+
+
+
+                android:src="@drawable/ser9" />
+            <TextView
+                android:layout_width="160dp"
+                android:layout_height="30dp"
+
+
+                android:layout_marginLeft="25dp"
+
+                android:text="Almond oil"
+                android:textColor="#0E0E0E"
+                android:textSize="12sp"
+
+
+
+                />
+
+
+        </LinearLayout>
+
+</LinearLayout>
+</LinearLayout>

@@ -1,0 +1,56 @@
+[
+  {
+    "product_Id": 1,
+    "product_Name": "Clinwue Refreshing",
+    "product_Image": "https://ibb.co/RBwSqrc",
+    "product_Type": "Facewash",
+    "product_Description": "A refreshing facewash for a rejuvenating experience.",
+    "product_Ingredients": "Water, Glycerin, Aloe Vera Extract, Citric Acid, etc.",
+    "how_To_Use": "Apply a small amount on wet face, massage gently, and rinse thoroughly."
+  },
+  {
+    "product_Id": 2,
+    "product_Name": "Cerabhi",
+    "product_Image": "https://ibb.co/dJhdwMD",
+    "product_Type": "Facewash",
+    "product_Description": "Cerabhi facewash for gentle cleansing and moisturizing.",
+    "product_Ingredients": "Ceramides, Hyaluronic Acid, Water, Coco-Glucoside, etc.",
+    "how_To_Use": "Wet face, apply the facewash, massage, and rinse off with water."
+  },
+  {
+    "product_Id": 3,
+    "product_Name": "Nivea Men",
+    "product_Image": "https://ibb.co/rH8gdwd",
+    "product_Type": "Facewash",
+    "product_Description": "Nivea Men facewash for effective cleansing and freshness.",
+    "product_Ingredients": "Menthol, Pro-Vitamin B5, Water, Sodium Laureth Sulfate, etc.",
+    "how_To_Use": "Use daily for best results. Wet face, apply, and rinse off."
+  },
+  {
+    "product_Id": 4,
+    "product_Name": "Hamayan",
+    "product_Image": "https://ibb.co/gRgcGr0",
+    "product_Type": "Facewash",
+    "product_Description": "Hamayan facewash for a natural and soothing cleanse.",
+    "product_Ingredients": "Chamomile Extract, Green Tea Extract, Water, Cocamidopropyl Betaine, etc.",
+    "how_To_Use": "Gently massage on damp face, avoiding the eye area. Rinse thoroughly."
+  },
+  {
+    "product_Id": 5,
+    "product_Name": "Vaseline",
+    "product_Image": "https://ibb.co/4MzjHGW",
+    "product_Type": "Facewash",
+    "product_Description": "Vaseline facewash for deep cleaning and hydration.",
+    "product_Ingredients": "Petroleum Jelly, Glycerin, Water, Sodium Lauroyl Isethionate, etc.",
+    "how_To_Use": "Apply on wet face, lather, and rinse off for soft and smooth skin."
+  },
+  {
+    "product_Id": 6,
+    "product_Name": "Pure Brown",
+    "product_Image": "https://ibb.co/0nNZtY3",
+    "product_Type": "Facewash",
+    "product_Description": "Pure Brown facewash for a luxurious and revitalizing experience.",
+    "product_Ingredients": "Brown Sugar, Honey, Coconut Oil, Lavender Extract, etc.",
+    "how_To_Use": "Gently massage on damp face, rinse thoroughly for a radiant complexion."
+  }
+]

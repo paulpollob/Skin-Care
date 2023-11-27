@@ -1,0 +1,56 @@
+[
+  {
+    "product_Id": 1,
+    "product_Name": "Lafz 6F+",
+    "product_Image": "https://i.ibb.co/DVFLrC6/lafz-6f.jpg",
+    "product_Type": "Hydrating Cleanser",
+    "product_Description": "Lafz 6F+ is a hydrating face wash that replenishes moisture and leaves the skin feeling refreshed and nourished.",
+    "product_Ingredients": "Hyaluronic Acid, Aloe Vera Extract, Vitamin C",
+    "how_To_Use": "Wet face, apply a small amount, and massage in circular motions. Rinse thoroughly with water."
+  },
+  {
+    "product_Id": 2,
+    "product_Name": "CWERHJ",
+    "product_Image": "https://i.ibb.co/GHTyHzc/cwerhj.jpg",
+    "product_Type": "Clarifying Cleanser",
+    "product_Description": "CWERHJ is a clarifying face wash that helps balance oil production and promote a clear complexion, suitable for daily use.",
+    "product_Ingredients": "Salicylic Acid, Tea Tree Oil, Witch Hazel",
+    "how_To_Use": "Apply to wet face, lather, and massage gently. Rinse thoroughly with water."
+  },
+  {
+    "product_Id": 3,
+    "product_Name": "Nivea Men",
+    "product_Image": "https://i.ibb.co/C1f2n8K/nivea-men.jpg",
+    "product_Type": "Refreshing Cleanser",
+    "product_Description": "Nivea Men is a refreshing face wash that invigorates the skin, providing a burst of energy and a revitalized feeling.",
+    "product_Ingredients": "Menthol, Vitamin E, Cucumber Extract",
+    "how_To_Use": "Wet face, apply a small amount, and massage in circular motions. Rinse thoroughly with water."
+  },
+  {
+    "product_Id": 4,
+    "product_Name": "Neutrozena",
+    "product_Image": "https://i.ibb.co/fXpr89W/neutrozena.jpg",
+    "product_Type": "Exfoliating Cleanser",
+    "product_Description": "Neutrozena is an exfoliating face wash that helps remove dead skin cells, promoting a smoother and more radiant complexion.",
+    "product_Ingredients": "Glycolic Acid, Jojoba Beads, Green Tea Extract",
+    "how_To_Use": "Apply to wet face, gently exfoliate in circular motions, and rinse thoroughly with water."
+  },
+  {
+    "product_Id": 5,
+    "product_Name": "Neutrogena",
+    "product_Image": "https://i.ibb.co/d6gHR4w/neutrogena.jpg",
+    "product_Type": "Balancing Cleanser",
+    "product_Description": "Neutrogena is a balancing face wash that helps maintain the skin's natural balance, leaving it feeling clean and refreshed.",
+    "product_Ingredients": "Hyaluronic Acid, Chamomile Extract, Aloe Vera Gel",
+    "how_To_Use": "Wet face, apply a small amount, and massage in circular motions. Rinse thoroughly with water."
+  },
+  {
+    "product_Id": 6,
+    "product_Name": "Pure Loc",
+    "product_Image": "https://i.ibb.co/Kmwd30G/pure-loc.jpg",
+    "product_Type": "Soothing Cleanser",
+    "product_Description": "Pure Loc is a soothing face wash that calms and comforts the skin, ideal for sensitive skin types.",
+    "product_Ingredients": "Calendula Extract, Lavender Oil, Chamomile Extract",
+    "how_To_Use": "Apply to wet face, lather, and massage gently. Rinse thoroughly with water."
+  }
+]

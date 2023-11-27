@@ -1,0 +1,240 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<ScrollView
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:scrollbars="vertical"
+    android:background="#EB254F78"
+
+
+    android:layout_width="match_parent"
+
+    android:layout_height="wrap_content"
+    android:fillViewport="false">
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:orientation="vertical"
+        android:background="#D7E1E1D7">
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginLeft="70dp"
+            android:layout_marginTop="5dp"
+
+            android:fontFamily="@font/ananda"
+            android:text="Common Skin Problems"
+            android:textColor="#303F9F"
+            android:textSize="27sp"
+
+
+
+            />
+
+
+
+        <LinearLayout
+            android:layout_marginTop="30dp"
+            android:layout_width="386dp"
+            android:background="#EBD1DCE6"
+            android:layout_marginLeft="13dp"
+            android:layout_marginRight="13dp"
+
+            android:layout_height="90dp"
+            android:orientation="horizontal">
+            <ImageView
+                android:layout_width="165dp"
+                android:layout_height="95dp"
+                android:layout_marginTop="4dp"
+
+                android:layout_marginBottom="5dp"
+
+                android:src="@drawable/face" />
+
+            <TextView
+
+                android:layout_width="230dp"
+                android:layout_height="match_parent"
+                android:layout_marginLeft="3dp"
+                android:layout_marginTop="10dp"
+                android:layout_marginBottom="10dp"
+                android:text="Acne is a skin condition characterized by the formation of pimples, blackheads, whiteheads, and sometimes cysts or nodules. It often occurs during adolescence but can affect people of all ages."
+                android:textColor="#4F578C"
+                android:textSize="15sp"
+                android:textStyle="bold" />
+
+            <ImageView
+                android:layout_width="165dp"
+                android:layout_height="95dp"
+                android:layout_marginTop="4dp"
+
+                android:layout_marginBottom="5dp"
+
+                android:src="@drawable/cetaphill" />
+        </LinearLayout>
+
+        <LinearLayout
+            android:layout_marginTop="30dp"
+            android:layout_width="386dp"
+            android:background="#EBD1DCE6"
+            android:layout_marginLeft="13dp"
+            android:layout_marginRight="13dp"
+
+            android:layout_height="90dp"
+            android:orientation="horizontal">
+            <ImageView
+                android:layout_width="165dp"
+                android:layout_height="85dp"
+                android:layout_marginTop="4dp"
+
+                android:layout_marginBottom="5dp"
+
+                android:src="@drawable/one" />
+
+            <TextView
+
+                android:layout_width="230dp"
+                android:layout_height="match_parent"
+                android:layout_marginLeft="3dp"
+                android:layout_marginTop="30dp"
+                android:layout_marginBottom="10dp"
+                android:text="Eczema is a chronic condition that causes the skin to become inflamed, itchy, and red. It can lead to dry, scaly patches and is often triggered by allergies or irritants."
+                android:textColor="#4F578C"
+                android:textSize="15sp"
+                android:textStyle="bold" />
+
+
+        </LinearLayout>
+        <LinearLayout
+            android:layout_marginTop="30dp"
+            android:layout_width="386dp"
+            android:background="#EBD1DCE6"
+            android:layout_marginLeft="13dp"
+            android:layout_marginRight="13dp"
+
+            android:layout_height="90dp"
+            android:orientation="horizontal">
+            <ImageView
+                android:layout_width="165dp"
+                android:layout_height="85dp"
+                android:layout_marginTop="4dp"
+
+                android:layout_marginBottom="5dp"
+
+                android:src="@drawable/two" />
+
+            <TextView
+
+                android:layout_width="230dp"
+                android:layout_height="match_parent"
+                android:layout_marginLeft="3dp"
+                android:layout_marginTop="30dp"
+                android:layout_marginBottom="10dp"
+                android:text="Contact dermatitis is an allergic reaction or irritation of the skin caused by contact with specific substances, such as poison ivy, certain cosmetics, or chemicals"
+                android:textColor="#4F578C"
+                android:textSize="15sp"
+                android:textStyle="bold" />
+
+
+        </LinearLayout>
+        <LinearLayout
+            android:layout_marginTop="30dp"
+            android:layout_width="386dp"
+            android:background="#EBD1DCE6"
+            android:layout_marginLeft="13dp"
+            android:layout_marginRight="13dp"
+
+            android:layout_height="90dp"
+            android:orientation="horizontal">
+            <ImageView
+                android:layout_width="165dp"
+                android:layout_height="85dp"
+                android:layout_marginTop="4dp"
+
+                android:layout_marginBottom="5dp"
+
+                android:src="@drawable/three" />
+
+            <TextView
+
+                android:layout_width="230dp"
+                android:layout_height="match_parent"
+                android:layout_marginLeft="3dp"
+                android:layout_marginTop="30dp"
+                android:layout_marginBottom="10dp"
+                android:text="Common fungal skin infections include athlete's foot (tinea pedis), jock itch (tinea cruris), and ringworm (tinea corporis). These infections can cause itching, redness, and scaling."
+                android:textColor="#4F578C"
+                android:textSize="15sp"
+                android:textStyle="bold" />
+
+
+        </LinearLayout>
+        <LinearLayout
+            android:layout_marginTop="30dp"
+            android:layout_width="386dp"
+            android:background="#EBD1DCE6"
+            android:layout_marginLeft="13dp"
+            android:layout_marginRight="13dp"
+
+            android:layout_height="90dp"
+            android:orientation="horizontal">
+            <ImageView
+                android:layout_width="165dp"
+                android:layout_height="85dp"
+                android:layout_marginTop="4dp"
+
+                android:layout_marginBottom="5dp"
+
+                android:src="@drawable/twoo" />
+
+            <TextView
+
+                android:layout_width="230dp"
+                android:layout_height="match_parent"
+                android:layout_marginLeft="3dp"
+                android:layout_marginTop="30dp"
+                android:layout_marginBottom="10dp"
+                android:text="Allergic reactions to foods, medications, insect bites, or other allergens can result in hives, itching, redness, or rashes on the skin."
+                android:textColor="#4F578C"
+                android:textSize="15sp"
+                android:textStyle="bold" />
+
+
+        </LinearLayout>
+        <LinearLayout
+            android:layout_marginTop="30dp"
+            android:layout_width="386dp"
+            android:background="#EBD1DCE6"
+            android:layout_marginLeft="13dp"
+            android:layout_marginRight="13dp"
+
+            android:layout_height="90dp"
+            android:orientation="horizontal">
+            <ImageView
+                android:layout_width="165dp"
+                android:layout_height="85dp"
+                android:layout_marginTop="4dp"
+
+                android:layout_marginBottom="5dp"
+
+                android:src="@drawable/ring" />
+
+            <TextView
+
+                android:layout_width="230dp"
+                android:layout_height="match_parent"
+                android:layout_marginLeft="3dp"
+                android:layout_marginTop="30dp"
+                android:layout_marginBottom="10dp"
+                android:text="old sores are caused by the herpes simplex virus and typically appear as painful, fluid-filled blisters on or around the lips."
+                android:textColor="#4F578C"
+                android:textSize="15sp"
+                android:textStyle="bold" />
+
+
+        </LinearLayout>
+
+    </LinearLayout>
+</ScrollView>

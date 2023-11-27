@@ -1,0 +1,56 @@
+[
+  {
+    "product_Id": 1,
+    "product_Name": "Bull DOG Refresh",
+    "product_Image": "https://ibb.co/XJVHRzb",
+    "product_Type": "Facewash",
+    "product_Description": "Bull DOG Refresh facewash for a revitalizing and energizing skincare experience.",
+    "product_Ingredients": "Aqua, Sodium Laureth Sulfate, Glycerin, Cocamidopropyl Betaine, etc.",
+    "how_To_Use": "Apply on wet face, lather, and rinse off for a refreshed and clean feel."
+  },
+  {
+    "product_Id": 2,
+    "product_Name": "Loreal SF",
+    "product_Image": "https://ibb.co/d6gHR4w",
+    "product_Type": "Facewash",
+    "product_Description": "Loreal SF facewash for a smooth and radiant complexion.",
+    "product_Ingredients": "Salicylic Acid, Water, Cocamidopropyl Betaine, Glycol Distearate, etc.",
+    "how_To_Use": "Gently massage onto wet face, rinse thoroughly for a refreshed look."
+  },
+  {
+    "product_Id": 3,
+    "product_Name": "Suave 20F",
+    "product_Image": "https://ibb.co/g3z3K4r",
+    "product_Type": "Facewash",
+    "product_Description": "Suave 20F facewash for a gentle and nourishing skincare routine.",
+    "product_Ingredients": "Aloe Vera Extract, Chamomile, Water, Sodium Cocoyl Isethionate, etc.",
+    "how_To_Use": "Apply on damp face, lather, and rinse off for a clean and soft complexion."
+  },
+  {
+    "product_Id": 4,
+    "product_Name": "Essano",
+    "product_Image": "https://ibb.co/sPXkzfq",
+    "product_Type": "Facewash",
+    "product_Description": "Essano facewash for a natural and organic skincare experience.",
+    "product_Ingredients": "Rosehip Oil, Aloe Vera, Water, Sodium Cocoyl Isethionate, etc.",
+    "how_To_Use": "Wet face, apply the facewash, massage, and rinse off for a refreshed feel."
+  },
+  {
+    "product_Id": 5,
+    "product_Name": "Cetaphill",
+    "product_Image": "https://ibb.co/h9nzHTg",
+    "product_Type": "Facewash",
+    "product_Description": "Cetaphill facewash for gentle and effective skincare suitable for all skin types.",
+    "product_Ingredients": "Glycerin, Water, Cetyl Alcohol, Propylene Glycol, etc.",
+    "how_To_Use": "Apply on wet face, lather, and rinse off for a clean and balanced complexion."
+  },
+  {
+    "product_Id": 6,
+    "product_Name": "Garniar Men",
+    "product_Image": "https://ibb.co/TP3bNXq",
+    "product_Type": "Facewash",
+    "product_Description": "Garniar Men facewash for an invigorating and hydrating skincare routine.",
+    "product_Ingredients": "Charcoal, Menthol, Water, Sodium Laureth Sulfate, etc.",
+    "how_To_Use": "Gently massage onto wet face, rinse thoroughly for a cool and refreshed look."
+  }
+]

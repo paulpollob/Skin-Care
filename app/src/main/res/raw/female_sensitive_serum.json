@@ -1,0 +1,56 @@
+[
+  {
+    "product_Id": 1,
+    "product_Name": "Wow Vitamin C",
+    "product_Image": "https://i.ibb.co/dPYRkJs/wow-vitamin-c.jpg",
+    "product_Type": "Brightening Cleanser",
+    "product_Description": "Wow Vitamin C is a brightening face wash that rejuvenates and brightens the skin, leaving it with a radiant and healthy glow.",
+    "product_Ingredients": "Vitamin C, Aloe Vera, Green Tea Extract",
+    "how_To_Use": "Apply to wet face, lather, and massage gently. Rinse thoroughly with water."
+  },
+  {
+    "product_Id": 2,
+    "product_Name": "Murad CF",
+    "product_Image": "https://i.ibb.co/rvYdRD1/murad-cf.jpg",
+    "product_Type": "Clarifying Cleanser",
+    "product_Description": "Murad CF is a clarifying face wash that helps control acne and breakouts, promoting clear and blemish-free skin.",
+    "product_Ingredients": "Salicylic Acid, Chamomile Extract, Menthol",
+    "how_To_Use": "Wet face, apply a small amount, and massage in circular motions. Rinse thoroughly with water."
+  },
+  {
+    "product_Id": 3,
+    "product_Name": "Minimilast",
+    "product_Image": "https://i.ibb.co/47QF9Jg/minimalist.jpg",
+    "product_Type": "Gentle Cleanser",
+    "product_Description": "Minimilast is a gentle face wash that cleanses without stripping the skin's natural oils, suitable for daily use.",
+    "product_Ingredients": "Hyaluronic Acid, Chamomile Extract, Coconut Oil",
+    "how_To_Use": "Apply to wet face, lather, and massage gently. Rinse thoroughly with water."
+  },
+  {
+    "product_Id": 4,
+    "product_Name": "Lafz",
+    "product_Image": "https://i.ibb.co/PWMPWTY/lafz.jpg",
+    "product_Type": "Soothing Cleanser",
+    "product_Description": "Lafz is a soothing face wash that calms and hydrates the skin, providing a gentle and relaxing cleansing experience.",
+    "product_Ingredients": "Aloe Vera, Lavender Extract, Calendula",
+    "how_To_Use": "Apply to wet face, lather, and massage gently. Rinse thoroughly with water."
+  },
+  {
+    "product_Id": 5,
+    "product_Name": "Night Brezze",
+    "product_Image": "https://i.ibb.co/10JtHfz/night-brezze.jpg",
+    "product_Type": "Nourishing Cleanser",
+    "product_Description": "Night Brezze is a nourishing face wash that replenishes moisture and nutrients while cleansing, perfect for nighttime skincare.",
+    "product_Ingredients": "Shea Butter, Almond Oil, Vitamin E",
+    "how_To_Use": "Wet face, apply a small amount, and massage in circular motions. Rinse thoroughly with water."
+  },
+  {
+    "product_Id": 6,
+    "product_Name": "Biore",
+    "product_Image": "https://i.ibb.co/Phg0JMF/biore.jpg",
+    "product_Type": "Pore-Perfecting Cleanser",
+    "product_Description": "Biore is a pore-perfecting face wash that helps minimize pores and control excess oil, leaving the skin looking smooth and clear.",
+    "product_Ingredients": "Charcoal, Witch Hazel, Salicylic Acid",
+    "how_To_Use": "Apply to wet face, lather, and massage gently. Rinse thoroughly with water."
+  }
+]

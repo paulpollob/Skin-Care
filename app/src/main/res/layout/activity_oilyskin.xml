@@ -1,0 +1,260 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    tools:context=".oilyskin">
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginLeft="98dp"
+        android:layout_marginTop="35dp"
+
+        android:fontFamily="@font/ananda"
+        android:text="Oily Skin Products"
+        android:textColor="#303F9F"
+        android:textSize="27sp"
+
+
+
+        />
+
+
+    <LinearLayout
+        android:layout_marginTop="60dp"
+        android:layout_width="386dp"
+        android:background="@color/white"
+        android:layout_marginLeft="33dp"
+        android:layout_marginRight="13dp"
+        android:layout_marginBottom="35dp"
+
+        android:layout_height="180dp"
+        android:orientation="horizontal">
+
+
+        <LinearLayout
+            android:layout_marginTop="3dp"
+            android:layout_width="126dp"
+            android:background="@color/white"
+            android:layout_marginLeft="3dp"
+            android:layout_marginRight="3dp"
+
+            android:layout_height="170dp"
+            android:orientation="vertical">
+
+            <ImageView
+                android:layout_width="85dp"
+                android:layout_height="145dp"
+                android:layout_marginTop="4dp"
+
+
+                android:src="@drawable/oilyf1" />
+            <TextView
+                android:layout_width="160dp"
+                android:layout_height="30dp"
+
+
+                android:layout_marginLeft="11dp"
+
+                android:text="Clean And Clear"
+                android:textColor="#303F9F"
+                android:textSize="15sp"
+
+
+
+                />
+        </LinearLayout>
+
+
+        <LinearLayout
+            android:layout_marginTop="3dp"
+            android:layout_width="106dp"
+            android:background="@color/white"
+            android:layout_marginLeft="3dp"
+            android:layout_marginRight="3dp"
+
+            android:layout_height="170dp"
+            android:orientation="vertical">
+
+            <ImageView
+                android:layout_width="85dp"
+                android:layout_height="145dp"
+                android:layout_marginTop="4dp"
+
+
+                android:src="@drawable/oilss1" />
+            <TextView
+                android:layout_width="160dp"
+                android:layout_height="30dp"
+
+
+                android:layout_marginLeft="15dp"
+
+                android:text="Sunscream"
+                android:textColor="#303F9F"
+                android:textSize="15sp"
+
+
+
+                />
+        </LinearLayout>
+
+
+        <LinearLayout
+            android:layout_marginTop="3dp"
+            android:layout_width="106dp"
+            android:background="@color/white"
+            android:layout_marginLeft="3dp"
+            android:layout_marginRight="3dp"
+
+            android:layout_height="170dp"
+            android:orientation="vertical">
+
+            <ImageView
+                android:layout_width="85dp"
+                android:layout_height="145dp"
+                android:layout_marginTop="4dp"
+
+
+                android:src="@drawable/oilyf3" />
+            <TextView
+                android:layout_width="160dp"
+                android:layout_height="30dp"
+
+
+                android:layout_marginLeft="15dp"
+
+                android:text="Oil Controller"
+                android:textColor="#303F9F"
+                android:textSize="15sp"
+
+
+
+                />
+        </LinearLayout>
+
+
+
+
+
+    </LinearLayout>
+
+    <LinearLayout
+        android:layout_marginTop="60dp"
+        android:layout_width="386dp"
+        android:background="@color/white"
+        android:layout_marginLeft="33dp"
+        android:layout_marginRight="13dp"
+
+        android:layout_height="180dp"
+        android:orientation="horizontal">
+
+
+        <LinearLayout
+            android:layout_marginTop="3dp"
+            android:layout_width="126dp"
+            android:background="@color/white"
+            android:layout_marginLeft="3dp"
+            android:layout_marginRight="3dp"
+
+            android:layout_height="170dp"
+            android:orientation="vertical">
+
+            <ImageView
+                android:layout_width="85dp"
+                android:layout_height="145dp"
+                android:layout_marginTop="4dp"
+
+
+                android:src="@drawable/oilys3" />
+            <TextView
+                android:layout_width="160dp"
+                android:layout_height="30dp"
+
+
+                android:layout_marginLeft="11dp"
+
+                android:text="Moisture"
+                android:textColor="#303F9F"
+                android:textSize="15sp"
+
+
+
+                />
+        </LinearLayout>
+
+
+        <LinearLayout
+            android:layout_marginTop="3dp"
+            android:layout_width="106dp"
+            android:background="@color/white"
+            android:layout_marginLeft="3dp"
+            android:layout_marginRight="3dp"
+
+            android:layout_height="170dp"
+            android:orientation="vertical">
+
+            <ImageView
+                android:layout_width="85dp"
+                android:layout_height="145dp"
+                android:layout_marginTop="4dp"
+
+
+                android:src="@drawable/waterjel" />
+            <TextView
+                android:layout_width="160dp"
+                android:layout_height="30dp"
+
+
+                android:layout_marginLeft="15dp"
+
+                android:text="Waterjel"
+                android:textColor="#303F9F"
+                android:textSize="15sp"
+
+
+
+                />
+        </LinearLayout>
+
+
+        <LinearLayout
+            android:layout_marginTop="3dp"
+            android:layout_width="106dp"
+            android:background="@color/white"
+            android:layout_marginLeft="3dp"
+            android:layout_marginRight="3dp"
+
+            android:layout_height="170dp"
+            android:orientation="vertical">
+
+            <ImageView
+                android:layout_width="85dp"
+                android:layout_height="145dp"
+                android:layout_marginTop="4dp"
+
+
+                android:src="@drawable/oilyfs2" />
+            <TextView
+                android:layout_width="160dp"
+                android:layout_height="30dp"
+
+
+                android:layout_marginLeft="15dp"
+
+                android:text="Oil Control"
+                android:textColor="#303F9F"
+                android:textSize="15sp"
+
+
+
+                />
+        </LinearLayout>
+
+    </LinearLayout>
+
+
+
+    </LinearLayout>

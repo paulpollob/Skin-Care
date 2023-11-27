@@ -1,0 +1,56 @@
+[
+  {
+    "product_Id": 1,
+    "product_Name": "CeraVI F20",
+    "product_Image": "https://i.ibb.co/41rg8QF/ceravi-f20.jpg",
+    "product_Type": "Foaming Cleanser",
+    "product_Description": "CeraVI F20 is a foaming face wash that provides a deep cleanse while maintaining the skin's natural moisture balance.",
+    "product_Ingredients": "Ceramides, Vitamin E, Aloe Vera",
+    "how_To_Use": "Apply to wet face, lather, and massage in circular motions. Rinse thoroughly with water."
+  },
+  {
+    "product_Id": 2,
+    "product_Name": "Simple AF",
+    "product_Image": "https://i.ibb.co/Tgy2vd3/simple-af.jpg",
+    "product_Type": "Balancing Cleanser",
+    "product_Description": "Simple AF is a balancing face wash that helps maintain the skin's natural balance, leaving it feeling refreshed.",
+    "product_Ingredients": "Green Tea Extract, Cucumber, Witch Hazel",
+    "how_To_Use": "Wet face, apply a small amount, and massage gently. Rinse thoroughly with water."
+  },
+  {
+    "product_Id": 3,
+    "product_Name": "Lakme",
+    "product_Image": "https://i.ibb.co/M7GsrXY/lakme.jpg",
+    "product_Type": "Radiance Boosting Cleanser",
+    "product_Description": "Lakme is a radiance-boosting face wash that enhances the skin's glow and leaves it looking vibrant.",
+    "product_Ingredients": "Pomegranate Extract, Vitamin C, Honey",
+    "how_To_Use": "Apply to wet face, lather, and massage in circular motions. Rinse thoroughly with water."
+  },
+  {
+    "product_Id": 4,
+    "product_Name": "Eurcein",
+    "product_Image": "https://i.ibb.co/QdwRxCk/eurcein.jpg",
+    "product_Type": "Hydrating Cleanser",
+    "product_Description": "Eurcein is a hydrating cleanser that nourishes the skin while providing a thorough and gentle cleanse.",
+    "product_Ingredients": "Hyaluronic Acid, Glycerin, Chamomile",
+    "how_To_Use": "Apply to wet face, lather, and massage gently. Rinse thoroughly with water."
+  },
+  {
+    "product_Id": 5,
+    "product_Name": "DreamFQ",
+    "product_Image": "https://i.ibb.co/D8PJjNh/dreamfq.jpg",
+    "product_Type": "Revitalizing Cleanser",
+    "product_Description": "DreamFQ is a revitalizing face wash that revitalizes the skin, leaving it feeling refreshed and renewed.",
+    "product_Ingredients": "Vitamin B5, Rose Extract, Jojoba Oil",
+    "how_To_Use": "Wet face, apply a small amount, and massage gently. Rinse thoroughly with water."
+  },
+  {
+    "product_Id": 6,
+    "product_Name": "Cereve",
+    "product_Image": "https://i.ibb.co/0KgVmjV/cereve.jpg",
+    "product_Type": "Gentle Cleanser",
+    "product_Description": "Cereve is a gentle face wash that effectively cleanses without causing irritation, suitable for daily use.",
+    "product_Ingredients": "Water, Glycerin, Aloe Vera Extract",
+    "how_To_Use": "Wet face, apply a small amount, and massage gently. Rinse thoroughly with water."
+  }
+]

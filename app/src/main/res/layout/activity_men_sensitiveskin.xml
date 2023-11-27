@@ -1,0 +1,112 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    tools:context=".men_sensitiveskin">
+    <ImageView
+        android:layout_width="500dp"
+        android:layout_height="430dp"
+        android:layout_marginTop="30dp"
+        android:layout_marginRight="25dp"
+        android:paddingRight="80dp"
+        android:src="@drawable/pngg" />
+
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginLeft="60dp"
+        android:layout_marginTop="5dp"
+
+        android:fontFamily="@font/ananda"
+        android:text="Men's Senitive Skin Care"
+        android:textColor="#050D42"
+        android:textSize="24sp"
+
+
+
+        />
+
+
+
+
+    <LinearLayout
+        android:layout_marginTop="30dp"
+        android:layout_width="wrap_content"
+
+        android:layout_marginLeft="13dp"
+        android:layout_marginRight="13dp"
+        android:layout_height="100dp"
+        android:orientation="horizontal">
+
+
+
+
+        <Button
+            android:id="@+id/msfcwsh"
+            android:layout_width="110dp"
+            android:layout_height="100dp"
+            android:text="Facewash"
+            android:layout_marginLeft="15dp"
+            android:paddingLeft="20dp"
+
+            android:textStyle="bold"
+            android:paddingRight="17dp"
+            android:paddingTop="18dp"
+            android:paddingBottom="16dp"
+
+            android:textSize="10sp"
+            android:layout_marginTop="10dp"
+            android:backgroundTint="#C1C4DC"
+
+            android:textColor="@color/black"
+
+            />
+        <Button
+            android:id="@+id/mssnscrm"
+            android:layout_width="111dp"
+            android:layout_height="100dp"
+
+            android:layout_marginLeft="15dp"
+            android:paddingLeft="13dp"
+
+            android:textStyle="bold"
+            android:paddingRight="22dp"
+            android:paddingTop="18dp"
+            android:paddingBottom="16dp"
+            android:text="SunsCream"
+            android:textSize="10sp"
+            android:layout_marginTop="10dp"
+            android:backgroundTint="#C1C4DC"
+
+            android:textColor="@color/black"
+
+            />
+        <Button
+            android:id="@+id/msmos"
+            android:layout_width="110dp"
+            android:layout_height="100dp"
+
+            android:layout_marginLeft="12dp"
+            android:paddingLeft="18dp"
+            android:text="Moisturizer"
+            android:textStyle="bold"
+            android:paddingRight="14dp"
+            android:paddingTop="18dp"
+            android:paddingBottom="16dp"
+
+            android:textSize="10sp"
+            android:layout_marginTop="10dp"
+            android:backgroundTint="#C1C4DC"
+
+            android:textColor="@color/black"
+
+            />
+
+
+    </LinearLayout>
+
+</LinearLayout>

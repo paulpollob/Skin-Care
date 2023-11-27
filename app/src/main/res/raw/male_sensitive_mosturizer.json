@@ -1,0 +1,56 @@
+[
+  {
+    "product_Id": 1,
+    "product_Name": "Simple Refreshing",
+    "product_Image": "https://ibb.co/NWxpS59",
+    "product_Type": "Facewash",
+    "product_Description": "Simple Refreshing facewash for a gentle and soothing cleanse.",
+    "product_Ingredients": "Water, Cocamidopropyl Betaine, Glycerin, Sodium Chloride, etc.",
+    "how_To_Use": "Wet face, apply the facewash, massage, and rinse off with water."
+  },
+  {
+    "product_Id": 2,
+    "product_Name": "Cerabhi",
+    "product_Image": "https://ibb.co/WvspRFM",
+    "product_Type": "Facewash",
+    "product_Description": "Cerabhi facewash for nourishing and hydrating your skin.",
+    "product_Ingredients": "Aqua, Sodium Lauroyl Isethionate, Sodium Cocoyl Isethionate, etc.",
+    "how_To_Use": "Apply on damp face, lather, and rinse off thoroughly for a refreshed look."
+  },
+  {
+    "product_Id": 3,
+    "product_Name": "Himalaya",
+    "product_Image": "https://ibb.co/HHWM2c4",
+    "product_Type": "Facewash",
+    "product_Description": "Himalaya facewash for natural and herbal care for your skin.",
+    "product_Ingredients": "Neem Extract, Turmeric Extract, Water, Coco-Glucoside, etc.",
+    "how_To_Use": "Gently apply on wet face, lather, and rinse off for a clean and clear complexion."
+  },
+  {
+    "product_Id": 4,
+    "product_Name": "Cerabhi",
+    "product_Image": "https://ibb.co/P4b348Y",
+    "product_Type": "Facewash",
+    "product_Description": "Cerabhi facewash for a gentle and hydrating skincare routine.",
+    "product_Ingredients": "Ceramides, Aloe Vera Extract, Water, Cocamidopropyl Betaine, etc.",
+    "how_To_Use": "Wet face, apply the facewash, massage, and rinse off with water."
+  },
+  {
+    "product_Id": 5,
+    "product_Name": "Simple",
+    "product_Image": "https://ibb.co/prcTSz9",
+    "product_Type": "Facewash",
+    "product_Description": "Simple facewash for a daily refreshing and cleansing experience.",
+    "product_Ingredients": "Aqua, Sodium Laureth Sulfate, Glycerin, Cocamidopropyl Betaine, etc.",
+    "how_To_Use": "Apply on damp face, lather, and rinse off thoroughly for clean and soft skin."
+  },
+  {
+    "product_Id": 6,
+    "product_Name": "Loccatre",
+    "product_Image": "https://ibb.co/VWR13Kf",
+    "product_Type": "Facewash",
+    "product_Description": "Loccatre facewash for a luxurious and indulgent skincare routine.",
+    "product_Ingredients": "Shea Butter, Almond Oil, Water, Sodium Cocoyl Isethionate, etc.",
+    "how_To_Use": "Wet face, apply the facewash, massage, and rinse off for a pampering experience."
+  }
+]

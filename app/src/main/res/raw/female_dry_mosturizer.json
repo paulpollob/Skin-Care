@@ -1,0 +1,56 @@
+[
+  {
+    "product_Id": 1,
+    "product_Name": "Vaseline",
+    "product_Image": "https://i.ibb.co/MBymNS6/vaseline.jpg",
+    "product_Type": "Hydrating Cleanser",
+    "product_Description": "Vaseline is a hydrating cleanser that nourishes the skin while providing a thorough cleanse.",
+    "product_Ingredients": "Hyaluronic Acid, Coconut Oil, Green Tea Extract",
+    "how_To_Use": "Apply to wet face, lather, and massage gently. Rinse thoroughly with water."
+  },
+  {
+    "product_Id": 2,
+    "product_Name": "Cereve CF",
+    "product_Image": "https://i.ibb.co/HChykpr/cereve-cf.jpg",
+    "product_Type": "Gentle Skin Cleanser",
+    "product_Description": "Cereve CF is a gentle skin cleanser suitable for all skin types, providing a mild and effective cleanse.",
+    "product_Ingredients": "Water, Cetyl Alcohol, Propylene Glycol, Sodium Lauryl Sulfate",
+    "how_To_Use": "Apply to wet face, lather, and massage gently. Rinse thoroughly with water."
+  },
+  {
+    "product_Id": 3,
+    "product_Name": "Lubdriram",
+    "product_Image": "https://i.ibb.co/9yj4tFj/lubdriram.jpg",
+    "product_Type": "Refreshing Gel",
+    "product_Description": "Lubdriram is a refreshing gel face wash that invigorates the skin, leaving it feeling fresh and clean.",
+    "product_Ingredients": "Green Tea Extract, Aloe Vera, Salicylic Acid",
+    "how_To_Use": "Apply to wet face, lather, and massage in circular motions. Rinse thoroughly with water."
+  },
+  {
+    "product_Id": 4,
+    "product_Name": "Lactro",
+    "product_Image": "https://i.ibb.co/sRBg8cP/lactro.jpg",
+    "product_Type": "Nourishing Cream",
+    "product_Description": "Lactro is a nourishing cream face wash that provides deep hydration and a luxurious cleanse.",
+    "product_Ingredients": "Shea Butter, Coconut Oil, Milk Proteins",
+    "how_To_Use": "Apply to wet face, massage gently, and rinse thoroughly with water."
+  },
+  {
+    "product_Id": 5,
+    "product_Name": "Unicskin",
+    "product_Image": "https://i.ibb.co/NVn8vL6/unicskin.jpg",
+    "product_Type": "Exfoliating Scrub",
+    "product_Description": "Unicskin is an exfoliating face wash with natural extracts, promoting smooth and radiant skin.",
+    "product_Ingredients": "Bamboo Particles, Papaya Enzymes, Green Tea Extract",
+    "how_To_Use": "Massage onto wet face, focusing on areas with impurities. Rinse off with water."
+  },
+  {
+    "product_Id": 6,
+    "product_Name": "Simple CF",
+    "product_Image": "https://i.ibb.co/wzY8ktK/simple-cf.jpg",
+    "product_Type": "Cream Cleanser",
+    "product_Description": "Simple CF is a cream-based face wash designed to cleanse and nourish the skin, leaving it soft and supple.",
+    "product_Ingredients": "Shea Butter, Rosehip Oil, Vitamin E",
+    "how_To_Use": "Apply to damp face, lather, and massage gently. Rinse off with water."
+  }
+]

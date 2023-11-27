@@ -1,0 +1,56 @@
+[
+  {
+    "product_Id": 1,
+    "product_Name": "Simple Refreshing",
+    "product_Image": "https://i.ibb.co/NWxpS59/simple-refreshing.jpg",
+    "product_Type": "Gentle Cleanser",
+    "product_Description": "Simple Refreshing is a gentle face wash that effectively cleanses without harsh chemicals, leaving the skin feeling refreshed and nourished.",
+    "product_Ingredients": "Aloe Vera, Chamomile Extract, Glycerin",
+    "how_To_Use": "Apply to wet face, lather, and massage gently. Rinse thoroughly with water."
+  },
+  {
+    "product_Id": 2,
+    "product_Name": "Cerabhi",
+    "product_Image": "https://i.ibb.co/WvspRFM/cerabhi.jpg",
+    "product_Type": "Hydrating Cleanser",
+    "product_Description": "Cerabhi is a hydrating face wash that replenishes moisture and supports the skin's natural barrier, leaving it soft and supple.",
+    "product_Ingredients": "Ceramides, Hyaluronic Acid, Shea Butter",
+    "how_To_Use": "Wet face, apply a small amount, and massage in circular motions. Rinse thoroughly with water."
+  },
+  {
+    "product_Id": 3,
+    "product_Name": "Himalaya",
+    "product_Image": "https://i.ibb.co/HHWM2c4/himalaya.jpg",
+    "product_Type": "Purifying Cleanser",
+    "product_Description": "Himalaya is a purifying face wash with natural ingredients that deep cleanse and clarify the skin, promoting a healthy complexion.",
+    "product_Ingredients": "Neem, Turmeric, Vetiver",
+    "how_To_Use": "Apply to wet face, lather, and massage gently. Rinse thoroughly with water."
+  },
+  {
+    "product_Id": 4,
+    "product_Name": "Cerabhi",
+    "product_Image": "https://i.ibb.co/P4b348Y/cerabhi.jpg",
+    "product_Type": "Hydrating Cleanser",
+    "product_Description": "Cerabhi is a hydrating face wash that replenishes moisture and supports the skin's natural barrier, leaving it soft and supple.",
+    "product_Ingredients": "Ceramides, Hyaluronic Acid, Shea Butter",
+    "how_To_Use": "Wet face, apply a small amount, and massage in circular motions. Rinse thoroughly with water."
+  },
+  {
+    "product_Id": 5,
+    "product_Name": "Simple",
+    "product_Image": "https://i.ibb.co/prcTSz9/simple.jpg",
+    "product_Type": "Kind to Skin Cleanser",
+    "product_Description": "Simple is a kind to skin face wash that gently cleanses without irritating, making it suitable for sensitive skin.",
+    "product_Ingredients": "Pro-Vitamin B5, Vitamin E, Bisabolol",
+    "how_To_Use": "Apply to wet face, lather, and massage gently. Rinse thoroughly with water."
+  },
+  {
+    "product_Id": 6,
+    "product_Name": "Loccatre",
+    "product_Image": "https://i.ibb.co/VWR13Kf/loccatre.jpg",
+    "product_Type": "Luxurious Cleanser",
+    "product_Description": "Loccatre is a luxurious face wash that pampers the skin with a rich, creamy formula, leaving it feeling indulged and rejuvenated.",
+    "product_Ingredients": "Shea Butter, Almond Oil, Lavender Extract",
+    "how_To_Use": "Wet face, apply a small amount, and massage gently. Rinse thoroughly with water."
+  }
+]

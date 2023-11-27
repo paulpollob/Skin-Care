@@ -1,0 +1,96 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="#EB7C9DBD"
+    android:orientation="vertical"
+    tools:context=".hair_care">
+
+
+    <ImageView
+        android:layout_width="500dp"
+        android:layout_height="300dp"
+        android:src="@drawable/scann"
+        android:layout_marginRight="50dp"
+        android:paddingRight="70dp"
+        android:layout_marginTop="30dp"
+        />
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginLeft="58dp"
+        android:layout_marginTop="5dp"
+
+
+        android:text="Types of care you want to take?"
+        android:textColor="#170601"
+        android:textSize="22sp"
+
+
+
+        />
+    <Button
+        android:id="@+id/skin_1"
+        android:layout_width="180dp"
+        android:layout_height="70dp"
+        android:text="Scalp Care"
+        android:layout_marginLeft="115dp"
+        android:paddingLeft="20dp"
+
+        android:textStyle="bold"
+        android:paddingRight="22dp"
+        android:paddingTop="18dp"
+        android:paddingBottom="16dp"
+
+        android:textSize="9sp"
+        android:layout_marginTop="30dp"
+        android:backgroundTint="#C1C4DC"
+
+        android:textColor="@color/black"
+        android:layout_marginBottom="10dp"
+        />
+    <Button
+        android:id="@+id/skin_2"
+        android:layout_width="180dp"
+        android:layout_height="70dp"
+        android:text="Beard Care"
+        android:layout_marginLeft="115dp"
+        android:paddingLeft="20dp"
+
+        android:textStyle="bold"
+        android:paddingRight="22dp"
+        android:paddingTop="18dp"
+        android:paddingBottom="16dp"
+
+        android:textSize="9sp"
+        android:layout_marginTop="10dp"
+        android:backgroundTint="#C1C4DC"
+
+        android:textColor="@color/black"
+        android:layout_marginBottom="10dp"
+        />
+    <Button
+        android:id="@+id/skin_3"
+        android:layout_width="180dp"
+        android:layout_height="70dp"
+        android:text="Hair Care Routine"
+        android:layout_marginLeft="115dp"
+        android:paddingLeft="20dp"
+
+        android:textStyle="bold"
+        android:paddingRight="22dp"
+        android:paddingTop="18dp"
+        android:paddingBottom="16dp"
+
+        android:textSize="9sp"
+        android:layout_marginTop="10dp"
+        android:backgroundTint="#C1C4DC"
+
+        android:textColor="@color/black"
+        android:layout_marginBottom="10dp"
+        />
+
+</LinearLayout>

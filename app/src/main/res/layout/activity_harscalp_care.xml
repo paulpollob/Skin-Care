@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:orientation="vertical"
+    android:background="#EB809BB5"
+    android:layout_height="match_parent"
+    tools:context=".harscalpCare">
+    <ImageView
+        android:layout_width="500dp"
+        android:layout_height="300dp"
+        android:src="@drawable/tonew"
+        android:layout_marginRight="45dp"
+        android:paddingRight="78dp"
+        android:layout_marginTop="30dp"
+        />
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginLeft="130dp"
+        android:layout_marginTop="55dp"
+
+
+        android:text="Scalp Care"
+        android:textColor="#E64A19"
+        android:textSize="27sp"
+
+
+
+        />
+    <Button
+        android:id="@+id/skin_1"
+        android:layout_width="220dp"
+        android:layout_height="70dp"
+        android:text="Scalp Care Routine"
+        android:layout_marginLeft="95dp"
+        android:paddingLeft="20dp"
+
+        android:textStyle="bold"
+        android:paddingRight="22dp"
+        android:paddingTop="18dp"
+        android:paddingBottom="16dp"
+
+        android:textSize="12sp"
+        android:layout_marginTop="30dp"
+        android:backgroundTint="#C1C4DC"
+
+        android:textColor="@color/black"
+        android:layout_marginBottom="10dp"
+        />
+    <Button
+        android:id="@+id/skin_2"
+        android:layout_width="220dp"
+        android:layout_height="70dp"
+
+        android:layout_marginLeft="95dp"
+        android:paddingLeft="20dp"
+        android:text="Scalp Care Products"
+        android:textStyle="bold"
+        android:paddingRight="22dp"
+        android:paddingTop="18dp"
+        android:paddingBottom="16dp"
+
+        android:textSize="12sp"
+        android:layout_marginTop="10dp"
+        android:backgroundTint="#C1C4DC"
+
+        android:textColor="@color/black"
+        android:layout_marginBottom="10dp"
+        />
+
+
+</LinearLayout>

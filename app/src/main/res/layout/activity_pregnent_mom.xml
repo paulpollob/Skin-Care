@@ -1,0 +1,356 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<ScrollView
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:scrollbars="vertical"
+    android:background="#EBD1DBE4"
+
+
+    android:layout_width="match_parent"
+
+    android:layout_height="match_parent"
+    android:fillViewport="false">
+
+<LinearLayout
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    tools:context=".pregnent_mom">
+
+
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginLeft="125dp"
+        android:layout_marginTop="5dp"
+
+        android:fontFamily="@font/ananda"
+        android:text="Pregnent Mom's Care"
+        android:textColor="#E64A19"
+        android:textSize="23sp"
+
+
+
+        />
+
+
+    <LinearLayout
+        android:layout_marginTop="30dp"
+        android:layout_width="386dp"
+        android:background="@color/white"
+        android:layout_marginLeft="13dp"
+        android:layout_marginRight="13dp"
+
+        android:layout_height="90dp"
+        android:orientation="horizontal">
+
+
+
+            <ImageView
+                android:layout_width="125dp"
+                android:layout_height="75dp"
+                android:layout_marginTop="4dp"
+
+
+
+                android:src="@drawable/mom4" />
+
+
+
+
+        <TextView
+
+            android:layout_width="230dp"
+            android:layout_height="match_parent"
+
+            android:layout_marginTop="10dp"
+            android:layout_marginBottom="10dp"
+            android:layout_marginRight="773dp"
+            android:text="La Roche-Posay Anthelios Ultra-Light Mineral Sunscreen. ..."
+            android:textColor="#4F578C"
+            android:textSize="15sp"
+            android:textStyle="bold" />
+
+
+    </LinearLayout>
+
+    <LinearLayout
+        android:layout_marginTop="30dp"
+        android:layout_width="386dp"
+        android:background="@color/white"
+        android:layout_marginLeft="13dp"
+        android:layout_marginRight="13dp"
+
+        android:layout_height="90dp"
+        android:orientation="horizontal">
+
+
+
+        <ImageView
+            android:layout_width="125dp"
+            android:layout_height="75dp"
+            android:layout_marginTop="4dp"
+
+
+
+            android:src="@drawable/mom2" />
+
+
+
+
+        <TextView
+
+            android:layout_width="230dp"
+            android:layout_height="match_parent"
+
+            android:layout_marginTop="10dp"
+            android:layout_marginBottom="10dp"
+            android:layout_marginRight="773dp"
+            android:text="Coola Mineral Body Sunscreen Lotion SPF 50. ..."
+            android:textColor="#4F578C"
+            android:textSize="15sp"
+            android:textStyle="bold" />
+
+
+    </LinearLayout>
+
+    <LinearLayout
+        android:layout_marginTop="30dp"
+        android:layout_width="386dp"
+        android:background="@color/white"
+        android:layout_marginLeft="13dp"
+        android:layout_marginRight="13dp"
+
+        android:layout_height="90dp"
+        android:orientation="horizontal">
+
+
+
+        <ImageView
+            android:layout_width="125dp"
+            android:layout_height="75dp"
+            android:layout_marginTop="4dp"
+
+
+
+            android:src="@drawable/mom1" />
+
+
+
+
+        <TextView
+
+            android:layout_width="230dp"
+            android:layout_height="match_parent"
+
+            android:layout_marginTop="10dp"
+            android:layout_marginBottom="10dp"
+            android:layout_marginRight="773dp"
+            android:text="CeraVe Hyaluronic Acid Lotion"
+            android:textColor="#4F578C"
+            android:textSize="15sp"
+            android:textStyle="bold" />
+
+
+    </LinearLayout>
+
+    <LinearLayout
+        android:layout_marginTop="30dp"
+        android:layout_width="386dp"
+        android:background="@color/white"
+        android:layout_marginLeft="13dp"
+        android:layout_marginRight="13dp"
+
+        android:layout_height="90dp"
+        android:orientation="horizontal">
+
+
+
+        <ImageView
+            android:layout_width="125dp"
+            android:layout_height="75dp"
+            android:layout_marginTop="4dp"
+
+
+
+            android:src="@drawable/mom7" />
+
+
+
+
+        <TextView
+
+            android:layout_width="230dp"
+            android:layout_height="match_parent"
+
+            android:layout_marginTop="10dp"
+            android:layout_marginBottom="10dp"
+            android:layout_marginRight="773dp"
+            android:text="La Roche-Posay 10% Pure Niacinamide Cream"
+            android:textColor="#4F578C"
+            android:textSize="15sp"
+            android:textStyle="bold" />
+
+
+    </LinearLayout>
+    <LinearLayout
+        android:layout_marginTop="30dp"
+        android:layout_width="386dp"
+        android:background="@color/white"
+        android:layout_marginLeft="13dp"
+        android:layout_marginRight="13dp"
+
+        android:layout_height="90dp"
+        android:orientation="horizontal">
+
+
+
+        <ImageView
+            android:layout_width="125dp"
+            android:layout_height="75dp"
+            android:layout_marginTop="4dp"
+
+
+
+            android:src="@drawable/neu" />
+
+
+
+
+        <TextView
+
+            android:layout_width="230dp"
+            android:layout_height="match_parent"
+
+            android:layout_marginTop="10dp"
+            android:layout_marginBottom="10dp"
+            android:layout_marginRight="773dp"
+            android:text="Neutrogena Hydro Boost + Niacinamide Wash"
+            android:textColor="#4F578C"
+            android:textSize="15sp"
+            android:textStyle="bold" />
+
+
+    </LinearLayout>
+    <LinearLayout
+        android:layout_marginTop="30dp"
+        android:layout_width="386dp"
+        android:background="@color/white"
+        android:layout_marginLeft="13dp"
+        android:layout_marginRight="13dp"
+
+        android:layout_height="90dp"
+        android:orientation="horizontal">
+
+
+
+        <ImageView
+            android:layout_width="125dp"
+            android:layout_height="75dp"
+            android:layout_marginTop="4dp"
+
+
+
+            android:src="@drawable/ll" />
+
+
+
+
+        <TextView
+
+            android:layout_width="230dp"
+            android:layout_height="match_parent"
+
+            android:layout_marginTop="10dp"
+            android:layout_marginBottom="10dp"
+            android:layout_marginRight="773dp"
+            android:text="Skinbetter Science Even Tone Correction Serum."
+            android:textColor="#4F578C"
+            android:textSize="15sp"
+            android:textStyle="bold" />
+
+
+    </LinearLayout>
+    <LinearLayout
+        android:layout_marginTop="30dp"
+        android:layout_width="386dp"
+        android:background="@color/white"
+        android:layout_marginLeft="13dp"
+        android:layout_marginRight="13dp"
+
+        android:layout_height="90dp"
+        android:orientation="horizontal">
+
+
+
+        <ImageView
+            android:layout_width="125dp"
+            android:layout_height="75dp"
+            android:layout_marginTop="4dp"
+
+
+
+            android:src="@drawable/oil44" />
+
+
+
+
+        <TextView
+
+            android:layout_width="230dp"
+            android:layout_height="match_parent"
+
+            android:layout_marginTop="10dp"
+            android:layout_marginBottom="10dp"
+            android:layout_marginRight="773dp"
+            android:text="Ceravi Hydro Boost 7F + Niacinamide Wash"
+            android:textColor="#4F578C"
+            android:textSize="15sp"
+            android:textStyle="bold" />
+
+
+    </LinearLayout>
+    <LinearLayout
+        android:layout_marginTop="30dp"
+        android:layout_width="386dp"
+        android:background="@color/white"
+        android:layout_marginLeft="13dp"
+        android:layout_marginRight="13dp"
+
+        android:layout_height="90dp"
+        android:orientation="horizontal">
+
+
+
+        <ImageView
+            android:layout_width="125dp"
+            android:layout_height="75dp"
+            android:layout_marginTop="4dp"
+
+
+
+            android:src="@drawable/p3" />
+
+
+
+
+        <TextView
+
+            android:layout_width="230dp"
+            android:layout_height="match_parent"
+
+            android:layout_marginTop="10dp"
+            android:layout_marginBottom="10dp"
+            android:layout_marginRight="773dp"
+            android:text="Clean and Clear Hair wash + Niacinamide Wash"
+            android:textColor="#4F578C"
+            android:textSize="15sp"
+            android:textStyle="bold" />
+
+
+    </LinearLayout>
+</LinearLayout>
+</ScrollView>

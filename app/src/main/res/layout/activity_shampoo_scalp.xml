@@ -1,0 +1,1036 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<ScrollView
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:scrollbars="vertical"
+    android:background="#EB254F78"
+
+
+    android:layout_width="match_parent"
+
+    android:layout_height="match_parent"
+    android:fillViewport="false">
+<LinearLayout
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    android:background="@color/white"
+    tools:context=".shampoo_scalp">
+
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginLeft="160dp"
+        android:layout_marginTop="55dp"
+
+
+        android:text="Shampoo"
+        android:textColor="#290D05"
+        android:textSize="20sp"
+
+
+
+        />
+
+
+    <LinearLayout
+        android:layout_marginTop="30dp"
+        android:layout_width="386dp"
+        android:background="@color/white"
+        android:layout_marginLeft="43dp"
+        android:layout_marginRight="13dp"
+
+        android:layout_height="90dp"
+        android:orientation="horizontal">
+
+
+        <LinearLayout
+            android:layout_marginTop="3dp"
+            android:layout_width="106dp"
+            android:background="@color/white"
+            android:layout_marginLeft="3dp"
+            android:layout_marginRight="3dp"
+
+            android:layout_height="160dp"
+            android:orientation="vertical">
+
+            <ImageView
+                android:layout_width="85dp"
+                android:layout_height="55dp"
+                android:layout_marginTop="4dp"
+
+
+
+                android:src="@drawable/sham11" />
+            <TextView
+                android:layout_width="160dp"
+                android:layout_height="30dp"
+
+
+                android:layout_marginLeft="15dp"
+
+                android:text="Sunsilk"
+                android:textColor="#303F9F"
+                android:textSize="10sp"
+
+
+
+                />
+        </LinearLayout>
+        <LinearLayout
+            android:layout_marginTop="3dp"
+            android:layout_width="106dp"
+            android:background="@color/white"
+            android:layout_marginLeft="3dp"
+            android:layout_marginRight="3dp"
+
+            android:layout_height="160dp"
+            android:orientation="vertical">
+
+            <ImageView
+                android:layout_width="85dp"
+                android:layout_height="55dp"
+                android:layout_marginTop="4dp"
+
+
+
+                android:src="@drawable/sham33" />
+            <TextView
+                android:layout_width="160dp"
+                android:layout_height="30dp"
+
+
+                android:layout_marginLeft="25dp"
+
+                android:text="Pantene"
+                android:textColor="#303F9F"
+                android:textSize="10sp"
+
+
+
+                />
+        </LinearLayout>
+
+
+        <LinearLayout
+            android:layout_marginTop="3dp"
+            android:layout_width="176dp"
+            android:background="@color/white"
+            android:layout_marginLeft="3dp"
+            android:layout_marginRight="3dp"
+
+            android:layout_height="160dp"
+            android:orientation="vertical">
+
+            <ImageView
+                android:layout_width="85dp"
+                android:layout_height="55dp"
+                android:layout_marginTop="4dp"
+
+
+
+                android:src="@drawable/sham44" />
+            <TextView
+                android:layout_width="160dp"
+                android:layout_height="30dp"
+
+
+                android:layout_marginLeft="15dp"
+
+                android:text="Teres MEE"
+                android:textColor="#303F9F"
+                android:textSize="10sp"
+
+
+
+                />
+        </LinearLayout>
+
+
+
+
+
+
+    </LinearLayout>
+
+
+    <LinearLayout
+        android:layout_marginTop="30dp"
+        android:layout_width="386dp"
+        android:background="@color/white"
+        android:layout_marginLeft="33dp"
+        android:layout_marginRight="13dp"
+
+        android:layout_height="90dp"
+        android:orientation="horizontal">
+
+
+
+        <LinearLayout
+            android:layout_marginTop="3dp"
+            android:layout_width="106dp"
+            android:background="@color/white"
+            android:layout_marginLeft="13dp"
+            android:layout_marginRight="3dp"
+
+            android:layout_height="160dp"
+            android:orientation="vertical">
+
+            <ImageView
+                android:layout_width="85dp"
+                android:layout_height="55dp"
+                android:layout_marginTop="4dp"
+
+
+
+                android:src="@drawable/sham55" />
+
+            <TextView
+                android:layout_width="160dp"
+                android:layout_height="30dp"
+
+
+                android:layout_marginLeft="35dp"
+
+                android:text="Dove"
+                android:textColor="#303F9F"
+                android:textSize="10sp"
+
+
+
+                />
+        </LinearLayout>
+
+        <LinearLayout
+            android:layout_width="106dp"
+            android:layout_height="159dp"
+            android:layout_marginLeft="3dp"
+            android:layout_marginTop="3dp"
+            android:layout_marginRight="3dp"
+
+            android:background="@color/white"
+            android:orientation="vertical">
+
+            <ImageView
+                android:layout_width="85dp"
+                android:layout_height="55dp"
+                android:layout_marginTop="4dp"
+
+
+                android:src="@drawable/sahm66" />
+
+            <TextView
+                android:layout_width="160dp"
+                android:layout_height="30dp"
+
+
+                android:layout_marginLeft="25dp"
+
+                android:text="Lafz SF"
+                android:textColor="#303F9F"
+                android:textSize="10sp"
+
+
+                />
+        </LinearLayout>
+
+
+        <LinearLayout
+            android:layout_marginTop="3dp"
+            android:layout_width="176dp"
+            android:background="@color/white"
+            android:layout_marginLeft="3dp"
+            android:layout_marginRight="3dp"
+
+            android:layout_height="160dp"
+            android:orientation="vertical">
+
+            <ImageView
+                android:layout_width="85dp"
+                android:layout_height="55dp"
+                android:layout_marginTop="4dp"
+
+
+
+                android:src="@drawable/shmp22" />
+            <TextView
+                android:layout_width="160dp"
+                android:layout_height="30dp"
+
+
+                android:layout_marginLeft="10dp"
+
+                android:text="Head And Shoulders"
+                android:textColor="#303F9F"
+                android:textSize="9sp"
+
+
+
+                />
+        </LinearLayout>
+
+
+
+
+
+
+</LinearLayout>
+    <LinearLayout
+        android:layout_marginTop="30dp"
+        android:layout_width="386dp"
+        android:background="@color/white"
+        android:layout_marginLeft="43dp"
+        android:layout_marginRight="13dp"
+
+        android:layout_height="90dp"
+        android:orientation="horizontal">
+
+
+        <LinearLayout
+            android:layout_marginTop="3dp"
+            android:layout_width="106dp"
+            android:background="@color/white"
+            android:layout_marginLeft="13dp"
+            android:layout_marginRight="3dp"
+
+            android:layout_height="160dp"
+            android:orientation="vertical">
+
+            <ImageView
+                android:layout_width="85dp"
+                android:layout_height="55dp"
+                android:layout_marginTop="4dp"
+
+
+
+                android:src="@drawable/sham99" />
+            <TextView
+                android:layout_width="160dp"
+                android:layout_height="30dp"
+
+
+                android:layout_marginLeft="19dp"
+
+                android:text="Pure Glory"
+                android:textColor="#303F9F"
+                android:textSize="10sp"
+
+
+
+                />
+        </LinearLayout>
+        <LinearLayout
+            android:layout_marginTop="3dp"
+            android:layout_width="106dp"
+            android:background="@color/white"
+            android:layout_marginLeft="3dp"
+            android:layout_marginRight="3dp"
+
+            android:layout_height="160dp"
+            android:orientation="vertical">
+
+            <ImageView
+                android:layout_width="85dp"
+                android:layout_height="55dp"
+                android:layout_marginTop="4dp"
+
+
+
+                android:src="@drawable/sham88" />
+            <TextView
+                android:layout_width="160dp"
+                android:layout_height="30dp"
+
+
+                android:layout_marginLeft="25dp"
+
+                android:text="Function"
+                android:textColor="#303F9F"
+                android:textSize="10sp"
+
+
+
+                />
+        </LinearLayout>
+
+
+        <LinearLayout
+            android:layout_marginTop="3dp"
+            android:layout_width="176dp"
+            android:background="@color/white"
+            android:layout_marginLeft="3dp"
+            android:layout_marginRight="3dp"
+
+            android:layout_height="160dp"
+            android:orientation="vertical">
+
+            <ImageView
+                android:layout_width="85dp"
+                android:layout_height="55dp"
+                android:layout_marginTop="4dp"
+
+
+
+                android:src="@drawable/sham00" />
+            <TextView
+                android:layout_width="160dp"
+                android:layout_height="30dp"
+
+
+                android:layout_marginLeft="15dp"
+
+                android:text="Milicare CF"
+                android:textColor="#303F9F"
+                android:textSize="10sp"
+
+
+
+                />
+        </LinearLayout>
+
+
+
+
+
+
+    </LinearLayout>
+
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginLeft="120dp"
+        android:layout_marginTop="55dp"
+
+
+        android:text="Anti Dandruff Shampoo"
+        android:textColor="#290D05"
+        android:textSize="20sp"
+
+
+
+        />
+    <LinearLayout
+        android:layout_marginTop="30dp"
+        android:layout_width="386dp"
+        android:background="@color/white"
+        android:layout_marginLeft="43dp"
+        android:layout_marginRight="13dp"
+
+        android:layout_height="90dp"
+        android:orientation="horizontal">
+
+
+        <LinearLayout
+            android:layout_marginTop="3dp"
+            android:layout_width="106dp"
+            android:background="@color/white"
+            android:layout_marginLeft="13dp"
+            android:layout_marginRight="3dp"
+
+            android:layout_height="160dp"
+            android:orientation="vertical">
+
+            <ImageView
+                android:layout_width="85dp"
+                android:layout_height="55dp"
+                android:layout_marginTop="4dp"
+
+
+
+                android:src="@drawable/con1" />
+            <TextView
+                android:layout_width="160dp"
+                android:layout_height="30dp"
+
+
+                android:layout_marginLeft="19dp"
+
+                android:text="Sunslik"
+                android:textColor="#303F9F"
+                android:textSize="10sp"
+
+
+
+                />
+        </LinearLayout>
+        <LinearLayout
+            android:layout_marginTop="3dp"
+            android:layout_width="106dp"
+            android:background="@color/white"
+            android:layout_marginLeft="3dp"
+            android:layout_marginRight="3dp"
+
+            android:layout_height="160dp"
+            android:orientation="vertical">
+
+            <ImageView
+                android:layout_width="85dp"
+                android:layout_height="55dp"
+                android:layout_marginTop="4dp"
+
+
+
+                android:src="@drawable/con2" />
+            <TextView
+                android:layout_width="160dp"
+                android:layout_height="30dp"
+
+
+                android:layout_marginLeft="25dp"
+
+                android:text="Dove"
+                android:textColor="#303F9F"
+                android:textSize="10sp"
+
+
+
+                />
+        </LinearLayout>
+
+
+        <LinearLayout
+            android:layout_marginTop="3dp"
+            android:layout_width="176dp"
+            android:background="@color/white"
+            android:layout_marginLeft="3dp"
+            android:layout_marginRight="3dp"
+
+            android:layout_height="160dp"
+            android:orientation="vertical">
+
+            <ImageView
+                android:layout_width="85dp"
+                android:layout_height="55dp"
+                android:layout_marginTop="4dp"
+
+
+
+                android:src="@drawable/con3" />
+            <TextView
+                android:layout_width="160dp"
+                android:layout_height="30dp"
+
+
+                android:layout_marginLeft="15dp"
+
+                android:text="Tres me"
+                android:textColor="#303F9F"
+                android:textSize="10sp"
+
+
+
+                />
+        </LinearLayout>
+
+
+
+
+
+
+    </LinearLayout>
+    <LinearLayout
+        android:layout_marginTop="30dp"
+        android:layout_width="386dp"
+        android:background="@color/white"
+        android:layout_marginLeft="43dp"
+        android:layout_marginRight="13dp"
+
+        android:layout_height="90dp"
+        android:orientation="horizontal">
+
+
+        <LinearLayout
+            android:layout_marginTop="3dp"
+            android:layout_width="106dp"
+            android:background="@color/white"
+            android:layout_marginLeft="13dp"
+            android:layout_marginRight="3dp"
+
+            android:layout_height="160dp"
+            android:orientation="vertical">
+
+            <ImageView
+                android:layout_width="85dp"
+                android:layout_height="55dp"
+                android:layout_marginTop="4dp"
+
+
+
+                android:src="@drawable/con4" />
+            <TextView
+                android:layout_width="160dp"
+                android:layout_height="30dp"
+
+
+                android:layout_marginLeft="19dp"
+
+                android:text="Pure Glory"
+                android:textColor="#303F9F"
+                android:textSize="10sp"
+
+
+
+                />
+        </LinearLayout>
+        <LinearLayout
+            android:layout_marginTop="3dp"
+            android:layout_width="106dp"
+            android:background="@color/white"
+            android:layout_marginLeft="3dp"
+            android:layout_marginRight="3dp"
+
+            android:layout_height="160dp"
+            android:orientation="vertical">
+
+            <ImageView
+                android:layout_width="85dp"
+                android:layout_height="55dp"
+                android:layout_marginTop="4dp"
+
+
+
+                android:src="@drawable/anti5" />
+            <TextView
+                android:layout_width="160dp"
+                android:layout_height="30dp"
+
+
+                android:layout_marginLeft="15dp"
+
+                android:text="Head And Shoulder"
+                android:textColor="#303F9F"
+                android:textSize="10sp"
+
+
+
+                />
+        </LinearLayout>
+
+
+        <LinearLayout
+            android:layout_marginTop="3dp"
+            android:layout_width="176dp"
+            android:background="@color/white"
+            android:layout_marginLeft="3dp"
+            android:layout_marginRight="3dp"
+
+            android:layout_height="160dp"
+            android:orientation="vertical">
+
+            <ImageView
+                android:layout_width="85dp"
+                android:layout_height="55dp"
+                android:layout_marginTop="4dp"
+
+
+
+                android:src="@drawable/con6" />
+            <TextView
+                android:layout_width="160dp"
+                android:layout_height="30dp"
+
+
+                android:layout_marginLeft="35dp"
+
+                android:text="Lafz CF"
+                android:textColor="#303F9F"
+                android:textSize="10sp"
+
+
+
+                />
+        </LinearLayout>
+
+
+
+
+
+
+    </LinearLayout>
+    <LinearLayout
+        android:layout_marginTop="30dp"
+        android:layout_width="386dp"
+        android:background="@color/white"
+        android:layout_marginLeft="43dp"
+        android:layout_marginRight="13dp"
+
+        android:layout_height="90dp"
+        android:orientation="horizontal">
+
+
+        <LinearLayout
+            android:layout_marginTop="3dp"
+            android:layout_width="106dp"
+            android:background="@color/white"
+            android:layout_marginLeft="13dp"
+            android:layout_marginRight="3dp"
+
+            android:layout_height="160dp"
+            android:orientation="vertical">
+
+            <ImageView
+                android:layout_width="85dp"
+                android:layout_height="55dp"
+                android:layout_marginTop="4dp"
+
+
+
+                android:src="@drawable/anti8" />
+            <TextView
+                android:layout_width="160dp"
+                android:layout_height="30dp"
+
+
+                android:layout_marginLeft="19dp"
+
+                android:text="Tea And Tree"
+                android:textColor="#303F9F"
+                android:textSize="10sp"
+
+
+
+                />
+        </LinearLayout>
+        <LinearLayout
+            android:layout_marginTop="3dp"
+            android:layout_width="106dp"
+            android:background="@color/white"
+            android:layout_marginLeft="3dp"
+            android:layout_marginRight="3dp"
+
+            android:layout_height="160dp"
+            android:orientation="vertical">
+
+            <ImageView
+                android:layout_width="85dp"
+                android:layout_height="55dp"
+                android:layout_marginTop="4dp"
+
+
+
+                android:src="@drawable/con6" />
+            <TextView
+                android:layout_width="160dp"
+                android:layout_height="30dp"
+
+
+                android:layout_marginLeft="25dp"
+
+                android:text="Clear 5F"
+                android:textColor="#303F9F"
+                android:textSize="10sp"
+
+
+
+                />
+        </LinearLayout>
+
+
+        <LinearLayout
+            android:layout_marginTop="3dp"
+            android:layout_width="176dp"
+            android:background="@color/white"
+            android:layout_marginLeft="3dp"
+            android:layout_marginRight="3dp"
+
+            android:layout_height="160dp"
+            android:orientation="vertical">
+
+            <ImageView
+                android:layout_width="85dp"
+                android:layout_height="55dp"
+                android:layout_marginTop="4dp"
+
+
+
+                android:src="@drawable/anti9" />
+            <TextView
+                android:layout_width="160dp"
+                android:layout_height="30dp"
+
+
+                android:layout_marginLeft="35dp"
+
+                android:text="Ginger"
+                android:textColor="#303F9F"
+                android:textSize="10sp"
+
+
+
+                />
+        </LinearLayout>
+
+
+
+
+
+
+    </LinearLayout>
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginLeft="160dp"
+        android:layout_marginTop="55dp"
+
+
+        android:text="Conditoner"
+        android:textColor="#290D05"
+        android:textSize="20sp"
+
+
+
+        />
+
+    <LinearLayout
+        android:layout_marginTop="30dp"
+        android:layout_width="386dp"
+        android:background="@color/white"
+        android:layout_marginLeft="43dp"
+        android:layout_marginRight="13dp"
+
+        android:layout_height="90dp"
+        android:orientation="horizontal">
+
+
+        <LinearLayout
+            android:layout_marginTop="3dp"
+            android:layout_width="106dp"
+            android:background="@color/white"
+            android:layout_marginLeft="13dp"
+            android:layout_marginRight="3dp"
+
+            android:layout_height="160dp"
+            android:orientation="vertical">
+
+            <ImageView
+                android:layout_width="85dp"
+                android:layout_height="55dp"
+                android:layout_marginTop="4dp"
+
+
+
+                android:src="@drawable/con1" />
+            <TextView
+                android:layout_width="160dp"
+                android:layout_height="30dp"
+
+
+                android:layout_marginLeft="19dp"
+
+                android:text="Pure Glory"
+                android:textColor="#303F9F"
+                android:textSize="10sp"
+
+
+
+                />
+        </LinearLayout>
+        <LinearLayout
+            android:layout_marginTop="3dp"
+            android:layout_width="106dp"
+            android:background="@color/white"
+            android:layout_marginLeft="3dp"
+            android:layout_marginRight="3dp"
+
+            android:layout_height="160dp"
+            android:orientation="vertical">
+
+            <ImageView
+                android:layout_width="85dp"
+                android:layout_height="55dp"
+                android:layout_marginTop="4dp"
+
+
+
+                android:src="@drawable/anti5" />
+            <TextView
+                android:layout_width="160dp"
+                android:layout_height="30dp"
+
+
+                android:layout_marginLeft="15dp"
+
+                android:text="Head And Shoulder"
+                android:textColor="#303F9F"
+                android:textSize="10sp"
+
+
+
+                />
+        </LinearLayout>
+
+
+        <LinearLayout
+            android:layout_marginTop="3dp"
+            android:layout_width="176dp"
+            android:background="@color/white"
+            android:layout_marginLeft="3dp"
+            android:layout_marginRight="3dp"
+
+            android:layout_height="160dp"
+            android:orientation="vertical">
+
+            <ImageView
+                android:layout_width="85dp"
+                android:layout_height="55dp"
+                android:layout_marginTop="4dp"
+
+
+
+                android:src="@drawable/anti6" />
+            <TextView
+                android:layout_width="160dp"
+                android:layout_height="30dp"
+
+
+                android:layout_marginLeft="35dp"
+
+                android:text="Lafz CF"
+                android:textColor="#303F9F"
+                android:textSize="10sp"
+
+
+
+                />
+        </LinearLayout>
+
+
+
+
+
+
+    </LinearLayout>
+    <LinearLayout
+        android:layout_marginTop="30dp"
+        android:layout_width="386dp"
+        android:background="@color/white"
+        android:layout_marginLeft="43dp"
+        android:layout_marginRight="13dp"
+
+        android:layout_height="90dp"
+        android:orientation="horizontal">
+
+
+        <LinearLayout
+            android:layout_marginTop="3dp"
+            android:layout_width="106dp"
+            android:background="@color/white"
+            android:layout_marginLeft="13dp"
+            android:layout_marginRight="3dp"
+
+            android:layout_height="160dp"
+            android:orientation="vertical">
+
+            <ImageView
+                android:layout_width="85dp"
+                android:layout_height="55dp"
+                android:layout_marginTop="4dp"
+
+
+
+                android:src="@drawable/anti8" />
+            <TextView
+                android:layout_width="160dp"
+                android:layout_height="30dp"
+
+
+                android:layout_marginLeft="19dp"
+
+                android:text="Tea And Tree"
+                android:textColor="#303F9F"
+                android:textSize="10sp"
+
+
+
+                />
+        </LinearLayout>
+        <LinearLayout
+            android:layout_marginTop="3dp"
+            android:layout_width="106dp"
+            android:background="@color/white"
+            android:layout_marginLeft="3dp"
+            android:layout_marginRight="3dp"
+
+            android:layout_height="160dp"
+            android:orientation="vertical">
+
+            <ImageView
+                android:layout_width="85dp"
+                android:layout_height="55dp"
+                android:layout_marginTop="4dp"
+
+
+
+                android:src="@drawable/anti7" />
+            <TextView
+                android:layout_width="160dp"
+                android:layout_height="30dp"
+
+
+                android:layout_marginLeft="25dp"
+
+                android:text="Clear 5F"
+                android:textColor="#303F9F"
+                android:textSize="10sp"
+
+
+
+                />
+        </LinearLayout>
+
+
+        <LinearLayout
+            android:layout_marginTop="3dp"
+            android:layout_width="176dp"
+            android:background="@color/white"
+            android:layout_marginLeft="3dp"
+            android:layout_marginRight="3dp"
+
+            android:layout_height="160dp"
+            android:orientation="vertical">
+
+            <ImageView
+                android:layout_width="85dp"
+                android:layout_height="55dp"
+                android:layout_marginTop="4dp"
+
+
+
+                android:src="@drawable/anti9" />
+            <TextView
+                android:layout_width="160dp"
+                android:layout_height="30dp"
+
+
+                android:layout_marginLeft="35dp"
+
+                android:text="Ginger"
+                android:textColor="#303F9F"
+                android:textSize="10sp"
+
+
+
+                />
+        </LinearLayout>
+
+
+
+
+
+
+    </LinearLayout>
+
+
+
+
+
+</LinearLayout>
+
+
+
+   </ScrollView>

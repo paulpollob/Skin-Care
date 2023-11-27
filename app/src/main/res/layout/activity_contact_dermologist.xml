@@ -1,0 +1,557 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+
+<ScrollView xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:background="#7EFFFF99"
+    android:fillViewport="false"
+    android:layout_height="match_parent"
+    tools:context=".contactDermologist">
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+
+        android:background="#EB9EB8D1"
+        android:orientation="vertical"
+        android:textColor="#303F9F">
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:text="Our Dermologists "
+            android:textColor="#0F29CF"
+
+
+            android:fontFamily="@font/ananda"
+            android:gravity="center"
+            android:textSize="25sp"
+            />
+
+
+        <LinearLayout
+            android:layout_marginTop="30dp"
+            android:layout_width="wrap_content"
+            android:background="#0ADFDFBC"
+
+            android:layout_height="match_parent"
+            android:orientation="horizontal">
+            <LinearLayout
+
+                android:layout_width="185dp"
+                android:orientation="vertical"
+                android:background="#DA658DB8"
+                android:layout_marginLeft="16dp"
+                android:layout_height="350dp">
+                <ImageView
+
+                    android:src="@drawable/fem22"
+                    android:paddingLeft="20dp"
+                    android:layout_width="190dp"
+                    android:layout_height="180dp"
+
+                    />
+                <TextView
+
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:textStyle="bold"
+                    android:layout_marginLeft="15dp"
+
+                    android:textColor="#352D01"
+                    android:textSize="17sp"
+                    android:text="Dr.Raya Ray"
+                    />
+
+                <TextView
+
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+
+                    android:layout_marginLeft="15dp"
+
+                    android:textColor="#352D01"
+                    android:textSize="13sp"
+                    android:text="41 years"
+                    />
+
+                <TextView
+
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+
+                    android:layout_marginLeft="15dp"
+
+                    android:textColor="#352D01"
+                    android:textSize="13sp"
+                    android:text="Known for her dermatology and skincare content on social media,"
+                    />
+                <LinearLayout
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_marginTop="30dp"
+
+
+                    android:orientation="horizontal"
+                    >
+                    <!--              <TextView-->
+                    <!--                  android:layout_width="wrap_content"-->
+                    <!--                  android:layout_height="wrap_content"-->
+                    <!--                  android:textStyle="bold"-->
+                    <!--                  android:layout_marginTop="20dp"-->
+                    <!--                  android:text=" More info"-->
+                    <!--                  android:layout_marginLeft="10dp"-->
+                    <!--                  />-->
+                    <Button
+                        android:id="@+id/contact1"
+                        android:layout_width="150dp"
+                        android:layout_height="wrap_content"
+                        android:textStyle="bold"
+                        android:backgroundTint="#5969CF"
+                        android:text=" Contact"
+                        android:layout_marginLeft="19dp"
+                        />
+
+
+                </LinearLayout>
+
+
+
+
+
+            </LinearLayout>
+
+            <LinearLayout
+
+                android:layout_width="185dp"
+                android:orientation="vertical"
+                android:background="#DA658DB8"
+                android:layout_marginLeft="8dp"
+                android:layout_marginRight="14dp"
+                android:layout_height="350dp">
+                <ImageView
+
+                    android:src="@drawable/femm222"
+                    android:paddingLeft="20dp"
+                    android:layout_width="190dp"
+                    android:layout_height="180dp"
+
+                    />
+                <TextView
+
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:textStyle="bold"
+                    android:layout_marginLeft="15dp"
+
+                    android:textColor="#352D01"
+                    android:textSize="17sp"
+                    android:text="Dr. Harold Lancer:"
+                    />
+
+                <TextView
+
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+
+                    android:layout_marginLeft="15dp"
+
+                    android:textColor="#352D01"
+                    android:textSize="13sp"
+                    android:text="40 years"
+                    />
+
+                <TextView
+
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+
+                    android:layout_marginLeft="15dp"
+
+                    android:textColor="#352D01"
+                    android:textSize="13sp"
+                    android:text="Dr. Lancer is a celebrity dermatologist based in Beverly Hills, California.."
+                    />
+                <LinearLayout
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_marginTop="30dp"
+                    android:orientation="horizontal"
+                    >
+                    <!--                <TextView-->
+                    <!--                    android:layout_width="wrap_content"-->
+                    <!--                    android:layout_height="wrap_content"-->
+                    <!--                    android:textStyle="bold"-->
+                    <!--                    android:layout_marginTop="20dp"-->
+                    <!--                    android:text=" More info"-->
+                    <!--                    android:layout_marginLeft="10dp"-->
+                    <!--                    />-->
+                    <!--                <TextView-->
+                    <!--                    android:layout_width="wrap_content"-->
+                    <!--                    android:layout_height="wrap_content"-->
+                    <!--                    android:textStyle="bold"-->
+                    <!--                    android:layout_marginTop="20dp"-->
+                    <!--                    android:text=" Contact"-->
+                    <!--                    android:layout_marginLeft="19dp"-->
+                    <!--                    />-->
+                    <Button
+                        android:id="@+id/contact2"
+                        android:layout_width="150dp"
+                        android:layout_height="wrap_content"
+                        android:textStyle="bold"
+                        android:backgroundTint="#5969CF"
+
+                        android:text=" Contact"
+                        android:layout_marginLeft="19dp"
+                        />
+
+
+                </LinearLayout>
+
+
+
+
+
+            </LinearLayout>
+
+        </LinearLayout>
+        <LinearLayout
+            android:layout_marginTop="30dp"
+            android:layout_width="wrap_content"
+            android:background="#0ADFDFBC"
+            android:layout_marginLeft="5dp"
+            android:layout_marginRight="5dp"
+            android:layout_height="match_parent"
+            android:orientation="horizontal">
+            <LinearLayout
+
+                android:layout_width="185dp"
+                android:orientation="vertical"
+                android:background="#DA658DB8"
+                android:layout_marginLeft="16dp"
+                android:layout_height="350dp">
+                <ImageView
+
+                    android:src="@drawable/femm33"
+                    android:paddingLeft="20dp"
+                    android:layout_width="170dp"
+                    android:layout_marginTop="30dp"
+                    android:layout_marginBottom="30dp"
+                    android:layout_height="100dp"
+
+                    />
+                <TextView
+
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:textStyle="bold"
+                    android:layout_marginLeft="15dp"
+
+                    android:textColor="#352D01"
+                    android:textSize="17sp"
+                    android:text="Dr. Doris Day:"
+                    />
+
+                <TextView
+
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+
+                    android:layout_marginLeft="15dp"
+
+                    android:textColor="#352D01"
+                    android:textSize="13sp"
+                    android:text="42 years"
+                    />
+
+                <TextView
+
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+
+                    android:layout_marginLeft="15dp"
+
+                    android:textColor="#352D01"
+                    android:textSize="13sp"
+                    android:text=" Dr. Day is a board-certified dermatologist , practicing at Day Dermatology in New York City."
+                    />
+                <LinearLayout
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_marginTop="30dp"
+                    android:orientation="horizontal"
+                    >
+                    <Button
+                        android:id="@+id/contact3"
+                        android:layout_width="150dp"
+                        android:layout_height="wrap_content"
+                        android:textStyle="bold"
+                        android:layout_marginTop="10dp"
+                        android:backgroundTint="#5969CF"
+                        android:text=" Contact"
+                        android:layout_marginLeft="19dp"
+                        />
+
+                </LinearLayout>
+
+
+
+
+
+            </LinearLayout>
+
+            <LinearLayout
+
+                android:layout_width="185dp"
+                android:orientation="vertical"
+                android:background="#DA658DB8"
+                android:layout_marginLeft="8dp"
+                android:layout_marginRight="5dp"
+                android:layout_height="350dp">
+                <ImageView
+
+                    android:src="@drawable/fem11"
+                    android:paddingLeft="20dp"
+                    android:layout_width="190dp"
+                    android:layout_height="180dp"
+
+                    />
+                <TextView
+
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:textStyle="bold"
+                    android:layout_marginLeft="15dp"
+
+                    android:textColor="#352D01"
+                    android:textSize="17sp"
+                    android:text="Dr. Shereene Idriss:"
+                    />
+
+                <TextView
+
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+
+                    android:layout_marginLeft="15dp"
+
+                    android:textColor="#352D01"
+                    android:textSize="13sp"
+                    android:text="41 years"
+                    />
+
+                <TextView
+
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+
+                    android:layout_marginLeft="15dp"
+
+                    android:textColor="#352D01"
+                    android:textSize="13sp"
+                    android:text="Dr. Idriss is a New York City-based dermatologist ."
+                    />
+                <LinearLayout
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_marginTop="30dp"
+                    android:orientation="horizontal"
+                    >
+                    <!--                    <TextView-->
+                    <!--                        android:layout_width="wrap_content"-->
+                    <!--                        android:layout_height="wrap_content"-->
+                    <!--                        android:textStyle="bold"-->
+                    <!--                        android:layout_marginTop="20dp"-->
+                    <!--                        android:text=" More info"-->
+                    <!--                        android:layout_marginLeft="10dp"-->
+                    />
+                    <!--                    <TextView-->
+                    <!--                        android:layout_width="wrap_content"-->
+                    <!--                        android:layout_height="wrap_content"-->
+                    <!--                        android:textStyle="bold"-->
+                    <!--                        android:layout_marginTop="20dp"-->
+                    <!--                        android:text=" Contact"-->
+                    <!--                        android:layout_marginLeft="19dp"-->
+                    <!--                        />-->
+                    <Button
+                        android:id="@+id/contact4"
+                        android:layout_width="150dp"
+                        android:layout_height="wrap_content"
+                        android:textStyle="bold"
+                        android:layout_marginTop="9dp"
+                        android:text=" Contact"
+                        android:backgroundTint="#5969CF"
+                        android:layout_marginLeft="19dp"
+                        />
+
+                </LinearLayout>
+
+
+
+
+
+            </LinearLayout>
+
+        </LinearLayout>
+        <LinearLayout
+            android:layout_marginTop="30dp"
+            android:layout_width="wrap_content"
+            android:background="#0ADFDFBC"
+            android:layout_height="match_parent"
+            android:orientation="horizontal">
+            <LinearLayout
+
+                android:layout_width="185dp"
+                android:orientation="vertical"
+                android:background="#DA658DB8"
+                android:layout_marginLeft="16dp"
+                android:layout_height="350dp">
+                <ImageView
+
+                    android:src="@drawable/ferm"
+                    android:paddingLeft="20dp"
+                    android:layout_width="120dp"
+                    android:layout_height="180dp"
+
+                    />
+                <TextView
+
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:textStyle="bold"
+                    android:layout_marginLeft="15dp"
+
+                    android:textColor="#352D01"
+                    android:textSize="17sp"
+                    android:text="Dr.Deborah Frances-White"
+                    />
+
+                <TextView
+
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+
+                    android:layout_marginLeft="15dp"
+
+                    android:textColor="#352D01"
+                    android:textSize="13sp"
+                    android:text="41 years"
+                    />
+
+                <TextView
+
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+
+                    android:layout_marginLeft="15dp"
+
+                    android:textColor="#352D01"
+                    android:textSize="13sp"
+                    android:text="Stand-up comedian; Feminist in the community  "
+                    />
+                <LinearLayout
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_marginTop="30dp"
+                    android:orientation="horizontal"
+                    >
+                    <Button
+                        android:id="@+id/contact5"
+                        android:layout_width="150dp"
+                        android:layout_height="wrap_content"
+                        android:textStyle="bold"
+                        android:backgroundTint="#5969CF"
+
+                        android:text=" Contact"
+                        android:layout_marginLeft="19dp"
+                        />
+
+
+                </LinearLayout>
+
+
+
+
+
+            </LinearLayout>
+
+            <LinearLayout
+
+                android:layout_width="185dp"
+                android:orientation="vertical"
+                android:background="#DA658DB8"
+                android:layout_marginLeft="16dp"
+                android:layout_height="350dp">
+                <ImageView
+
+                    android:src="@drawable/drm"
+                    android:paddingLeft="20dp"
+                    android:layout_width="190dp"
+                    android:layout_height="180dp"
+
+                    />
+                <TextView
+
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:textStyle="bold"
+                    android:layout_marginLeft="15dp"
+
+                    android:textColor="#352D01"
+                    android:textSize="17sp"
+                    android:text="Kajsa Wahlberg"
+                    />
+
+                <TextView
+
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+
+                    android:layout_marginLeft="15dp"
+
+                    android:textColor="#352D01"
+                    android:textSize="13sp"
+                    android:text="41 years"
+                    />
+
+                <TextView
+
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+
+                    android:layout_marginLeft="15dp"
+
+                    android:textColor="#352D01"
+                    android:textSize="13sp"
+                    android:text="Anti-prostitution feminist; Sweden's national rapporteur on human "
+                    />
+                <LinearLayout
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_marginTop="30dp"
+                    android:orientation="horizontal"
+                    >
+                    <Button
+                        android:id="@+id/contact6"
+                        android:layout_width="150dp"
+                        android:layout_height="wrap_content"
+                        android:textStyle="bold"
+                        android:backgroundTint="#5969CF"
+                        android:text=" Contact"
+                        android:layout_marginLeft="19dp"
+                        />
+
+
+                </LinearLayout>
+
+
+
+
+
+            </LinearLayout>
+
+        </LinearLayout>
+
+    </LinearLayout>
+</ScrollView>

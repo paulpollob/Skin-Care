@@ -1,0 +1,560 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ScrollView
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:scrollbars="vertical"
+    android:background="#EB254F78"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:fillViewport="false">
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:orientation="vertical"
+        android:background="#9EA2C1">
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginLeft="130dp"
+            android:layout_marginTop="5dp"
+
+            android:fontFamily="@font/ananda"
+            android:text="Our Services"
+            android:textColor="#303F9F"
+            android:textSize="30sp"
+
+
+
+            />
+        <LinearLayout
+            android:layout_marginTop="30dp"
+            android:layout_width="wrap_content"
+
+            android:layout_marginLeft="13dp"
+            android:layout_marginRight="13dp"
+            android:layout_height="match_parent"
+            android:orientation="horizontal">
+
+            <RelativeLayout
+
+                android:id="@+id/sirenn"
+                android:layout_width="150dp"
+                android:layout_height="200dp"
+                android:layout_marginLeft="23dp"
+                android:layout_marginRight="13dp"
+                android:alpha="0.5"
+                android:background="#CB2678C8"
+
+
+
+
+                android:elevation="60dp">
+
+                <ImageView
+                    android:layout_width="115dp"
+                    android:layout_height="135dp"
+                    android:layout_marginStart="5dp"
+                    android:layout_marginTop="5dp"
+
+                    android:layout_marginEnd="5dp"
+                    android:layout_marginBottom="5dp"
+                    android:paddingLeft="20dp"
+                    android:src="@drawable/skincare" />
+
+                <TextView
+
+                    android:layout_width="match_parent"
+                    android:layout_height="match_parent"
+                    android:layout_marginLeft="45dp"
+                    android:layout_marginTop="140dp"
+                    android:layout_marginBottom="10dp"
+                    android:text="Skin Care"
+                    android:textColor="#ED1B1A1A"
+                    android:textSize="15sp"
+                    android:textStyle="bold" />
+
+            </RelativeLayout>
+            <!--                <LinearLayout-->
+            <!--                    android:id="@+id/helplinee"-->
+            <!--                    android:layout_width="160dp"-->
+            <!--                    android:layout_height="160dp"-->
+            <!--                    android:alpha="0.5"-->
+            <!--                    android:background="@drawable/style"-->
+            <!--                    android:backgroundTint="#B3B1B1"-->
+            <!--                    android:elevation="60dp">-->
+
+            <RelativeLayout
+
+                android:id="@+id/help"
+                android:layout_width="150dp"
+                android:layout_height="200dp"
+                android:layout_marginLeft="27dp"
+
+                android:alpha="0.5"
+                android:background="#CB2678C8"
+
+
+
+
+                android:elevation="20dp">
+
+                <ImageView
+                    android:layout_width="225dp"
+                    android:layout_height="125dp"
+
+
+                    android:layout_marginEnd="5dp"
+                    android:layout_marginBottom="5dp"
+
+                    android:paddingLeft="10dp"
+
+                    android:paddingTop="11sp"
+                    android:src="@drawable/suggestion" />
+
+                <TextView
+
+                    android:layout_width="match_parent"
+                    android:layout_height="match_parent"
+                    android:layout_marginLeft="45dp"
+                    android:layout_marginTop="140dp"
+                    android:layout_marginBottom="10dp"
+                    android:text="Hair Care"
+                    android:textColor="#ED121111"
+                    android:textSize="15sp"
+                    android:textStyle="bold" />
+
+            </RelativeLayout>
+
+
+
+
+
+
+
+        </LinearLayout>
+        <LinearLayout
+            android:layout_marginTop="30dp"
+            android:layout_width="wrap_content"
+
+            android:layout_marginLeft="13dp"
+            android:layout_marginRight="13dp"
+            android:layout_height="match_parent"
+            android:orientation="horizontal">
+
+            <RelativeLayout
+
+                android:id="@+id/current"
+                android:layout_width="150dp"
+                android:layout_height="200dp"
+                android:layout_marginLeft="23dp"
+                android:layout_marginRight="13dp"
+                android:alpha="0.5"
+                android:background="#CB2678C8"
+
+
+
+
+                android:elevation="60dp">
+
+                <ImageView
+                    android:layout_width="115dp"
+                    android:layout_height="135dp"
+                    android:layout_marginStart="5dp"
+                    android:layout_marginTop="5dp"
+
+                    android:layout_marginEnd="5dp"
+                    android:layout_marginBottom="5dp"
+                    android:paddingLeft="20dp"
+                    android:src="@drawable/tips" />
+
+                <TextView
+
+                    android:layout_width="match_parent"
+                    android:layout_height="match_parent"
+                    android:layout_marginLeft="9dp"
+                    android:layout_marginTop="140dp"
+                    android:layout_marginBottom="10dp"
+                    android:text="Mom And Baby Care"
+                    android:textColor="#ED171616"
+                    android:textSize="15sp"
+                    android:textStyle="bold" />
+
+            </RelativeLayout>
+            <!--                <LinearLayout-->
+            <!--                    android:id="@+id/helplinee"-->
+            <!--                    android:layout_width="160dp"-->
+            <!--                    android:layout_height="160dp"-->
+            <!--                    android:alpha="0.5"-->
+            <!--                    android:background="@drawable/style"-->
+            <!--                    android:backgroundTint="#B3B1B1"-->
+            <!--                    android:elevation="60dp">-->
+
+            <RelativeLayout
+
+                android:id="@+id/tip"
+                android:layout_width="150dp"
+                android:layout_height="200dp"
+                android:layout_marginLeft="27dp"
+
+                android:alpha="0.5"
+                android:background="#CB2678C8"
+
+
+
+
+                android:elevation="20dp">
+
+                <ImageView
+                    android:layout_width="225dp"
+                    android:layout_height="125dp"
+
+
+                    android:layout_marginEnd="5dp"
+                    android:layout_marginBottom="5dp"
+
+                    android:paddingLeft="10dp"
+
+                    android:paddingTop="11sp"
+                    android:src="@drawable/derma" />
+
+                <TextView
+
+                    android:layout_width="match_parent"
+                    android:layout_height="match_parent"
+                    android:layout_marginLeft="10dp"
+                    android:layout_marginTop="140dp"
+                    android:layout_marginBottom="10dp"
+                    android:text="Contact Dermalogist"
+                    android:textColor="#ED232222"
+                    android:textSize="14sp"
+                    android:textStyle="bold" />
+
+            </RelativeLayout>
+
+
+
+
+
+
+        </LinearLayout>
+        <LinearLayout
+            android:layout_marginTop="30dp"
+            android:layout_width="wrap_content"
+
+            android:layout_marginLeft="13dp"
+            android:layout_marginRight="13dp"
+            android:layout_height="match_parent"
+            android:orientation="horizontal">
+
+            <RelativeLayout
+
+                android:id="@+id/yoga"
+                android:layout_width="150dp"
+                android:layout_height="200dp"
+                android:layout_marginLeft="23dp"
+                android:layout_marginRight="13dp"
+                android:alpha="0.5"
+                android:background="#CB2678C8"
+
+
+
+
+                android:elevation="60dp">
+
+                <ImageView
+                    android:layout_width="95dp"
+                    android:layout_height="135dp"
+                    android:layout_marginStart="5dp"
+                    android:layout_marginTop="5dp"
+
+                    android:layout_marginEnd="5dp"
+                    android:layout_marginBottom="5dp"
+                    android:paddingLeft="20dp"
+                    android:src="@drawable/kill" />
+
+                <TextView
+
+                    android:layout_width="match_parent"
+                    android:layout_height="match_parent"
+                    android:layout_marginLeft="25dp"
+                    android:layout_marginTop="140dp"
+                    android:layout_marginBottom="10dp"
+                    android:text="Face Yoga"
+                    android:textColor="#ED252424"
+                    android:textSize="15sp"
+                    android:textStyle="bold" />
+
+            </RelativeLayout>
+            <!--                <LinearLayout-->
+            <!--                    android:id="@+id/helplinee"-->
+            <!--                    android:layout_width="160dp"-->
+            <!--                    android:layout_height="160dp"-->
+            <!--                    android:alpha="0.5"-->
+            <!--                    android:background="@drawable/style"-->
+            <!--                    android:backgroundTint="#B3B1B1"-->
+            <!--                    android:elevation="60dp">-->
+
+            <RelativeLayout
+
+                android:id="@+id/view_off"
+                android:layout_width="150dp"
+                android:layout_height="200dp"
+                android:layout_marginLeft="27dp"
+
+                android:alpha="0.5"
+                android:background="#CB2678C8"
+
+
+
+
+                android:elevation="20dp">
+
+                <ImageView
+                    android:layout_width="225dp"
+                    android:layout_height="120dp"
+
+
+                    android:layout_marginEnd="5dp"
+                    android:layout_marginBottom="5dp"
+
+                    android:paddingLeft="10dp"
+
+                    android:paddingTop="11sp"
+                    android:src="@drawable/bot" />
+
+                <TextView
+
+                    android:layout_width="match_parent"
+                    android:layout_height="match_parent"
+                    android:layout_marginLeft="45dp"
+                    android:layout_marginTop="147dp"
+                    android:layout_marginBottom="10dp"
+                    android:text="Chatbot"
+                    android:textColor="#ED191818"
+                    android:textSize="15sp"
+
+                    android:textStyle="bold" />
+
+            </RelativeLayout>
+
+
+
+
+
+
+        </LinearLayout>
+
+
+
+
+
+
+
+
+        <LinearLayout
+            android:layout_marginTop="30dp"
+            android:layout_width="wrap_content"
+
+            android:layout_marginLeft="13dp"
+            android:layout_marginRight="13dp"
+            android:layout_height="match_parent"
+            android:orientation="horizontal">
+
+            <RelativeLayout
+
+                android:id="@+id/contactt"
+                android:layout_width="150dp"
+                android:layout_height="200dp"
+                android:layout_marginLeft="23dp"
+                android:layout_marginRight="13dp"
+                android:alpha="0.5"
+                android:background="#CB2678C8"
+
+
+
+
+                android:elevation="60dp">
+
+                <ImageView
+                    android:layout_width="115dp"
+                    android:layout_height="135dp"
+                    android:layout_marginStart="5dp"
+                    android:layout_marginTop="5dp"
+
+                    android:layout_marginEnd="5dp"
+                    android:layout_marginBottom="5dp"
+                    android:paddingLeft="20dp"
+                    android:src="@drawable/problm" />
+
+                <TextView
+
+                    android:layout_width="match_parent"
+                    android:layout_height="match_parent"
+                    android:layout_marginLeft="25dp"
+                    android:layout_marginTop="140dp"
+                    android:layout_marginBottom="10dp"
+                    android:text="Skin Detection"
+                    android:textColor="#ED252424"
+                    android:textSize="15sp"
+                    android:textStyle="bold" />
+
+            </RelativeLayout>
+            <!--                <LinearLayout-->
+            <!--                    android:id="@+id/helplinee"-->
+            <!--                    android:layout_width="160dp"-->
+            <!--                    android:layout_height="160dp"-->
+            <!--                    android:alpha="0.5"-->
+            <!--                    android:background="@drawable/style"-->
+            <!--                    android:backgroundTint="#B3B1B1"-->
+            <!--                    android:elevation="60dp">-->
+
+            <RelativeLayout
+
+                android:id="@+id/view"
+                android:layout_width="150dp"
+                android:layout_height="200dp"
+                android:layout_marginLeft="27dp"
+
+                android:alpha="0.5"
+                android:background="#CB2678C8"
+
+
+
+
+                android:elevation="20dp">
+
+                <ImageView
+                    android:layout_width="225dp"
+                    android:layout_height="120dp"
+
+
+                    android:layout_marginEnd="5dp"
+                    android:layout_marginBottom="5dp"
+
+                    android:paddingLeft="10dp"
+
+                    android:paddingTop="11sp"
+                    android:src="@drawable/quries" />
+
+                <TextView
+
+                    android:layout_width="match_parent"
+                    android:layout_height="match_parent"
+                    android:layout_marginLeft="35dp"
+                    android:layout_marginTop="147dp"
+                    android:layout_marginBottom="10dp"
+                    android:text="Skin Care Tips"
+                    android:textColor="#ED191818"
+                    android:textSize="15sp"
+
+                    android:textStyle="bold" />
+
+            </RelativeLayout>
+
+
+
+
+
+
+        </LinearLayout>
+
+
+
+        <LinearLayout
+            android:layout_marginTop="30dp"
+            android:layout_width="wrap_content"
+
+            android:layout_marginLeft="13dp"
+            android:layout_marginRight="13dp"
+            android:layout_height="match_parent"
+            android:orientation="horizontal">
+
+            <RelativeLayout
+
+                android:id="@+id/reminder"
+                android:layout_width="150dp"
+                android:layout_height="200dp"
+                android:layout_marginLeft="23dp"
+                android:layout_marginRight="13dp"
+                android:alpha="0.5"
+                android:background="#CB2678C8"
+                android:layout_marginBottom="25dp"
+                android:elevation="60dp">
+
+                <ImageView
+                    android:layout_width="115dp"
+                    android:layout_height="135dp"
+                    android:layout_marginStart="5dp"
+                    android:layout_marginTop="5dp"
+
+                    android:layout_marginEnd="5dp"
+                    android:layout_marginBottom="5dp"
+                    android:paddingLeft="20dp"
+                    android:src="@drawable/reminder" />
+
+                <TextView
+
+                    android:layout_width="match_parent"
+                    android:layout_height="match_parent"
+                    android:layout_marginLeft="25dp"
+                    android:layout_marginTop="140dp"
+                    android:layout_marginBottom="10dp"
+                    android:text="Reminder"
+                    android:textColor="#ED252424"
+                    android:textSize="15sp"
+                    android:textStyle="bold" />
+
+            </RelativeLayout>
+
+
+            <RelativeLayout
+
+                android:id="@+id/nothing"
+                android:layout_width="150dp"
+                android:layout_height="200dp"
+                android:layout_marginLeft="27dp"
+
+                android:alpha="0.5"
+                android:background="#CB2678C8"
+android:elevation="20dp">
+
+                <ImageView
+                    android:layout_width="225dp"
+                    android:layout_height="120dp"
+                    android:layout_marginEnd="5dp"
+                    android:layout_marginBottom="5dp"
+                    android:paddingLeft="10dp"
+                    android:paddingTop="11sp"
+                    android:src="@drawable/quries" />
+
+                <TextView
+
+                    android:layout_width="match_parent"
+                    android:layout_height="match_parent"
+                    android:layout_marginLeft="35dp"
+                    android:layout_marginTop="147dp"
+                    android:layout_marginBottom="10dp"
+                    android:text="Skin Care Tips"
+                    android:textColor="#ED191818"
+                    android:textSize="15sp"
+
+                    android:textStyle="bold" />
+
+            </RelativeLayout>
+
+
+
+
+
+
+        </LinearLayout>
+
+
+
+    </LinearLayout>
+
+
+</ScrollView>

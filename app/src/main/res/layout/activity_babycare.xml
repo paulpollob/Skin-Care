@@ -1,0 +1,512 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:orientation="vertical"
+    android:background="@color/white"
+    android:layout_height="match_parent"
+    tools:context=".babycare">
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginLeft="118dp"
+        android:layout_marginTop="5dp"
+
+        android:fontFamily="@font/ananda"
+        android:text="Baby Care"
+        android:textColor="#303F9F"
+        android:textSize="27sp"
+
+
+
+        />
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginLeft="89dp"
+        android:layout_marginTop="35dp"
+
+
+        android:text="Some Baby Care Products"
+        android:textColor="#234704"
+        android:textSize="19sp"
+
+
+        />
+    <LinearLayout
+        android:layout_marginTop="30dp"
+        android:layout_width="386dp"
+        android:background="@color/white"
+        android:layout_marginLeft="43dp"
+        android:layout_marginRight="13dp"
+
+        android:layout_height="90dp"
+        android:orientation="horizontal">
+
+
+        <LinearLayout
+            android:layout_marginTop="3dp"
+            android:layout_width="106dp"
+            android:background="@color/white"
+            android:layout_marginLeft="3dp"
+            android:layout_marginRight="3dp"
+
+            android:layout_height="160dp"
+            android:orientation="vertical">
+
+            <ImageView
+                android:layout_width="85dp"
+                android:layout_height="55dp"
+                android:layout_marginTop="4dp"
+
+
+
+                android:src="@drawable/baby9" />
+            <TextView
+                android:layout_width="160dp"
+                android:layout_height="30dp"
+
+
+                android:layout_marginLeft="15dp"
+
+                android:text="Pampers"
+                android:textColor="#303F9F"
+                android:textSize="10sp"
+
+
+
+                />
+        </LinearLayout>
+        <LinearLayout
+            android:layout_marginTop="3dp"
+            android:layout_width="106dp"
+            android:background="@color/white"
+            android:layout_marginLeft="3dp"
+            android:layout_marginRight="3dp"
+
+            android:layout_height="160dp"
+            android:orientation="vertical">
+
+            <ImageView
+                android:layout_width="85dp"
+                android:layout_height="55dp"
+                android:layout_marginTop="4dp"
+
+
+
+                android:src="@drawable/baby3" />
+            <TextView
+                android:layout_width="160dp"
+                android:layout_height="30dp"
+
+
+                android:layout_marginLeft="15dp"
+
+                android:text="Soft Face Cream"
+                android:textColor="#303F9F"
+                android:textSize="10sp"
+
+
+
+                />
+        </LinearLayout>
+
+
+        <LinearLayout
+            android:layout_marginTop="3dp"
+            android:layout_width="176dp"
+            android:background="@color/white"
+            android:layout_marginLeft="3dp"
+            android:layout_marginRight="3dp"
+
+            android:layout_height="160dp"
+            android:orientation="vertical">
+
+            <ImageView
+                android:layout_width="85dp"
+                android:layout_height="55dp"
+                android:layout_marginTop="4dp"
+
+
+
+                android:src="@drawable/bosster" />
+            <TextView
+                android:layout_width="160dp"
+                android:layout_height="30dp"
+
+
+                android:layout_marginLeft="15dp"
+
+                android:text="Bbay Wash"
+                android:textColor="#303F9F"
+                android:textSize="10sp"
+
+
+
+                />
+        </LinearLayout>
+
+
+
+
+
+
+    </LinearLayout>
+
+
+    <LinearLayout
+        android:layout_marginTop="30dp"
+        android:layout_width="386dp"
+        android:background="@color/white"
+        android:layout_marginLeft="33dp"
+        android:layout_marginRight="13dp"
+
+        android:layout_height="90dp"
+        android:orientation="horizontal">
+
+
+        <LinearLayout
+            android:layout_marginTop="3dp"
+            android:layout_width="106dp"
+            android:background="@color/white"
+            android:layout_marginLeft="13dp"
+            android:layout_marginRight="3dp"
+
+            android:layout_height="160dp"
+            android:orientation="vertical">
+
+            <ImageView
+                android:layout_width="85dp"
+                android:layout_height="55dp"
+                android:layout_marginTop="4dp"
+
+
+
+                android:src="@drawable/baby4" />
+            <TextView
+                android:layout_width="160dp"
+                android:layout_height="30dp"
+
+
+                android:layout_marginLeft="15dp"
+
+                android:text="Baby Cream"
+                android:textColor="#303F9F"
+                android:textSize="10sp"
+
+
+
+                />
+        </LinearLayout>
+        <LinearLayout
+            android:layout_marginTop="3dp"
+            android:layout_width="106dp"
+            android:background="@color/white"
+            android:layout_marginLeft="3dp"
+            android:layout_marginRight="3dp"
+
+            android:layout_height="160dp"
+            android:orientation="vertical">
+
+            <ImageView
+                android:layout_width="85dp"
+                android:layout_height="55dp"
+                android:layout_marginTop="4dp"
+
+
+
+                android:src="@drawable/bby3" />
+            <TextView
+                android:layout_width="160dp"
+                android:layout_height="30dp"
+
+
+                android:layout_marginLeft="25dp"
+
+                android:text="Baby Lotion"
+                android:textColor="#303F9F"
+                android:textSize="10sp"
+
+
+
+                />
+        </LinearLayout>
+
+
+        <LinearLayout
+            android:layout_marginTop="3dp"
+            android:layout_width="176dp"
+            android:background="@color/white"
+            android:layout_marginLeft="3dp"
+            android:layout_marginRight="3dp"
+
+            android:layout_height="160dp"
+            android:orientation="vertical">
+
+            <ImageView
+                android:layout_width="85dp"
+                android:layout_height="55dp"
+                android:layout_marginTop="4dp"
+
+
+
+                android:src="@drawable/baby1" />
+            <TextView
+                android:layout_width="160dp"
+                android:layout_height="30dp"
+
+
+                android:layout_marginLeft="15dp"
+
+                android:text="Bbay Oil"
+                android:textColor="#303F9F"
+                android:textSize="10sp"
+
+
+
+                />
+        </LinearLayout>
+
+
+
+
+
+
+    </LinearLayout>
+
+
+    <LinearLayout
+        android:layout_marginTop="30dp"
+        android:layout_width="386dp"
+        android:background="@color/white"
+        android:layout_marginLeft="43dp"
+        android:layout_marginRight="13dp"
+
+        android:layout_height="90dp"
+        android:orientation="horizontal">
+
+
+        <LinearLayout
+            android:layout_marginTop="3dp"
+            android:layout_width="106dp"
+            android:background="@color/white"
+            android:layout_marginLeft="13dp"
+            android:layout_marginRight="3dp"
+
+            android:layout_height="160dp"
+            android:orientation="vertical">
+
+            <ImageView
+                android:layout_width="85dp"
+                android:layout_height="55dp"
+                android:layout_marginTop="4dp"
+
+
+
+                android:src="@drawable/vivo" />
+            <TextView
+                android:layout_width="160dp"
+                android:layout_height="30dp"
+
+
+                android:layout_marginLeft="15dp"
+
+                android:text="Baby Serum"
+                android:textColor="#303F9F"
+                android:textSize="10sp"
+
+
+
+                />
+        </LinearLayout>
+        <LinearLayout
+            android:layout_marginTop="3dp"
+            android:layout_width="106dp"
+            android:background="@color/white"
+            android:layout_marginLeft="3dp"
+            android:layout_marginRight="3dp"
+
+            android:layout_height="160dp"
+            android:orientation="vertical">
+
+            <ImageView
+                android:layout_width="85dp"
+                android:layout_height="55dp"
+                android:layout_marginTop="4dp"
+
+
+
+                android:src="@drawable/ee" />
+            <TextView
+                android:layout_width="160dp"
+                android:layout_height="30dp"
+
+
+                android:layout_marginLeft="15dp"
+
+                android:text=" Face Cream"
+                android:textColor="#303F9F"
+                android:textSize="10sp"
+
+
+
+                />
+        </LinearLayout>
+
+
+        <LinearLayout
+            android:layout_marginTop="3dp"
+            android:layout_width="176dp"
+            android:background="@color/white"
+            android:layout_marginLeft="3dp"
+            android:layout_marginRight="3dp"
+
+            android:layout_height="160dp"
+            android:orientation="vertical">
+
+            <ImageView
+                android:layout_width="85dp"
+                android:layout_height="55dp"
+                android:layout_marginTop="4dp"
+
+
+
+                android:src="@drawable/onee" />
+            <TextView
+                android:layout_width="160dp"
+                android:layout_height="30dp"
+
+
+                android:layout_marginLeft="15dp"
+
+                android:text="Baby Moisture"
+                android:textColor="#303F9F"
+                android:textSize="10sp"
+
+
+
+                />
+        </LinearLayout>
+
+
+
+
+
+
+    </LinearLayout>
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginLeft="20dp"
+        android:layout_marginTop="25dp"
+
+
+        android:text="Here&#39;s how you can protect and take care of your baby&#39;s skin:"
+        android:textColor="#023904"
+        android:textSize="15sp"
+
+
+
+        />
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginLeft="20dp"
+        android:layout_marginTop="25dp"
+
+
+        android:text="1.Follow a proper bathing routine. ..."
+        android:textColor="#374BCA"
+        android:textSize="13sp"
+
+
+
+        />
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginLeft="20dp"
+        android:layout_marginTop="5dp"
+
+
+        android:text=" 2.Use a gentle and good moisturizing lotion. ..."
+        android:textColor="#374BCA"
+        android:textSize="13sp"
+
+
+
+        />
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginLeft="20dp"
+        android:layout_marginTop="5dp"
+
+
+        android:text="3.Give regular massage to the baby. ..."
+        android:textColor="#374BCA"
+        android:textSize="13sp"
+
+
+
+        />
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginLeft="20dp"
+        android:layout_marginTop="5dp"
+
+
+        android:text="4.Avoid using scented products. ..."
+        android:textColor="#374BCA"
+        android:textSize="13sp"
+
+
+
+        />
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginLeft="20dp"
+        android:layout_marginTop="5dp"
+
+
+        android:text="5.Manage diaper rash and eczema."
+        android:textColor="#374BCA"
+        android:textSize="13sp"
+
+
+
+        />
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginLeft="20dp"
+        android:layout_marginTop="5dp"
+
+
+        android:text=" 6.Avoid the baby&#39;s exposure to direct sunlight. ..."
+        android:textColor="#374BCA"
+        android:textSize="13sp"
+
+
+
+        />
+
+
+
+</LinearLayout>
+
+
+
+
+
+
+
+
+
+

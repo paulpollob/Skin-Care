@@ -1,0 +1,56 @@
+[
+  {
+    "product_Id": 1,
+    "product_Name": "Simple Care",
+    "product_Image": "https://i.ibb.co/QdwRxCk/simple-care.jpg",
+    "product_Type": "Gentle Cleanser",
+    "product_Description": "Simple Care is a gentle face wash that effectively cleanses without causing irritation, suitable for daily use.",
+    "product_Ingredients": "Water, Glycerin, Aloe Vera Extract, Chamomile",
+    "how_To_Use": "Apply to wet face, lather, and massage in circular motions. Rinse thoroughly with water."
+  },
+  {
+    "product_Id": 2,
+    "product_Name": "Cereve CF",
+    "product_Image": "https://i.ibb.co/9yj4tFj/cereve-cf.jpg",
+    "product_Type": "Foaming Cleanser",
+    "product_Description": "Cereve CF is a foaming cleanser that provides a thorough cleanse while maintaining the skin's natural barrier.",
+    "product_Ingredients": "Ceramides, Hyaluronic Acid, Niacinamide",
+    "how_To_Use": "Apply to wet face, lather, and massage gently. Rinse thoroughly with water."
+  },
+  {
+    "product_Id": 3,
+    "product_Name": "Pixi A4",
+    "product_Image": "https://i.ibb.co/kgV4xgk/pixi-a4.jpg",
+    "product_Type": "Brightening Cleanser",
+    "product_Description": "Pixi A4 is a brightening cleanser that helps achieve a radiant and luminous complexion.",
+    "product_Ingredients": "Vitamin C, Ginseng Extract, Jojoba Beads",
+    "how_To_Use": "Wet face, apply a small amount, and massage gently. Rinse thoroughly with water."
+  },
+  {
+    "product_Id": 4,
+    "product_Name": "Lactro",
+    "product_Image": "https://i.ibb.co/sRBg8cP/lactro.jpg",
+    "product_Type": "Milky Cleanser",
+    "product_Description": "Lactro is a milky cleanser that provides a gentle and nourishing cleanse, leaving the skin hydrated.",
+    "product_Ingredients": "Milk Proteins, Honey Extract, Shea Butter",
+    "how_To_Use": "Apply to dry face, massage in circular motions, and rinse off with water or wipe with a damp cloth."
+  },
+  {
+    "product_Id": 5,
+    "product_Name": "Cetaphil",
+    "product_Image": "https://i.ibb.co/C97SjGm/cetaphil.jpg",
+    "product_Type": "Gentle Skin Cleanser",
+    "product_Description": "Cetaphil is a gentle skin cleanser suitable for all skin types, providing a mild and effective cleanse.",
+    "product_Ingredients": "Water, Cetyl Alcohol, Propylene Glycol, Sodium Lauryl Sulfate",
+    "how_To_Use": "Apply to wet face, lather, and massage gently. Rinse thoroughly with water."
+  },
+  {
+    "product_Id": 6,
+    "product_Name": "Mosure CF",
+    "product_Image": "https://i.ibb.co/SfPfwdR/mosure-cf.jpg",
+    "product_Type": "Moisturizing Cleanser",
+    "product_Description": "Mosure CF is a moisturizing cleanser that cleanses while maintaining the skin's moisture balance.",
+    "product_Ingredients": "Hyaluronic Acid, Coconut Oil, Green Tea Extract",
+    "how_To_Use": "Apply to wet face, lather, and massage gently. Rinse thoroughly with water."
+  }
+]

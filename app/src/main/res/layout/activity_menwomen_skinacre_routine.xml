@@ -1,0 +1,280 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ScrollView
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:scrollbars="vertical"
+    android:background="#EBAFC8E1"
+
+
+    android:layout_width="match_parent"
+
+    android:layout_height="match_parent"
+    android:fillViewport="false">
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="#EBAFC8E1"
+    android:orientation="vertical"
+    tools:context=".menwomen_skinacreRoutine">
+
+
+
+    <ImageView
+        android:layout_width="265dp"
+        android:layout_height="345dp"
+        android:layout_marginTop="10dp"
+        android:layout_marginLeft="90dp"
+
+
+        android:src="@drawable/facek" />
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginLeft="20dp"
+        android:layout_marginTop="25dp"
+
+
+        android:text="Here's Some SkinCare Routine Both for Men And Women"
+        android:textColor="#023904"
+        android:textSize="15sp"
+
+
+
+        />
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginLeft="20dp"
+        android:layout_marginTop="25dp"
+
+
+        android:text="Daytime Skincare Routine:"
+        android:textColor="#023904"
+        android:textSize="15sp"
+
+
+
+        />
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginLeft="20dp"
+        android:layout_marginTop="25dp"
+
+
+        android:text="Step 1: Cleanser. ..."
+        android:textColor="#374BCA"
+        android:textSize="13sp"
+
+
+
+        />
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginLeft="20dp"
+        android:layout_marginTop="5dp"
+
+
+        android:text="Step 2: Exfoliate Once or Twice per Week. ..."
+        android:textColor="#374BCA"
+        android:textSize="13sp"
+
+
+
+        />
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginLeft="20dp"
+        android:layout_marginTop="5dp"
+
+
+        android:text="Step 3: Apply an Essence To Keep Skin Hydrated. ..."
+        android:textColor="#374BCA"
+        android:textSize="13sp"
+
+
+
+        />
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginLeft="20dp"
+        android:layout_marginTop="5dp"
+
+
+        android:text="Step 4: Add Topical Acne Medications. ..."
+        android:textColor="#374BCA"
+        android:textSize="13sp"
+
+
+
+        />
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginLeft="20dp"
+        android:layout_marginTop="5dp"
+
+
+        android:text="Step 5: Add an Antioxidant Serum. ..."
+        android:textColor="#374BCA"
+        android:textSize="13sp"
+
+
+
+        />
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginLeft="20dp"
+        android:layout_marginTop="5dp"
+
+
+        android:text="Step 6: Apply Eye Cream. ..."
+        android:textColor="#374BCA"
+        android:textSize="13sp"
+
+
+
+        />
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginLeft="20dp"
+        android:layout_marginTop="5dp"
+
+
+        android:text="Step 7: Moisturize with Sunscreen."
+        android:textColor="#374BCA"
+        android:textSize="13sp"
+
+
+
+        />
+
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginLeft="20dp"
+        android:layout_marginTop="25dp"
+
+
+        android:text="Night Skincare Routine:"
+        android:textColor="#023904"
+        android:textSize="15sp"
+
+
+
+        />
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginLeft="20dp"
+        android:layout_marginTop="25dp"
+
+
+        android:text="1.Remove Makeup. Removing your makeup should be the first step to your skincare routine. ..."
+        android:textColor="#374BCA"
+        android:textSize="13sp"
+
+
+
+        />
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginLeft="20dp"
+        android:layout_marginTop="15dp"
+
+
+        android:text="2.Cleanse. Use a gentle cleanser to clean your face and neck. ..."
+        android:textColor="#374BCA"
+        android:textSize="13sp"
+
+
+
+        />
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginLeft="20dp"
+        android:layout_marginTop="15dp"
+
+
+        android:text="3.Tone. Use a softener or toner to smoothen the skin and balance its pH levels [1]. ..."
+        android:textColor="#374BCA"
+        android:textSize="13sp"
+
+
+
+        />
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginLeft="20dp"
+        android:layout_marginTop="15dp"
+
+
+        android:text="4.Serum. ..."
+        android:textColor="#374BCA"
+        android:textSize="13sp"
+
+
+
+        />
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginLeft="20dp"
+        android:layout_marginTop="5dp"
+
+
+        android:text="5.Moisturize. ..."
+        android:textColor="#374BCA"
+        android:textSize="13sp"
+
+
+
+        />
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginLeft="20dp"
+        android:layout_marginTop="5dp"
+
+
+        android:text="6.Eye Cream. ..."
+        android:textColor="#374BCA"
+        android:textSize="13sp"
+
+
+
+        />
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginLeft="20dp"
+        android:layout_marginTop="5dp"
+
+
+        android:text="7.Masks. ..."
+        android:textColor="#374BCA"
+        android:textSize="13sp"
+
+
+
+        />
+
+
+</LinearLayout>
+</ScrollView>

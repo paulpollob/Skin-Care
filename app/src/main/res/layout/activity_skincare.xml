@@ -1,0 +1,119 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="#EB5D97D1"
+
+    android:orientation="vertical"
+    tools:context=".skincare">
+
+    <ImageView
+        android:layout_width="500dp"
+        android:layout_height="300dp"
+        android:src="@drawable/op"
+        android:layout_marginRight="45dp"
+        android:paddingRight="78dp"
+        android:layout_marginTop="30dp"
+        />
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginLeft="90dp"
+        android:layout_marginTop="5dp"
+
+
+        android:text="Types of your skin?"
+        android:textColor="#E64A19"
+        android:textSize="27sp"
+
+
+
+        />
+    <Button
+        android:id="@+id/oily"
+        android:layout_width="180dp"
+        android:layout_height="70dp"
+        android:text="Oily Skin"
+        android:layout_marginLeft="115dp"
+        android:paddingLeft="20dp"
+
+        android:textStyle="bold"
+        android:paddingRight="22dp"
+        android:paddingTop="18dp"
+        android:paddingBottom="16dp"
+
+        android:textSize="12sp"
+        android:layout_marginTop="10dp"
+        android:backgroundTint="#C1C4DC"
+
+        android:textColor="@color/black"
+        android:layout_marginBottom="10dp"
+        />
+    <Button
+        android:id="@+id/dry"
+        android:layout_width="180dp"
+        android:layout_height="70dp"
+        android:text="Dry Skin"
+        android:layout_marginLeft="115dp"
+        android:paddingLeft="20dp"
+
+        android:textStyle="bold"
+        android:paddingRight="22dp"
+        android:paddingTop="18dp"
+        android:paddingBottom="16dp"
+
+        android:textSize="12sp"
+        android:layout_marginTop="10dp"
+        android:backgroundTint="#C1C4DC"
+
+        android:textColor="@color/black"
+        android:layout_marginBottom="10dp"
+        />
+    <Button
+        android:id="@+id/combine"
+        android:layout_width="180dp"
+        android:layout_height="70dp"
+        android:text="Combination Skin"
+        android:layout_marginLeft="115dp"
+        android:paddingLeft="20dp"
+       android:textSize="12sp"
+        android:textStyle="bold"
+        android:paddingRight="22dp"
+        android:paddingTop="18dp"
+        android:paddingBottom="16dp"
+
+
+        android:layout_marginTop="10dp"
+        android:backgroundTint="#C1C4DC"
+
+        android:textColor="@color/black"
+        android:layout_marginBottom="10dp"
+        />
+    <Button
+        android:id="@+id/sensitive"
+        android:layout_width="180dp"
+        android:layout_height="70dp"
+        android:text="Sensitive Skin"
+        android:layout_marginLeft="115dp"
+        android:paddingLeft="20dp"
+
+        android:textStyle="bold"
+        android:paddingRight="22dp"
+        android:paddingTop="18dp"
+        android:paddingBottom="26dp"
+
+        android:textSize="12sp"
+        android:layout_marginTop="10dp"
+        android:layout_marginBottom="30dp"
+
+        android:backgroundTint="#C1C4DC"
+
+        android:textColor="@color/black"
+
+        />
+
+
+</LinearLayout>

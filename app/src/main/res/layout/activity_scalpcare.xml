@@ -1,0 +1,185 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<ScrollView
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:scrollbars="vertical"
+    android:background="@color/white"
+
+
+    android:layout_width="match_parent"
+
+    android:layout_height="match_parent"
+    android:fillViewport="false">
+
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:padding="10dp"
+    android:orientation="vertical"
+    tools:context=".scalpcare">
+
+
+    <ImageView
+        android:layout_width="300dp"
+        android:layout_height="190dp"
+        android:src="@drawable/cal"
+        android:layout_marginRight="350dp"
+        android:paddingLeft="88dp"
+        android:layout_marginTop="20dp"
+        />
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginLeft="100dp"
+        android:layout_marginTop="5dp"
+
+        android:fontFamily="@font/ananda"
+        android:text="Scalp Care "
+        android:textColor="#303F9F"
+        android:textSize="37sp"
+
+
+
+        />
+
+
+
+
+
+
+
+        <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginLeft="30dp"
+        android:layout_marginTop="25dp"
+
+
+        android:text="Taking care of your scalp is essential for maintaining healthy hair."
+        android:textColor="#9A462D"
+        android:textSize="17sp"
+
+
+
+        />
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginLeft="30dp"
+        android:layout_marginTop="15dp"
+
+
+        android:text="1.Regular Cleansing"
+        android:textColor="#0E0C0B"
+
+        android:textSize="16sp"
+
+
+
+        />
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginLeft="30dp"
+        android:layout_marginTop="15dp"
+
+
+        android:text="2.Massage"
+        android:textColor="#170601"
+        android:textSize="16sp"
+
+
+
+        />
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginLeft="30dp"
+        android:layout_marginTop="15dp"
+
+
+        android:text="3.Avoid Hot Water"
+        android:textColor="#170601"
+        android:textSize="16sp"
+
+
+
+        />
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginLeft="30dp"
+        android:layout_marginTop="15dp"
+
+
+        android:text="4.Hydration"
+        android:textColor="#170601"
+        android:textSize="16sp"
+
+
+
+        />
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginLeft="30dp"
+        android:layout_marginTop="15dp"
+
+
+        android:text="5.Balanced Diet"
+        android:textColor="#170601"
+        android:textSize="16sp"
+
+
+
+        />
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginLeft="30dp"
+        android:layout_marginTop="15dp"
+
+
+        android:text="6.Avoid Overwashing"
+        android:textColor="#170601"
+        android:textSize="16sp"
+
+
+
+        />
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginLeft="30dp"
+        android:layout_marginTop="15dp"
+
+
+        android:text="7.Use Conditioner"
+        android:textColor="#170601"
+        android:textSize="16sp"
+
+
+
+        />
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginLeft="30dp"
+        android:layout_marginTop="15dp"
+
+
+        android:text="8.Protect from Sun"
+        android:textColor="#170601"
+        android:textSize="16sp"
+
+
+
+        />
+
+
+</LinearLayout>
+</ScrollView>

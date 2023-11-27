@@ -1,0 +1,425 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+
+<ScrollView
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:scrollbars="vertical"
+    android:background="#EB254F78"
+
+
+    android:layout_width="match_parent"
+
+    android:layout_height="wrap_content"
+    android:fillViewport="false">
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    android:background="#EB667D93"
+    tools:context=".beardcare">
+
+
+    <ImageView
+        android:layout_width="500dp"
+        android:layout_height="200dp"
+        android:src="@drawable/beard"
+        android:layout_marginRight="50dp"
+        android:paddingRight="70dp"
+        android:layout_marginTop="30dp"
+        />
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+
+        android:orientation="vertical"
+       >
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginLeft="150dp"
+            android:layout_marginTop="5dp"
+
+            android:fontFamily="@font/ananda"
+            android:text="Beard Care"
+            android:textColor="#303F9F"
+            android:textSize="27sp"
+
+
+
+            />
+
+
+
+        <LinearLayout
+            android:layout_marginTop="30dp"
+            android:layout_width="396dp"
+            android:background="@color/white"
+            android:layout_marginLeft="13dp"
+            android:layout_marginRight="13dp"
+
+            android:layout_height="100dp"
+            android:orientation="horizontal">
+
+            <TextView
+
+                android:layout_width="230dp"
+                android:layout_height="match_parent"
+                android:layout_marginLeft="3dp"
+                android:layout_marginTop="20dp"
+                android:layout_marginBottom="10dp"
+                android:text="Beard Balm:Moisturizes, conditions, styles, and softens "
+                android:textColor="#272524"
+                android:textSize="14sp"
+                android:textStyle="bold" />
+            <LinearLayout
+                android:layout_marginTop="3dp"
+                android:layout_width="396dp"
+                android:background="@color/white"
+                android:layout_marginLeft="13dp"
+                android:layout_marginRight="13dp"
+
+                android:layout_height="80dp"
+                android:orientation="vertical">
+
+            <ImageView
+                android:layout_width="165dp"
+                android:layout_height="65dp"
+                android:layout_marginTop="4dp"
+
+
+                android:paddingRight="75dp"
+                android:src="@drawable/brdsoft1" />
+            <TextView
+                android:layout_width="160dp"
+                android:layout_height="30dp"
+
+                android:layout_marginLeft="17dp"
+
+
+                android:text="Beard Softener"
+                android:textColor="#303F9F"
+                android:textSize="10sp"
+
+
+
+                />
+            </LinearLayout>
+
+
+        </LinearLayout>
+
+
+
+
+
+        <LinearLayout
+            android:layout_marginTop="30dp"
+            android:layout_width="396dp"
+            android:background="@color/white"
+            android:layout_marginLeft="13dp"
+            android:layout_marginRight="13dp"
+
+            android:layout_height="100dp"
+            android:orientation="horizontal">
+
+            <TextView
+
+                android:layout_width="240dp"
+                android:layout_height="match_parent"
+                android:layout_marginLeft="3dp"
+                android:layout_marginTop="20dp"
+                android:layout_marginBottom="10dp"
+                android:text="Beard Oil:
+Custom blend of carrier and essential oils that restore
+."
+                android:textColor="#272525"
+                android:textSize="13sp"
+                android:textStyle="bold" />
+
+            <LinearLayout
+                android:layout_marginTop="3dp"
+                android:layout_width="396dp"
+                android:background="@color/white"
+                android:layout_marginLeft="13dp"
+                android:layout_marginRight="13dp"
+
+                android:layout_height="80dp"
+                android:orientation="vertical">
+
+            <ImageView
+                android:layout_width="165dp"
+                android:layout_height="55dp"
+                android:layout_marginTop="4dp"
+
+                android:layout_marginBottom="10dp"
+                android:paddingRight="75dp"
+                android:src="@drawable/oil" />
+                <TextView
+                    android:layout_width="160dp"
+                    android:layout_height="30dp"
+
+                    android:layout_marginLeft="17dp"
+
+
+                    android:text="Beard Growth Oil"
+                    android:textColor="#303F9F"
+                    android:textSize="10sp"
+
+
+
+                    />
+            </LinearLayout>
+        </LinearLayout>
+        <LinearLayout
+            android:layout_marginTop="30dp"
+            android:layout_width="386dp"
+            android:background="@color/white"
+            android:layout_marginLeft="13dp"
+            android:layout_marginRight="13dp"
+
+            android:layout_height="90dp"
+            android:orientation="horizontal">
+
+            <TextView
+
+                android:layout_width="250dp"
+                android:layout_height="match_parent"
+                android:layout_marginLeft="3dp"
+                android:layout_marginTop="8dp"
+                android:layout_marginBottom="10dp"
+                android:text="Beard Shears:
+Great tool for beards of all lengths
+Made of the highest quality "
+                android:textColor="#191818"
+                android:textSize="13sp"
+                android:textStyle="bold" />
+            <LinearLayout
+                android:layout_marginTop="3dp"
+                android:layout_width="396dp"
+                android:background="@color/white"
+                android:layout_marginLeft="13dp"
+                android:layout_marginRight="13dp"
+
+                android:layout_height="80dp"
+                android:orientation="vertical">
+
+            <ImageView
+                android:layout_width="165dp"
+                android:layout_height="55dp"
+                android:layout_marginTop="4dp"
+
+                android:layout_marginBottom="5dp"
+                android:paddingRight="75dp"
+                android:src="@drawable/brdsh" />
+                <TextView
+                    android:layout_width="160dp"
+                    android:layout_height="30dp"
+
+                    android:layout_marginLeft="11dp"
+
+
+                    android:text="Beard Sheard"
+                    android:textColor="#303F9F"
+                    android:textSize="10sp"
+
+
+
+                    />
+            </LinearLayout>
+        </LinearLayout>
+        <LinearLayout
+            android:layout_marginTop="30dp"
+            android:layout_width="386dp"
+            android:background="@color/white"
+            android:layout_marginLeft="13dp"
+            android:layout_marginRight="13dp"
+
+            android:layout_height="100dp"
+            android:orientation="horizontal">
+
+            <TextView
+
+                android:layout_width="230dp"
+                android:layout_height="match_parent"
+                android:layout_marginLeft="3dp"
+                android:layout_marginTop="10dp"
+                android:layout_marginBottom="10dp"
+                android:text="Beard Comb:
+Great for detangling beard hairs and getting rid of knots
+Dual-sided "
+                android:textColor="#1B1A1A"
+                android:textSize="13sp"
+                android:textStyle="bold" />
+            <LinearLayout
+                android:layout_marginTop="3dp"
+                android:layout_width="396dp"
+                android:background="@color/white"
+                android:layout_marginLeft="13dp"
+                android:layout_marginRight="13dp"
+
+                android:layout_height="80dp"
+                android:orientation="vertical">
+
+            <ImageView
+                android:layout_width="165dp"
+                android:layout_height="55dp"
+                android:layout_marginTop="4dp"
+
+                android:layout_marginBottom="5dp"
+                android:paddingRight="75dp"
+                android:src="@drawable/brdcomb1" />
+                <TextView
+                    android:layout_width="160dp"
+                    android:layout_height="30dp"
+
+                    android:layout_marginLeft="23dp"
+
+
+                    android:text="Beard Comb"
+                    android:textColor="#303F9F"
+                    android:textSize="10sp"
+
+
+
+                    />
+            </LinearLayout>
+        </LinearLayout>
+        <LinearLayout
+            android:layout_marginTop="30dp"
+            android:layout_width="386dp"
+            android:background="@color/white"
+            android:layout_marginLeft="13dp"
+            android:layout_marginRight="13dp"
+
+            android:layout_height="100dp"
+            android:orientation="horizontal">
+
+            <TextView
+
+                android:layout_width="230dp"
+                android:layout_height="match_parent"
+                android:layout_marginLeft="3dp"
+                android:layout_marginTop="10dp"
+                android:layout_marginBottom="10dp"
+                android:text="Beard Wash:
+Nourishes facial hair and the skin underneath
+Gentle formula removes dirt "
+                android:textColor="#2B2A2A"
+
+                android:textSize="13sp"
+                android:textStyle="bold" />
+            <LinearLayout
+                android:layout_marginTop="3dp"
+                android:layout_width="396dp"
+                android:background="@color/white"
+                android:layout_marginLeft="13dp"
+                android:layout_marginRight="13dp"
+
+                android:layout_height="80dp"
+                android:orientation="vertical">
+
+            <ImageView
+                android:layout_width="165dp"
+                android:layout_height="55dp"
+                android:layout_marginTop="4dp"
+
+                android:layout_marginBottom="5dp"
+                android:paddingRight="75dp"
+                android:src="@drawable/brdwash2" />
+                <TextView
+                    android:layout_width="160dp"
+                    android:layout_height="30dp"
+
+                    android:layout_marginLeft="17dp"
+
+
+                    android:text="Beard Facewash"
+                    android:textColor="#303F9F"
+                    android:textSize="10sp"
+
+
+
+                    />
+            </LinearLayout>
+            <TextView
+                android:layout_width="160dp"
+                android:layout_height="30dp"
+
+                android:layout_marginLeft="50dp"
+
+
+                android:text="Beard Brush"
+                android:textColor="#303F9F"
+                android:textSize="10sp"
+
+
+
+                />
+        </LinearLayout>
+        <LinearLayout
+            android:layout_marginTop="30dp"
+            android:layout_width="386dp"
+            android:background="@color/white"
+            android:layout_marginLeft="13dp"
+            android:layout_marginRight="13dp"
+
+            android:layout_height="100dp"
+            android:orientation="horizontal">
+
+            <TextView
+
+                android:layout_width="230dp"
+                android:layout_height="match_parent"
+                android:layout_marginLeft="3dp"
+                android:layout_marginTop="10dp"
+                android:layout_marginBottom="10dp"
+                android:text="Beard Brush:
+Reaches beneath the beard hair pulling away dead skin"
+                android:textColor="#131313"
+                android:textSize="13sp"
+                android:textStyle="bold" />
+            <LinearLayout
+                android:layout_marginTop="3dp"
+                android:layout_width="396dp"
+                android:background="@color/white"
+                android:layout_marginLeft="13dp"
+                android:layout_marginRight="13dp"
+
+                android:layout_height="80dp"
+                android:orientation="vertical">
+
+            <ImageView
+                android:layout_width="165dp"
+                android:layout_height="55dp"
+                android:layout_marginTop="4dp"
+
+                android:layout_marginBottom="5dp"
+                android:paddingRight="75dp"
+                android:src="@drawable/brdcomb" />
+                <TextView
+                    android:layout_width="160dp"
+                    android:layout_height="30dp"
+
+                    android:layout_marginLeft="17dp"
+
+
+                    android:text="Beard Brush"
+                    android:textColor="#303F9F"
+                    android:textSize="10sp"
+
+
+
+                    />
+            </LinearLayout>
+        </LinearLayout>
+
+
+    </LinearLayout>
+
+
+</LinearLayout>
+</ScrollView>

@@ -1,0 +1,56 @@
+[
+  {
+    "product_Id": 1,
+    "product_Name": "Nevea 4FF",
+    "product_Image": "https://i.ibb.co/DVFLrC6/nevea-4ff.jpg",
+    "product_Type": "Gentle Cleanser",
+    "product_Description": "Nevea 4FF is a gentle face wash suitable for all skin types, providing a mild and effective cleanse without causing irritation.",
+    "product_Ingredients": "Chamomile Extract, Glycerin, Vitamin E",
+    "how_To_Use": "Apply to wet face, lather, and massage gently. Rinse thoroughly with water."
+  },
+  {
+    "product_Id": 2,
+    "product_Name": "Ponds Men",
+    "product_Image": "https://i.ibb.co/RBwSqrc/ponds-men.jpg",
+    "product_Type": "Energizing Cleanser",
+    "product_Description": "Ponds Men is an energizing face wash designed for men, providing a revitalizing cleanse to invigorate the skin and awaken the senses.",
+    "product_Ingredients": "Caffeine, Menthol, Eucalyptus Oil",
+    "how_To_Use": "Apply to wet face, lather, and massage gently. Rinse thoroughly with water."
+  },
+  {
+    "product_Id": 3,
+    "product_Name": "Nivea Men",
+    "product_Image": "https://i.ibb.co/592TpqR/nivea-men.jpg",
+    "product_Type": "Hydrating Cleanser",
+    "product_Description": "Nivea Men is a hydrating face wash that replenishes moisture and supports the skin's natural barrier, leaving it soft and supple.",
+    "product_Ingredients": "Ceramides, Hyaluronic Acid, Shea Butter",
+    "how_To_Use": "Wet face, apply a small amount, and massage in circular motions. Rinse thoroughly with water."
+  },
+  {
+    "product_Id": 4,
+    "product_Name": "Oxy Men",
+    "product_Image": "https://i.ibb.co/HdWxBNG/oxy-men.jpg",
+    "product_Type": "Acne Control Cleanser",
+    "product_Description": "Oxy Men is an acne control face wash that helps prevent and treat acne, promoting clear and blemish-free skin.",
+    "product_Ingredients": "Salicylic Acid, Tea Tree Oil, Witch Hazel",
+    "how_To_Use": "Wet face, apply a small amount, and massage in circular motions. Rinse thoroughly with water."
+  },
+  {
+    "product_Id": 5,
+    "product_Name": "Vaseline",
+    "product_Image": "https://i.ibb.co/b7d1W3R/vaseline.jpg",
+    "product_Type": "Nourishing Cleanser",
+    "product_Description": "Vaseline is a nourishing face wash that provides essential nutrients to the skin, leaving it hydrated and radiant.",
+    "product_Ingredients": "Vitamin E, Almond Oil, Glycerin",
+    "how_To_Use": "Wet face, apply a small amount, and massage in circular motions. Rinse thoroughly with water."
+  },
+  {
+    "product_Id": 6,
+    "product_Name": "Nivea Men",
+    "product_Image": "https://i.ibb.co/592TpqR/nivea-men.jpg",
+    "product_Type": "Gentle Cleanser",
+    "product_Description": "Nivea Men is a gentle face wash suitable for daily use, effectively cleansing the skin without causing dryness or irritation.",
+    "product_Ingredients": "Chamomile Extract, Vitamin E, Jojoba Oil",
+    "how_To_Use": "Apply to wet face, lather, and massage gently. Rinse thoroughly with water."
+  }
+]

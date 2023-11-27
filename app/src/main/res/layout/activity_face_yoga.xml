@@ -1,0 +1,259 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+
+
+<ScrollView
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:scrollbars="vertical"
+    android:background="#E8DFE3"
+
+
+    android:layout_width="match_parent"
+
+    android:layout_height="match_parent"
+    android:fillViewport="false">
+
+
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:background="#DFC4D0"
+        android:orientation="vertical"
+        >
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginLeft="90dp"
+        android:layout_marginTop="5dp"
+
+        android:fontFamily="@font/ananda"
+        android:text="How to do FaceYoga"
+        android:textColor="#303F9F"
+        android:textSize="22sp"
+
+
+
+        />
+
+
+
+    <LinearLayout
+        android:layout_marginTop="30dp"
+        android:layout_width="396dp"
+
+        android:layout_marginLeft="3dp"
+        android:layout_marginRight="13dp"
+
+        android:background="#F4EBF0"
+        android:layout_height="100dp"
+        android:orientation="horizontal">
+
+        <ImageView
+            android:layout_width="165dp"
+            android:layout_height="85dp"
+            android:layout_marginTop="14dp"
+
+
+            android:paddingLeft="10dp"
+            android:src="@drawable/fv4" />
+
+        <TextView
+
+            android:layout_width="230dp"
+            android:layout_height="match_parent"
+            android:layout_marginLeft="3dp"
+            android:layout_marginTop="40dp"
+            android:layout_marginBottom="10dp"
+            android:text="Step 1-The Forehead Smoother:"
+            android:textColor="#272524"
+            android:textSize="16sp"
+            android:textStyle="bold" />
+
+
+
+
+
+
+    </LinearLayout>
+
+
+        <LinearLayout
+            android:layout_marginTop="70dp"
+            android:layout_width="396dp"
+            android:background="#F4EBF0"
+            android:layout_marginLeft="3dp"
+            android:layout_marginRight="13dp"
+
+            android:layout_height="100dp"
+            android:orientation="horizontal">
+
+            <TextView
+
+                android:layout_width="230dp"
+                android:layout_height="match_parent"
+                android:layout_marginLeft="23dp"
+                android:layout_marginTop="40dp"
+                android:layout_marginBottom="10dp"
+                android:text="Step-2:The Cheek Lift:"
+                android:textColor="#272524"
+                android:textSize="16sp"
+                android:textStyle="bold" />
+
+                <ImageView
+                    android:layout_width="205dp"
+                    android:layout_height="95dp"
+                    android:layout_marginTop="4dp"
+
+
+                    android:paddingRight="40dp"
+                    android:src="@drawable/fv5" />
+
+
+        </LinearLayout>
+        <LinearLayout
+            android:layout_marginTop="70dp"
+            android:layout_width="396dp"
+            android:background="#F4EBF0"
+            android:layout_marginLeft="3dp"
+            android:layout_marginRight="13dp"
+
+            android:layout_height="100dp"
+            android:orientation="horizontal">
+
+            <ImageView
+                android:layout_width="165dp"
+                android:layout_height="85dp"
+                android:layout_marginTop="14dp"
+
+
+                android:paddingLeft="10dp"
+                android:src="@drawable/fv6" />
+
+            <TextView
+
+                android:layout_width="230dp"
+                android:layout_height="match_parent"
+                android:layout_marginLeft="23dp"
+                android:layout_marginTop="40dp"
+                android:layout_marginBottom="10dp"
+                android:text="Step-3:The Eye Opener:"
+                android:textColor="#272524"
+                android:textSize="16sp"
+                android:textStyle="bold" />
+
+
+
+
+
+
+        </LinearLayout>
+        <LinearLayout
+            android:layout_marginTop="70dp"
+            android:layout_width="396dp"
+            android:background="#F4EBF0"
+            android:layout_marginLeft="3dp"
+            android:layout_marginRight="13dp"
+
+            android:layout_height="100dp"
+            android:orientation="horizontal">
+
+            <TextView
+
+                android:layout_width="230dp"
+                android:layout_height="match_parent"
+                android:layout_marginLeft="23dp"
+                android:layout_marginTop="40dp"
+                android:layout_marginBottom="10dp"
+                android:text="Step-4:The Neck Lift:"
+                android:textColor="#272524"
+                android:textSize="16sp"
+                android:textStyle="bold" />
+
+            <ImageView
+                android:layout_width="205dp"
+                android:layout_height="95dp"
+                android:layout_marginTop="4dp"
+
+
+                android:paddingRight="40dp"
+                android:src="@drawable/fv3" />
+
+
+        </LinearLayout>
+
+        <LinearLayout
+            android:layout_marginTop="70dp"
+            android:layout_width="396dp"
+            android:background="#F4EBF0"
+            android:layout_marginLeft="3dp"
+            android:layout_marginRight="13dp"
+
+            android:layout_height="100dp"
+            android:orientation="horizontal">
+
+            <ImageView
+                android:layout_width="165dp"
+                android:layout_height="85dp"
+                android:layout_marginTop="14dp"
+
+
+                android:paddingLeft="10dp"
+                android:src="@drawable/fv2" />
+
+            <TextView
+
+                android:layout_width="230dp"
+                android:layout_height="match_parent"
+                android:layout_marginLeft="43dp"
+                android:layout_marginTop="40dp"
+                android:layout_marginBottom="10dp"
+                android:text="Step-5:Jaw Toner"
+                android:textColor="#272524"
+                android:textSize="16sp"
+                android:textStyle="bold" />
+
+
+
+
+
+
+        </LinearLayout>
+
+        <LinearLayout
+            android:layout_marginTop="70dp"
+            android:layout_width="396dp"
+            android:background="#F4EBF0"
+            android:layout_marginLeft="3dp"
+            android:layout_marginRight="13dp"
+
+            android:layout_height="100dp"
+            android:orientation="horizontal">
+
+            <TextView
+
+                android:layout_width="230dp"
+                android:layout_height="match_parent"
+                android:layout_marginLeft="23dp"
+                android:layout_marginTop="40dp"
+                android:layout_marginBottom="10dp"
+                android:text="Step-6:Mouth Lift"
+                android:textColor="#272524"
+                android:textSize="16sp"
+                android:textStyle="bold" />
+
+            <ImageView
+                android:layout_width="205dp"
+                android:layout_height="95dp"
+                android:layout_marginTop="4dp"
+
+
+                android:paddingRight="40dp"
+                android:src="@drawable/fv1" />
+
+
+        </LinearLayout>
+    </LinearLayout>
+</ScrollView>
