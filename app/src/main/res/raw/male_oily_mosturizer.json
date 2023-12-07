@@ -6,7 +6,8 @@
     "product_Type": "Refreshing Cleanser",
     "product_Description": "Nevea Men A5 is a refreshing face wash designed for men, providing an invigorating cleanse to energize and revitalize the skin.",
     "product_Ingredients": "Aloe Vera, Menthol, Glycerin",
-    "how_To_Use": "Apply to wet face, lather, and massage gently. Rinse thoroughly with water."
+    "how_To_Use": "Apply to wet face, lather, and massage gently. Rinse thoroughly with water.",
+    "product_price":  "13"
   },
   {
     "product_Id": 2,
@@ -15,7 +16,8 @@
     "product_Type": "Oil-Control Cleanser",
     "product_Description": "Instant Fix Oil is a specialized face wash that helps control excess oil, keeping the skin matte and fresh throughout the day.",
     "product_Ingredients": "Salicylic Acid, Tea Tree Oil, Charcoal",
-    "how_To_Use": "Wet face, apply a small amount, and massage in circular motions. Rinse thoroughly with water."
+    "how_To_Use": "Wet face, apply a small amount, and massage in circular motions. Rinse thoroughly with water.",
+    "product_price":  "13"
   },
   {
     "product_Id": 3,
@@ -24,7 +26,8 @@
     "product_Type": "Gentle Cleanser",
     "product_Description": "Nivea Men is a gentle face wash suitable for daily use, effectively cleansing the skin without causing dryness or irritation.",
     "product_Ingredients": "Chamomile Extract, Vitamin E, Jojoba Oil",
-    "how_To_Use": "Apply to wet face, lather, and massage gently. Rinse thoroughly with water."
+    "how_To_Use": "Apply to wet face, lather, and massage gently. Rinse thoroughly with water.",
+    "product_price":  "13"
   },
   {
     "product_Id": 4,
@@ -33,7 +36,8 @@
     "product_Type": "Hydrating Cleanser",
     "product_Description": "Cetaphil is a hydrating face wash that replenishes moisture and supports the skin's natural barrier, leaving it soft and supple.",
     "product_Ingredients": "Ceramides, Hyaluronic Acid, Shea Butter",
-    "how_To_Use": "Wet face, apply a small amount, and massage in circular motions. Rinse thoroughly with water."
+    "how_To_Use": "Wet face, apply a small amount, and massage in circular motions. Rinse thoroughly with water.",
+    "product_price":  "13"
   },
   {
     "product_Id": 5,
@@ -42,7 +46,8 @@
     "product_Type": "Balancing Cleanser",
     "product_Description": "Natio B4 is a balancing face wash that helps maintain the skin's natural balance, leaving it feeling refreshed and revitalized.",
     "product_Ingredients": "Green Tea Extract, Lavender Oil, Witch Hazel",
-    "how_To_Use": "Apply to wet face, lather, and massage gently. Rinse thoroughly with water."
+    "how_To_Use": "Apply to wet face, lather, and massage gently. Rinse thoroughly with water.",
+    "product_price":  "13"
   },
   {
     "product_Id": 6,
@@ -51,6 +56,7 @@
     "product_Type": "Purifying Cleanser",
     "product_Description": "Ennance is a purifying face wash with natural ingredients that deep cleanse and clarify the skin, promoting a healthy complexion.",
     "product_Ingredients": "Activated Charcoal, Eucalyptus Extract, Tea Tree Oil",
-    "how_To_Use": "Apply to wet face, lather, and massage gently. Rinse thoroughly with water."
+    "how_To_Use": "Apply to wet face, lather, and massage gently. Rinse thoroughly with water.",
+    "product_price":  "13"
   }
 ]

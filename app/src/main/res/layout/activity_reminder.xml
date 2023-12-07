@@ -35,13 +35,7 @@
                     android:layout_height="match_parent"
                     android:src="@drawable/gif1"
                     />
-                <Button
-                    android:id="@+id/toggleAlarmButton"
-                    android:layout_width="wrap_content"
-                    android:layout_height="wrap_content"
-                    android:text="HK"
-                    android:onClick="schedule"
-                    />
+
             </androidx.cardview.widget.CardView>
 
             <androidx.recyclerview.widget.RecyclerView

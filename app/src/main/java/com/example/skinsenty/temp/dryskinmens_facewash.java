@@ -1,14 +1,16 @@
-package com.example.skinsenty;
+package com.example.skinsenty.temp;
 
 import androidx.appcompat.app.AppCompatActivity;
 
 import android.os.Bundle;
 
-public class dry_facewash_women extends AppCompatActivity {
+import com.example.skinsenty.R;
+
+public class dryskinmens_facewash extends AppCompatActivity {
 
     @Override
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
-        setContentView(R.layout.activity_dry_facewash_women);
+//        setContentView(R.layout.activity_dryskinmens_facewash);
     }
 }

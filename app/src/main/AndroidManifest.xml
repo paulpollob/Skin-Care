@@ -5,6 +5,9 @@
 
     <uses-permission android:name="android.permission.POST_NOTIFICATIONS" />
     <uses-permission android:name="android.permission.INTERNET" />
+    <uses-permission android:name="android.permission.READ_EXTERNAL_STORAGE" />
+    <uses-permission android:name="android.permission.WRITE_EXTERNAL_STORAGE" />
+<!--    <uses-permission android:name="android.permission.READ_INTERNAL_STORAGE" />-->
 
     <application
         android:allowBackup="true"
@@ -12,10 +15,38 @@
         android:fullBackupContent="@xml/backup_rules"
         android:icon="@mipmap/ic_launcher"
         android:label="@string/app_name"
+        android:networkSecurityConfig="@xml/network_security_config"
+        android:requestLegacyExternalStorage="true"
         android:roundIcon="@mipmap/ic_launcher_round"
         android:supportsRtl="true"
         android:theme="@style/Theme.Skinsenty"
+        android:usesCleartextTraffic="true"
         tools:targetApi="31">
+        <activity
+            android:name=".MyCart.Place_Order"
+            android:exported="false" />
+        <activity
+            android:name=".MyCart.Cart"
+            android:exported="false">
+
+            <!-- <intent-filter> -->
+            <!-- <action android:name="android.intent.action.MAIN" /> -->
+
+
+            <!-- <category android:name="android.intent.category.LAUNCHER" /> -->
+            <!-- </intent-filter> -->
+        </activity>
+        <activity
+            android:name=".Skin_Detect"
+            android:exported="false">
+
+            <!-- <intent-filter> -->
+            <!-- <action android:name="android.intent.action.MAIN" /> -->
+
+
+            <!-- <category android:name="android.intent.category.LAUNCHER" /> -->
+            <!-- </intent-filter> -->
+        </activity>
         <activity
             android:name=".Products.Product_Details"
             android:exported="false" />
@@ -30,11 +61,6 @@
             <!-- <category android:name="android.intent.category.LAUNCHER" /> -->
             <!-- </intent-filter> -->
         </activity>
-        <activity
-            android:name=".skin_care.Female_Facewash"
-            android:exported="false"
-            android:label="@string/title_activity_female_facewash"
-            android:theme="@style/Theme.Skinsenty" />
         <activity
             android:name=".reminder.Notification"
             android:exported="false" /> <!-- <activity -->
@@ -85,22 +111,22 @@
             android:name=".sensitivemen_facewash"
             android:exported="false" />
         <activity
-            android:name=".combinationskinmen_moisture"
+            android:name=".temp.combinationskinmen_moisture"
             android:exported="false" />
         <activity
-            android:name=".combinationskinmen_sunscream"
+            android:name=".temp.combinationskinmen_sunscream"
             android:exported="false" />
         <activity
-            android:name=".combinationskinmen_facewash"
+            android:name=".temp.combinationskinmen_facewash"
             android:exported="false" />
         <activity
-            android:name=".dryskinmen_moisture"
+            android:name=".temp.dryskinmen_moisture"
             android:exported="false" />
         <activity
-            android:name=".dryskinmen_sunscream"
+            android:name=".temp.dryskinmen_sunscream"
             android:exported="false" />
         <activity
-            android:name=".dryskinmen_facewash"
+            android:name=".temp.dryskinmen_facewash"
             android:exported="false" />
         <activity
             android:name=".oilyskinmen_moiszer"
@@ -136,7 +162,7 @@
             android:name=".sensitive_facewash"
             android:exported="false" />
         <activity
-            android:name=".combination_moisture"
+            android:name=".temp.combination_moisture"
             android:exported="false" />
         <activity
             android:name=".toner_combination"
@@ -148,10 +174,10 @@
             android:name=".serum_combination"
             android:exported="false" />
         <activity
-            android:name=".combination_facewash"
+            android:name=".temp.combination_facewash"
             android:exported="false" />
         <activity
-            android:name=".dryMostizure"
+            android:name=".temp.dryMostizure"
             android:exported="false" />
         <activity
             android:name=".tonerdryskin"
@@ -160,16 +186,16 @@
             android:name=".sunscream_dry"
             android:exported="false" />
         <activity
-            android:name=".dryskin_serum"
+            android:name=".temp.dryskin_serum"
             android:exported="false" />
         <activity
-            android:name=".dry_facewash_women"
+            android:name=".temp.dry_facewash_women"
             android:exported="false" />
         <activity
             android:name=".menskin"
             android:exported="false" />
         <activity
-            android:name=".facepack"
+            android:name=".temp.facepack"
             android:exported="false" />
         <activity
             android:name=".moistuzers"
@@ -187,7 +213,7 @@
             android:name=".simple"
             android:exported="false" />
         <activity
-            android:name=".facewash_female"
+            android:name=".temp.facewash_female"
             android:exported="false" />
         <activity
             android:name=".sectionskinacre"
@@ -256,7 +282,7 @@
             android:name=".yourqueries"
             android:exported="false" />
         <activity
-            android:name=".findyourDiease"
+            android:name=".temp.findyourDiease"
             android:exported="false" />
         <activity
             android:name=".skinProblem"

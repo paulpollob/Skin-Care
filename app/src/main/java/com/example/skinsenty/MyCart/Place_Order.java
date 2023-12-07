@@ -1,14 +1,16 @@
-package com.example.skinsenty;
+package com.example.skinsenty.MyCart;
 
 import androidx.appcompat.app.AppCompatActivity;
 
 import android.os.Bundle;
 
-public class dryMostizure extends AppCompatActivity {
+import com.example.skinsenty.R;
+
+public class Place_Order extends AppCompatActivity {
 
     @Override
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
-        setContentView(R.layout.activity_dry_mostizure);
+        setContentView(R.layout.activity_place_order);
     }
 }

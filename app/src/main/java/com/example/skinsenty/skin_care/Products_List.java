@@ -48,27 +48,4 @@ public class Products_List extends AppCompatActivity {
         TextView title = findViewById(R.id.productsTitle);
         title.setText(last.product_Name);
     }
-
-
-    public String readJsonFile(int resourceId) {
-        StringBuilder jsonResult = new StringBuilder();
-
-        try {
-            Resources resources = getResources();
-            InputStream inputStream = resources.openRawResource(resourceId);
-
-            BufferedReader reader = new BufferedReader(new InputStreamReader(inputStream));
-
-            String line;
-            while ((line = reader.readLine()) != null) {
-                jsonResult.append(line);
-            }
-
-            inputStream.close();
-        } catch (IOException e) {
-            e.printStackTrace();
-        }
-
-        return jsonResult.toString();
-    }
 }

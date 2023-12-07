@@ -6,7 +6,8 @@
     "product_Type": "Facewash",
     "product_Description": "Coler 20F facewash for a vibrant and refreshing skincare experience.",
     "product_Ingredients": "Aqua, Sodium Lauroyl Sarcosinate, Glycerin, Cocamidopropyl Betaine, etc.",
-    "how_To_Use": "Wet face, apply the facewash, massage, and rinse off with water."
+    "how_To_Use": "Wet face, apply the facewash, massage, and rinse off with water.",
+    "product_price":  "13"
   },
   {
     "product_Id": 2,
@@ -15,7 +16,8 @@
     "product_Type": "Facewash",
     "product_Description": "Cera56G facewash for nourishing and gentle care for your skin.",
     "product_Ingredients": "Ceramides, Glyceryl Stearate, Water, Cocamidopropyl Betaine, etc.",
-    "how_To_Use": "Apply on damp face, lather, and rinse off thoroughly for a refreshed look."
+    "how_To_Use": "Apply on damp face, lather, and rinse off thoroughly for a refreshed look.",
+    "product_price":  "13"
   },
   {
     "product_Id": 3,
@@ -24,7 +26,8 @@
     "product_Type": "Facewash",
     "product_Description": "Lotus 6F facewash for a floral and delicate skincare routine.",
     "product_Ingredients": "Lotus Extract, Chamomile, Water, Sodium Cocoyl Isethionate, etc.",
-    "how_To_Use": "Gently apply on wet face, lather, and rinse off for a clean and clear complexion."
+    "how_To_Use": "Gently apply on wet face, lather, and rinse off for a clean and clear complexion.",
+    "product_price":  "13"
   },
   {
     "product_Id": 4,
@@ -33,7 +36,8 @@
     "product_Type": "Facewash",
     "product_Description": "Cerabhi facewash for a gentle and hydrating skincare routine.",
     "product_Ingredients": "Ceramides, Aloe Vera Extract, Water, Cocamidopropyl Betaine, etc.",
-    "how_To_Use": "Wet face, apply the facewash, massage, and rinse off with water."
+    "how_To_Use": "Wet face, apply the facewash, massage, and rinse off with water.",
+    "product_price":  "13"
   },
   {
     "product_Id": 5,
@@ -42,7 +46,8 @@
     "product_Type": "Facewash",
     "product_Description": "La Rochy Pocay facewash for a luxurious and indulgent skincare routine.",
     "product_Ingredients": "Shea Butter, Almond Oil, Water, Sodium Cocoyl Isethionate, etc.",
-    "how_To_Use": "Wet face, apply the facewash, massage, and rinse off for a pampering experience."
+    "how_To_Use": "Wet face, apply the facewash, massage, and rinse off for a pampering experience.",
+    "product_price":  "13"
   },
   {
     "product_Id": 6,
@@ -51,6 +56,7 @@
     "product_Type": "Facewash",
     "product_Description": "Loccatre facewash for a luxurious and indulgent skincare routine.",
     "product_Ingredients": "Shea Butter, Almond Oil, Water, Sodium Cocoyl Isethionate, etc.",
-    "how_To_Use": "Wet face, apply the facewash, massage, and rinse off for a pampering experience."
+    "how_To_Use": "Wet face, apply the facewash, massage, and rinse off for a pampering experience.",
+    "product_price":  "13"
   }
 ]

@@ -6,7 +6,8 @@
     "product_Type": "Facewash",
     "product_Description": "Laroche-VF facewash for a gentle and effective cleanse.",
     "product_Ingredients": "Water, Glycerin, Sodium Lauroyl Sarcosinate, Coco-Glucoside, etc.",
-    "how_To_Use": "Apply on wet face, lather, and rinse thoroughly for a refreshing feel."
+    "how_To_Use": "Apply on wet face, lather, and rinse thoroughly for a refreshing feel.",
+    "product_price":  "13"
   },
   {
     "product_Id": 2,
@@ -15,7 +16,8 @@
     "product_Type": "Facewash",
     "product_Description": "Cereve CF facewash for hydrating and nourishing the skin.",
     "product_Ingredients": "Ceramides, Hyaluronic Acid, Water, Glycerin, etc.",
-    "how_To_Use": "Wet face, apply the facewash, massage, and rinse off with water."
+    "how_To_Use": "Wet face, apply the facewash, massage, and rinse off with water.",
+    "product_price":  "13"
   },
   {
     "product_Id": 3,
@@ -24,7 +26,8 @@
     "product_Type": "Facewash",
     "product_Description": "Simple BFC facewash for a clean and clear complexion.",
     "product_Ingredients": "Aqua, Cocamidopropyl Betaine, Sodium Chloride, Panthenol, etc.",
-    "how_To_Use": "Gently apply on wet face, lather, and rinse off for a refreshed look."
+    "how_To_Use": "Gently apply on wet face, lather, and rinse off for a refreshed look.",
+    "product_price":  "13"
   },
   {
     "product_Id": 4,
@@ -33,7 +36,8 @@
     "product_Type": "Facewash",
     "product_Description": "Lactro facewash with lactose for a gentle and soothing cleanse.",
     "product_Ingredients": "Lactose, Water, Glycerin, Sodium Lauryl Sulfate, etc.",
-    "how_To_Use": "Massage on damp face, avoiding the eye area. Rinse thoroughly."
+    "how_To_Use": "Massage on damp face, avoiding the eye area. Rinse thoroughly.",
+    "product_price":  "13"
   },
   {
     "product_Id": 5,
@@ -42,7 +46,8 @@
     "product_Type": "Facewash",
     "product_Description": "Unicskin facewash for a unique and revitalizing skincare experience.",
     "product_Ingredients": "Aqua, Cocamidopropyl Betaine, Sodium Lauryl Sulfate, Glycerin, etc.",
-    "how_To_Use": "Apply on wet face, lather, and rinse off for a fresh and radiant look."
+    "how_To_Use": "Apply on wet face, lather, and rinse off for a fresh and radiant look.",
+    "product_price":  "13"
   },
   {
     "product_Id": 6,
@@ -51,6 +56,7 @@
     "product_Type": "Facewash",
     "product_Description": "Cetaphill facewash for gentle cleansing suitable for all skin types.",
     "product_Ingredients": "Water, Cetyl Alcohol, Propylene Glycol, Sodium Lauryl Sulfate, etc.",
-    "how_To_Use": "Apply and massage on wet face, rinse off thoroughly for clean and soft skin."
+    "how_To_Use": "Apply and massage on wet face, rinse off thoroughly for clean and soft skin.",
+    "product_price":  "13"
   }
 ]

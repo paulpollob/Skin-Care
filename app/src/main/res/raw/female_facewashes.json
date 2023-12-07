@@ -6,7 +6,8 @@
     "product_Type": "Gel",
     "product_Description": "A gentle and refreshing face wash for everyday use.",
     "product_Ingredients": "Water, Glycerin, Aloe Vera Extract, Citric Acid",
-    "how_To_Use": "Apply a small amount to wet face, massage gently, and rinse thoroughly."
+    "how_To_Use": "Apply a small amount to wet face, massage gently, and rinse thoroughly.",
+    "product_price":  "13"
   },
   {
     "product_Id": 2,
@@ -15,7 +16,8 @@
     "product_Type": "Foaming",
     "product_Description": "Deep cleansing and oil-free face wash for clear skin.",
     "product_Ingredients": "Salicylic Acid, Water, Menthol, Benzoyl Peroxide",
-    "how_To_Use": "Wet face, apply a small amount, and massage in circular motions. Rinse thoroughly."
+    "how_To_Use": "Wet face, apply a small amount, and massage in circular motions. Rinse thoroughly.",
+    "product_price":  "13"
   },
   {
     "product_Id": 3,
@@ -24,7 +26,8 @@
     "product_Type": "Cream",
     "product_Description": "Nourishing and moisturizing face wash with herbal extracts.",
     "product_Ingredients": "Neem, Turmeric, Aloe Vera, Cucumber",
-    "how_To_Use": "Apply to moist face, gently work up a lather, and rinse thoroughly."
+    "how_To_Use": "Apply to moist face, gently work up a lather, and rinse thoroughly.",
+    "product_price":  "13"
   },
   {
     "product_Id": 4,
@@ -33,7 +36,8 @@
     "product_Type": "Ayurvedic",
     "product_Description": "Ayurvedic formula for a natural and glowing complexion.",
     "product_Ingredients": "Honey, Turmeric, Berberry, Soap Nut",
-    "how_To_Use": "Take a small amount, lather with water, and massage on the face. Rinse off."
+    "how_To_Use": "Take a small amount, lather with water, and massage on the face. Rinse off.",
+    "product_price":  "13"
   },
   {
     "product_Id": 5,
@@ -42,7 +46,8 @@
     "product_Type": "Detoxifying",
     "product_Description": "Activated charcoal face wash for deep cleansing and detoxification.",
     "product_Ingredients": "Activated Charcoal, Tea Tree Oil, Peppermint",
-    "how_To_Use": "Wet face, apply a small amount, and massage gently. Rinse thoroughly."
+    "how_To_Use": "Wet face, apply a small amount, and massage gently. Rinse thoroughly.",
+    "product_price":  "13"
   },
   {
     "product_Id": 6,
@@ -51,6 +56,7 @@
     "product_Type": "Pore Unclogging",
     "product_Description": "Unclogs pores and removes impurities for a fresh and clean feel.",
     "product_Ingredients": "Salicylic Acid, Water, Cocamidopropyl Betaine",
-    "how_To_Use": "Wet face, apply a small amount, and massage in circular motions. Rinse thoroughly."
+    "how_To_Use": "Wet face, apply a small amount, and massage in circular motions. Rinse thoroughly.",
+    "product_price":  "13"
   }
 ]

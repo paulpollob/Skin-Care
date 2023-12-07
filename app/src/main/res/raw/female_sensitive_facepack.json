@@ -6,7 +6,8 @@
     "product_Type": "Refreshing Cleanser",
     "product_Description": "Aarong Arth is a refreshing face wash that cleanses and revitalizes the skin, leaving it feeling invigorated.",
     "product_Ingredients": "Green Tea Extract, Cucumber, Aloe Vera",
-    "how_To_Use": "Apply to wet face, lather, and massage in circular motions. Rinse thoroughly with water."
+    "how_To_Use": "Apply to wet face, lather, and massage in circular motions. Rinse thoroughly with water.",
+    "product_price":  "13"
   },
   {
     "product_Id": 2,
@@ -15,7 +16,8 @@
     "product_Type": "Exfoliating Scrub",
     "product_Description": "Aarong Arthxc is an exfoliating face wash that helps remove dead skin cells, promoting a smoother complexion.",
     "product_Ingredients": "Apricot Scrub Particles, Vitamin E, Peppermint Oil",
-    "how_To_Use": "Apply to wet face, gently scrub in circular motions, and rinse thoroughly with water."
+    "how_To_Use": "Apply to wet face, gently scrub in circular motions, and rinse thoroughly with water.",
+    "product_price":  "13"
   },
   {
     "product_Id": 3,
@@ -24,7 +26,8 @@
     "product_Type": "Gentle Cleanser",
     "product_Description": "AArong Bio is a gentle face wash suitable for daily use, providing a mild and effective cleanse for the skin.",
     "product_Ingredients": "Chamomile Extract, Glycerin, Lavender Oil",
-    "how_To_Use": "Wet face, apply a small amount, and massage gently. Rinse thoroughly with water."
+    "how_To_Use": "Wet face, apply a small amount, and massage gently. Rinse thoroughly with water.",
+    "product_price":  "13"
   },
   {
     "product_Id": 4,
@@ -33,7 +36,8 @@
     "product_Type": "Nourishing Cleanser",
     "product_Description": "Aarong Earth is a nourishing face wash that cleanses and nourishes the skin, leaving it soft and supple.",
     "product_Ingredients": "Honey, Almond Oil, Vitamin E",
-    "how_To_Use": "Apply to wet face, lather, and massage in circular motions. Rinse thoroughly with water."
+    "how_To_Use": "Apply to wet face, lather, and massage in circular motions. Rinse thoroughly with water.",
+    "product_price":  "13"
   },
   {
     "product_Id": 5,
@@ -42,7 +46,8 @@
     "product_Type": "Brightening Cleanser",
     "product_Description": "AArong Sinoz is a brightening face wash that promotes a radiant and even skin tone, leaving the skin refreshed.",
     "product_Ingredients": "Vitamin C, Lemon Extract, Papaya Enzymes",
-    "how_To_Use": "Apply to wet face, lather, and massage in circular motions. Rinse thoroughly with water."
+    "how_To_Use": "Apply to wet face, lather, and massage in circular motions. Rinse thoroughly with water.",
+    "product_price":  "13"
   },
   {
     "product_Id": 6,
@@ -51,6 +56,7 @@
     "product_Type": "Charcoal Detox Cleanser",
     "product_Description": "AArong CF is a charcoal detox cleanser that helps draw out impurities and toxins, providing a deep and thorough cleanse.",
     "product_Ingredients": "Activated Charcoal, Tea Tree Oil, Aloe Vera",
-    "how_To_Use": "Apply to wet face, leave on for a few minutes, and rinse off with water."
+    "how_To_Use": "Apply to wet face, leave on for a few minutes, and rinse off with water.",
+    "product_price":  "13"
   }
 ]

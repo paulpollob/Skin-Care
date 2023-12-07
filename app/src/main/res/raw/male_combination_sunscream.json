@@ -6,7 +6,8 @@
     "product_Type": "Facewash",
     "product_Description": "A refreshing facewash for a rejuvenating experience.",
     "product_Ingredients": "Water, Glycerin, Aloe Vera Extract, Citric Acid, etc.",
-    "how_To_Use": "Apply a small amount on wet face, massage gently, and rinse thoroughly."
+    "how_To_Use": "Apply a small amount on wet face, massage gently, and rinse thoroughly.",
+    "product_price":  "13"
   },
   {
     "product_Id": 2,
@@ -15,7 +16,8 @@
     "product_Type": "Facewash",
     "product_Description": "Cerabhi facewash for gentle cleansing and moisturizing.",
     "product_Ingredients": "Ceramides, Hyaluronic Acid, Water, Coco-Glucoside, etc.",
-    "how_To_Use": "Wet face, apply the facewash, massage, and rinse off with water."
+    "how_To_Use": "Wet face, apply the facewash, massage, and rinse off with water.",
+    "product_price":  "13"
   },
   {
     "product_Id": 3,
@@ -24,7 +26,8 @@
     "product_Type": "Facewash",
     "product_Description": "Nivea Men facewash for effective cleansing and freshness.",
     "product_Ingredients": "Menthol, Pro-Vitamin B5, Water, Sodium Laureth Sulfate, etc.",
-    "how_To_Use": "Use daily for best results. Wet face, apply, and rinse off."
+    "how_To_Use": "Use daily for best results. Wet face, apply, and rinse off.",
+    "product_price":  "13"
   },
   {
     "product_Id": 4,
@@ -33,7 +36,8 @@
     "product_Type": "Facewash",
     "product_Description": "Hamayan facewash for a natural and soothing cleanse.",
     "product_Ingredients": "Chamomile Extract, Green Tea Extract, Water, Cocamidopropyl Betaine, etc.",
-    "how_To_Use": "Gently massage on damp face, avoiding the eye area. Rinse thoroughly."
+    "how_To_Use": "Gently massage on damp face, avoiding the eye area. Rinse thoroughly.",
+    "product_price":  "13"
   },
   {
     "product_Id": 5,
@@ -42,7 +46,8 @@
     "product_Type": "Facewash",
     "product_Description": "Vaseline facewash for deep cleaning and hydration.",
     "product_Ingredients": "Petroleum Jelly, Glycerin, Water, Sodium Lauroyl Isethionate, etc.",
-    "how_To_Use": "Apply on wet face, lather, and rinse off for soft and smooth skin."
+    "how_To_Use": "Apply on wet face, lather, and rinse off for soft and smooth skin.",
+    "product_price":  "13"
   },
   {
     "product_Id": 6,
@@ -51,6 +56,7 @@
     "product_Type": "Facewash",
     "product_Description": "Pure Brown facewash for a luxurious and revitalizing experience.",
     "product_Ingredients": "Brown Sugar, Honey, Coconut Oil, Lavender Extract, etc.",
-    "how_To_Use": "Gently massage on damp face, rinse thoroughly for a radiant complexion."
+    "how_To_Use": "Gently massage on damp face, rinse thoroughly for a radiant complexion.",
+    "product_price":  "13"
   }
 ]

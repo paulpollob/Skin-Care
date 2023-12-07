@@ -1,14 +1,16 @@
-package com.example.skinsenty;
+package com.example.skinsenty.temp;
 
 import androidx.appcompat.app.AppCompatActivity;
 
 import android.os.Bundle;
 
-public class dryskin_serum extends AppCompatActivity {
+import com.example.skinsenty.R;
+
+public class dryMostizure extends AppCompatActivity {
 
     @Override
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
-        setContentView(R.layout.activity_dryskin_serum);
+//        setContentView(R.layout.activity_dry_mostizure);
     }
 }

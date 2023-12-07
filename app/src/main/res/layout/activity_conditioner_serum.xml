@@ -5,23 +5,17 @@
     android:layout_width="match_parent"
     android:orientation="vertical"
     android:layout_height="match_parent"
+    android:gravity="center"
     tools:context=".conditionerSerum">
 
     <ImageView
         android:layout_width="245dp"
         android:layout_height="345dp"
-        android:layout_marginTop="10dp"
-        android:layout_marginLeft="90dp"
-
-
         android:src="@drawable/arl" />
 
     <TextView
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
-        android:layout_marginLeft="98dp"
-        android:layout_marginTop="35dp"
-
         android:fontFamily="@font/ananda"
         android:text="Scalp Care Products"
         android:textColor="#303F9F"
@@ -32,12 +26,10 @@
         />
 
 
-    <LinearLayout
+    <GridLayout
         android:layout_marginTop="30dp"
         android:layout_width="wrap_content"
-
-        android:layout_marginLeft="13dp"
-        android:layout_marginRight="13dp"
+        android:columnCount="3"
         android:layout_height="100dp"
         android:orientation="horizontal">
 
@@ -49,7 +41,6 @@
             android:layout_width="110dp"
             android:layout_height="80dp"
             android:text="Hair Oil"
-            android:layout_marginLeft="15dp"
             android:paddingLeft="20dp"
 
             android:textStyle="bold"
@@ -69,7 +60,6 @@
             android:layout_width="110dp"
             android:layout_height="80dp"
             android:text="Serum"
-            android:layout_marginLeft="15dp"
             android:paddingLeft="20dp"
 
             android:textStyle="bold"
@@ -89,7 +79,6 @@
             android:layout_width="110dp"
             android:layout_height="80dp"
             android:text="Shampoo"
-            android:layout_marginLeft="12dp"
             android:paddingLeft="20dp"
 
             android:textStyle="bold"
@@ -106,5 +95,5 @@
             />
 
 
-</LinearLayout>
+</GridLayout>
 </LinearLayout>

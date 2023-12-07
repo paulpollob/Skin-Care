@@ -35,7 +35,7 @@ public class combinationskin extends AppCompatActivity {
                 Gson gson = new Gson();
                 Type type = new TypeToken<ArrayList<Products>>() {}.getType();
                 ArrayList<Products> prdct = gson.fromJson(jsonContent, type);
-                prdct.add(new Products(-1, "Sunscream For Combination Skin", "", "", "", "", ""));
+                prdct.add(new Products(-1, "Sunscream For Combination Skin", "", "", "", "", "", 1));
                 Intent intent = new Intent(combinationskin.this, Products_List.class);
                 intent.putExtra("product", prdct);
                 startActivity(intent);
@@ -49,7 +49,7 @@ public class combinationskin extends AppCompatActivity {
                 Gson gson = new Gson();
                 Type type = new TypeToken<ArrayList<Products>>() {}.getType();
                 ArrayList<Products> prdct = gson.fromJson(jsonContent, type);
-                prdct.add(new Products(-1, "Fcaepack For Combination Skin", "", "", "", "", ""));
+                prdct.add(new Products(-1, "Fcaepack For Combination Skin", "", "", "", "", "", 1));
                 Intent intent = new Intent(combinationskin.this, Products_List.class);
                 intent.putExtra("product", prdct);
                 startActivity(intent);
@@ -63,7 +63,7 @@ public class combinationskin extends AppCompatActivity {
                 Gson gson = new Gson();
                 Type type = new TypeToken<ArrayList<Products>>() {}.getType();
                 ArrayList<Products> prdct = gson.fromJson(jsonContent, type);
-                prdct.add(new Products(-1, "Toners For Combinatiob Skin", "", "", "", "", ""));
+                prdct.add(new Products(-1, "Toners For Combinatiob Skin", "", "", "", "", "", 1));
                 Intent intent = new Intent(combinationskin.this, Products_List.class);
                 intent.putExtra("product", prdct);
                 startActivity(intent);
@@ -77,7 +77,7 @@ public class combinationskin extends AppCompatActivity {
                 Gson gson = new Gson();
                 Type type = new TypeToken<ArrayList<Products>>() {}.getType();
                 ArrayList<Products> prdct = gson.fromJson(jsonContent, type);
-                prdct.add(new Products(-1, "Moistuzer For Combination Skin", "", "", "", "", ""));
+                prdct.add(new Products(-1, "Moistuzer For Combination Skin", "", "", "", "", "", 1));
                 Intent intent = new Intent(combinationskin.this, Products_List.class);
                 intent.putExtra("product", prdct);
                 startActivity(intent);
@@ -92,7 +92,7 @@ public class combinationskin extends AppCompatActivity {
                 Gson gson = new Gson();
                 Type type = new TypeToken<ArrayList<Products>>() {}.getType();
                 ArrayList<Products> prdct = gson.fromJson(jsonContent, type);
-                prdct.add(new Products(-1, "Fachwashs For Combination Skin", "", "", "", "", ""));
+                prdct.add(new Products(-1, "Fachwashs For Combination Skin", "", "", "", "", "", 1));
                 Intent intent = new Intent(combinationskin.this, Products_List.class);
                 intent.putExtra("product", prdct);
                 startActivity(intent);
@@ -106,7 +106,7 @@ public class combinationskin extends AppCompatActivity {
                 Gson gson = new Gson();
                 Type type = new TypeToken<ArrayList<Products>>() {}.getType();
                 ArrayList<Products> prdct = gson.fromJson(jsonContent, type);
-                prdct.add(new Products(-1, "Serums For Combination Skin", "", "", "", "", ""));
+                prdct.add(new Products(-1, "Serums For Combination Skin", "", "", "", "", "", 1));
                 Intent intent = new Intent(combinationskin.this, Products_List.class);
                 intent.putExtra("product", prdct);
                 startActivity(intent);

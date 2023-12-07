@@ -1,0 +1,90 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@color/white"
+    android:padding="5dp"
+    tools:context=".Skin_Detect">
+
+
+    <ScrollView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        >
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:orientation="vertical"
+            >
+            <androidx.cardview.widget.CardView
+                android:layout_width="match_parent"
+                android:layout_height="300dp"
+                app:cardCornerRadius="10dp"
+                android:elevation="20dp">
+                <ImageView
+                    android:layout_width="match_parent"
+                    android:layout_height="300dp"
+                    android:scaleType="fitXY"
+                    android:src="@drawable/skinvector"/>
+            </androidx.cardview.widget.CardView>
+
+
+
+            <LinearLayout
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:orientation="vertical"
+                >
+                <ImageView
+                    android:id="@+id/imageView"
+                    android:layout_width="match_parent"
+                    android:layout_height="200dp"
+                    android:layout_below="@id/pickPhotoButton"
+                    android:src="@drawable/image"
+                    android:scaleType="fitXY"
+                    android:layout_marginTop="16dp"/>
+                <Button
+                    android:id="@+id/pickPhotoButton"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:text="Pick Photo"
+                    android:textColor="@color/black"
+                    android:layout_centerHorizontal="true"
+                    android:background="@drawable/btnpick"
+                    />
+                <Button
+                    android:id="@+id/predict"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:text="Predict"
+                    android:textColor="@color/black"
+                    android:layout_centerHorizontal="true"
+                    android:background="@drawable/btnprdct"
+                    android:layout_marginBottom="16dp"/>
+                <TextView
+                    android:id="@+id/result"
+                    android:layout_width="match_parent"
+                    android:layout_height="50dp"
+                    android:hint="predicted class"
+                    android:textColorHint="#848181"
+                    android:textAlignment="center"
+                    android:paddingHorizontal="5dp"
+                    android:textColor="@color/black"
+                    android:background="@drawable/btnpick"
+                    />
+            </LinearLayout>
+
+
+
+
+        </LinearLayout>
+
+
+
+    </ScrollView>
+
+
+</LinearLayout>

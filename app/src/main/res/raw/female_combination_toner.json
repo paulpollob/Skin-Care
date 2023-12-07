@@ -6,7 +6,8 @@
     "product_Type": "Exfoliating Cleanser",
     "product_Description": "AHA BHA is an exfoliating face wash that combines alpha and beta hydroxy acids to promote a smooth and radiant complexion.",
     "product_Ingredients": "Glycolic Acid, Salicylic Acid, Aloe Vera Extract",
-    "how_To_Use": "Apply to wet face, lather, and massage in circular motions. Rinse thoroughly with water."
+    "how_To_Use": "Apply to wet face, lather, and massage in circular motions. Rinse thoroughly with water.",
+    "product_price":  "13"
   },
   {
     "product_Id": 2,
@@ -15,7 +16,8 @@
     "product_Type": "Nourishing Cleanser",
     "product_Description": "Nutrient is a nourishing cleanser that cleanses while maintaining the skin's moisture balance.",
     "product_Ingredients": "Hyaluronic Acid, Coconut Oil, Green Tea Extract",
-    "how_To_Use": "Apply to wet face, lather, and massage gently. Rinse thoroughly with water."
+    "how_To_Use": "Apply to wet face, lather, and massage gently. Rinse thoroughly with water.",
+    "product_price":  "13"
   },
   {
     "product_Id": 3,
@@ -24,7 +26,8 @@
     "product_Type": "Oil-Free Cleanser",
     "product_Description": "Neutrogena is an oil-free cleanser that effectively removes impurities and excess oil, leaving the skin refreshed.",
     "product_Ingredients": "Salicylic Acid, Witch Hazel, Tea Tree Oil",
-    "how_To_Use": "Wet face, apply a small amount, and massage in circular motions. Rinse thoroughly with water."
+    "how_To_Use": "Wet face, apply a small amount, and massage in circular motions. Rinse thoroughly with water.",
+    "product_price":  "13"
   },
   {
     "product_Id": 4,
@@ -33,7 +36,8 @@
     "product_Type": "Refreshing Gel",
     "product_Description": "Loreal is a refreshing gel face wash that invigorates the skin, leaving it feeling fresh and clean.",
     "product_Ingredients": "Green Tea Extract, Aloe Vera, Salicylic Acid",
-    "how_To_Use": "Apply to wet face, lather, and massage in circular motions. Rinse thoroughly with water."
+    "how_To_Use": "Apply to wet face, lather, and massage in circular motions. Rinse thoroughly with water.",
+    "product_price":  "13"
   },
   {
     "product_Id": 5,
@@ -42,7 +46,8 @@
     "product_Type": "Gentle Cleanser",
     "product_Description": "Jasmin is a gentle face wash that effectively cleanses without causing irritation, suitable for daily use.",
     "product_Ingredients": "Jasmine Extract, Chamomile, Vitamin E",
-    "how_To_Use": "Wet face, apply a small amount, and massage gently. Rinse thoroughly with water."
+    "how_To_Use": "Wet face, apply a small amount, and massage gently. Rinse thoroughly with water.",
+    "product_price":  "13"
   },
   {
     "product_Id": 6,
@@ -51,6 +56,7 @@
     "product_Type": "Hydrating Cleanser",
     "product_Description": "Neutrozena is a hydrating cleanser that nourishes the skin while providing a thorough cleanse.",
     "product_Ingredients": "Hyaluronic Acid, Jojoba Oil, Vitamin E",
-    "how_To_Use": "Apply to wet face, lather, and massage gently. Rinse thoroughly with water."
+    "how_To_Use": "Apply to wet face, lather, and massage gently. Rinse thoroughly with water.",
+    "product_price":  "13"
   }
 ]

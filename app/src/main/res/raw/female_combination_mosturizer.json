@@ -6,7 +6,8 @@
     "product_Type": "Foaming Cleanser",
     "product_Description": "Laroche-VF is a foaming face wash that provides a deep cleanse while maintaining the skin's natural moisture balance.",
     "product_Ingredients": "Vitamin E, Chamomile Extract, Aloe Vera",
-    "how_To_Use": "Apply to wet face, lather, and massage in circular motions. Rinse thoroughly with water."
+    "how_To_Use": "Apply to wet face, lather, and massage in circular motions. Rinse thoroughly with water.",
+    "product_price":  "13"
   },
   {
     "product_Id": 2,
@@ -15,7 +16,8 @@
     "product_Type": "Hydrating Cleanser",
     "product_Description": "Cereve CF is a hydrating cleanser that nourishes the skin while providing a thorough cleanse.",
     "product_Ingredients": "Ceramides, Hyaluronic Acid, Niacinamide",
-    "how_To_Use": "Apply to wet face, lather, and massage gently. Rinse thoroughly with water."
+    "how_To_Use": "Apply to wet face, lather, and massage gently. Rinse thoroughly with water.",
+    "product_price":  "13"
   },
   {
     "product_Id": 3,
@@ -24,7 +26,8 @@
     "product_Type": "Balancing Foam",
     "product_Description": "Simple BFC is a balancing foam face wash that helps maintain the skin's natural balance, leaving it feeling refreshed.",
     "product_Ingredients": "Green Tea Extract, Cucumber, Witch Hazel",
-    "how_To_Use": "Wet face, apply a small amount, and massage gently. Rinse thoroughly with water."
+    "how_To_Use": "Wet face, apply a small amount, and massage gently. Rinse thoroughly with water.",
+    "product_price":  "13"
   },
   {
     "product_Id": 4,
@@ -33,7 +36,8 @@
     "product_Type": "Soothing Cream",
     "product_Description": "Lactro is a soothing cream face wash that provides deep hydration and a luxurious cleanse.",
     "product_Ingredients": "Milk Proteins, Chamomile Extract, Shea Butter",
-    "how_To_Use": "Apply to wet face, massage gently, and rinse thoroughly with water."
+    "how_To_Use": "Apply to wet face, massage gently, and rinse thoroughly with water.",
+    "product_price":  "13"
   },
   {
     "product_Id": 5,
@@ -42,7 +46,8 @@
     "product_Type": "Brightening Foam",
     "product_Description": "Unicskin is a brightening foam face wash that promotes a radiant and even skin tone.",
     "product_Ingredients": "Vitamin C, Licorice Extract, Papaya Enzymes",
-    "how_To_Use": "Wet face, apply a small amount, and massage gently. Rinse thoroughly with water."
+    "how_To_Use": "Wet face, apply a small amount, and massage gently. Rinse thoroughly with water.",
+    "product_price":  "13"
   },
   {
     "product_Id": 6,
@@ -51,6 +56,7 @@
     "product_Type": "Gentle Cleanser",
     "product_Description": "Cetaphil is a gentle face wash that effectively cleanses without causing irritation, suitable for daily use.",
     "product_Ingredients": "Water, Glycerin, Aloe Vera Extract",
-    "how_To_Use": "Wet face, apply a small amount, and massage gently. Rinse thoroughly with water."
+    "how_To_Use": "Wet face, apply a small amount, and massage gently. Rinse thoroughly with water.",
+    "product_price":  "13"
   }
 ]

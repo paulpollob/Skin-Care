@@ -6,7 +6,8 @@
     "product_Type": "Foaming Cleanser",
     "product_Description": "Lotus CF is a foaming face wash enriched with natural extracts for a refreshing and revitalizing cleanse.",
     "product_Ingredients": "Lotus Extract, Chamomile, Aloe Vera, Vitamin C",
-    "how_To_Use": "Wet face, apply a small amount, and massage in circular motions. Rinse thoroughly with water."
+    "how_To_Use": "Wet face, apply a small amount, and massage in circular motions. Rinse thoroughly with water.",
+    "product_price":  "13"
   },
   {
     "product_Id": 2,
@@ -15,7 +16,8 @@
     "product_Type": "Oil-Free Cleanser",
     "product_Description": "Neutrogena is an oil-free cleanser that effectively removes impurities and excess oil, leaving the skin refreshed.",
     "product_Ingredients": "Salicylic Acid, Witch Hazel, Tea Tree Oil",
-    "how_To_Use": "Wet face, apply a small amount, and massage in circular motions. Rinse thoroughly with water."
+    "how_To_Use": "Wet face, apply a small amount, and massage in circular motions. Rinse thoroughly with water.",
+    "product_price":  "13"
   },
   {
     "product_Id": 3,
@@ -24,7 +26,8 @@
     "product_Type": "Exfoliating Scrub",
     "product_Description": "Biomaya is an exfoliating face wash with natural extracts, promoting smooth and radiant skin.",
     "product_Ingredients": "Bamboo Particles, Papaya Enzymes, Green Tea Extract",
-    "how_To_Use": "Massage onto wet face, focusing on areas with impurities. Rinse off with water."
+    "how_To_Use": "Massage onto wet face, focusing on areas with impurities. Rinse off with water.",
+    "product_price":  "13"
   },
   {
     "product_Id": 4,
@@ -33,7 +36,8 @@
     "product_Type": "Hydrating Cleanser",
     "product_Description": "Dr.Jart++ is a hydrating cleanser that nourishes the skin while providing a thorough cleanse.",
     "product_Ingredients": "Hyaluronic Acid, Jojoba Oil, Vitamin E",
-    "how_To_Use": "Apply to wet face, lather, and massage gently. Rinse thoroughly with water."
+    "how_To_Use": "Apply to wet face, lather, and massage gently. Rinse thoroughly with water.",
+    "product_price":  "13"
   },
   {
     "product_Id": 5,
@@ -42,7 +46,8 @@
     "product_Type": "Soothing Cream",
     "product_Description": "Lacto SR is a soothing cream face wash that provides deep hydration and a luxurious cleanse.",
     "product_Ingredients": "Milk Proteins, Chamomile Extract, Shea Butter",
-    "how_To_Use": "Apply to wet face, massage gently, and rinse thoroughly with water."
+    "how_To_Use": "Apply to wet face, massage gently, and rinse thoroughly with water.",
+    "product_price":  "13"
   },
   {
     "product_Id": 6,
@@ -51,6 +56,7 @@
     "product_Type": "Hydrating Cleanser",
     "product_Description": "Cerave is a hydrating cleanser that nourishes the skin while providing a thorough cleanse.",
     "product_Ingredients": "Ceramides, Hyaluronic Acid, Niacinamide",
-    "how_To_Use": "Apply to wet face, lather, and massage gently. Rinse thoroughly with water."
+    "how_To_Use": "Apply to wet face, lather, and massage gently. Rinse thoroughly with water.",
+    "product_price":  "13"
   }
 ]

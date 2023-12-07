@@ -18,9 +18,10 @@ public class Products implements Serializable{
     public String product_Description;
     public String product_Ingredients;
     public String how_To_Use;
+    public int product_price;
 
 
-    public Products(int product_Id, String product_Name, String product_Image, String product_Type, String product_Description, String product_Ingredients, String how_To_Use){
+    public Products(int product_Id, String product_Name, String product_Image, String product_Type, String product_Description, String product_Ingredients, String how_To_Use, int product_price){
         this.how_To_Use = how_To_Use;
         this.product_Id = product_Id;
         this.product_Description = product_Description;
@@ -28,6 +29,7 @@ public class Products implements Serializable{
         this.product_Name = product_Name;
         this.product_Type = product_Type;
         this.product_Ingredients = product_Ingredients;
+        this.product_price = product_price;
     }
 
 

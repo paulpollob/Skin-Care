@@ -35,7 +35,7 @@ public class dryskin extends AppCompatActivity {
                 Gson gson = new Gson();
                 Type type = new TypeToken<ArrayList<Products>>() {}.getType();
                 ArrayList<Products> prdct = gson.fromJson(jsonContent, type);
-                prdct.add(new Products(-1, "Sunscream For Oily Skin", "", "", "", "", ""));
+                prdct.add(new Products(-1, "Sunscream For Oily Skin", "", "", "", "", "", 1));
                 Intent intent = new Intent(dryskin.this, Products_List.class);
                 intent.putExtra("product", prdct);
                 startActivity(intent);
@@ -49,7 +49,7 @@ public class dryskin extends AppCompatActivity {
                 Gson gson = new Gson();
                 Type type = new TypeToken<ArrayList<Products>>() {}.getType();
                 ArrayList<Products> prdct = gson.fromJson(jsonContent, type);
-                prdct.add(new Products(-1, "Fcaepack For Oily Skin", "", "", "", "", ""));
+                prdct.add(new Products(-1, "Fcaepack For Oily Skin", "", "", "", "", "", 1));
                 Intent intent = new Intent(dryskin.this, Products_List.class);
                 intent.putExtra("product", prdct);
                 startActivity(intent);
@@ -63,7 +63,7 @@ public class dryskin extends AppCompatActivity {
                 Gson gson = new Gson();
                 Type type = new TypeToken<ArrayList<Products>>() {}.getType();
                 ArrayList<Products> prdct = gson.fromJson(jsonContent, type);
-                prdct.add(new Products(-1, "Toners For Dry Skin", "", "", "", "", ""));
+                prdct.add(new Products(-1, "Toners For Dry Skin", "", "", "", "", "", 1));
                 Intent intent = new Intent(dryskin.this, Products_List.class);
                 intent.putExtra("product", prdct);
                 startActivity(intent);
@@ -77,7 +77,7 @@ public class dryskin extends AppCompatActivity {
                 Gson gson = new Gson();
                 Type type = new TypeToken<ArrayList<Products>>() {}.getType();
                 ArrayList<Products> prdct = gson.fromJson(jsonContent, type);
-                prdct.add(new Products(-1, "Moistuzer For Dry Skin", "", "", "", "", ""));
+                prdct.add(new Products(-1, "Moistuzer For Dry Skin", "", "", "", "", "", 1));
                 Intent intent = new Intent(dryskin.this, Products_List.class);
                 intent.putExtra("product", prdct);
                 startActivity(intent);
@@ -92,7 +92,7 @@ public class dryskin extends AppCompatActivity {
                 Gson gson = new Gson();
                 Type type = new TypeToken<ArrayList<Products>>() {}.getType();
                 ArrayList<Products> prdct = gson.fromJson(jsonContent, type);
-                prdct.add(new Products(-1, "Facewash  For Dry Skin", "", "", "", "", ""));
+                prdct.add(new Products(-1, "Facewash  For Dry Skin", "", "", "", "", "", 1));
                 Intent intent = new Intent(dryskin.this, Products_List.class);
                 intent.putExtra("product", prdct);
                 startActivity(intent);
@@ -106,7 +106,7 @@ public class dryskin extends AppCompatActivity {
                 Gson gson = new Gson();
                 Type type = new TypeToken<ArrayList<Products>>() {}.getType();
                 ArrayList<Products> prdct = gson.fromJson(jsonContent, type);
-                prdct.add(new Products(-1, "Serums For Dry Skin", "", "", "", "", ""));
+                prdct.add(new Products(-1, "Serums For Dry Skin", "", "", "", "", "", 1));
                 Intent intent = new Intent(dryskin.this, Products_List.class);
                 intent.putExtra("product", prdct);
                 startActivity(intent);

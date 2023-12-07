@@ -6,7 +6,8 @@
     "product_Type": "Exfoliating Scrub",
     "product_Description": "Biomaya is an exfoliating face wash with natural extracts, promoting smooth and radiant skin.",
     "product_Ingredients": "Bamboo Particles, Papaya Enzymes, Green Tea Extract",
-    "how_To_Use": "Massage onto wet face, focusing on areas with impurities. Rinse off with water."
+    "how_To_Use": "Massage onto wet face, focusing on areas with impurities. Rinse off with water.",
+    "product_price":  "13"
   },
   {
     "product_Id": 2,
@@ -15,7 +16,8 @@
     "product_Type": "Gentle Cleanser",
     "product_Description": "Simple AF is a gentle face wash that effectively cleanses without causing irritation, suitable for daily use.",
     "product_Ingredients": "Water, Glycerin, Aloe Vera Extract, Chamomile",
-    "how_To_Use": "Apply to wet face, lather, and massage in circular motions. Rinse thoroughly with water."
+    "how_To_Use": "Apply to wet face, lather, and massage in circular motions. Rinse thoroughly with water.",
+    "product_price":  "13"
   },
   {
     "product_Id": 3,
@@ -24,7 +26,8 @@
     "product_Type": "Brightening Foam",
     "product_Description": "Lakme is a brightening foam face wash that promotes a radiant and even skin tone.",
     "product_Ingredients": "Vitamin C, Niacinamide, Licorice Extract",
-    "how_To_Use": "Wet face, apply a small amount, and massage gently. Rinse thoroughly with water."
+    "how_To_Use": "Wet face, apply a small amount, and massage gently. Rinse thoroughly with water.",
+    "product_price":  "13"
   },
   {
     "product_Id": 4,
@@ -33,7 +36,8 @@
     "product_Type": "Moisturizing Cleanser",
     "product_Description": "Eurcein is a moisturizing cleanser that cleanses while maintaining the skin's moisture balance.",
     "product_Ingredients": "Hyaluronic Acid, Coconut Oil, Green Tea Extract",
-    "how_To_Use": "Apply to wet face, lather, and massage gently. Rinse thoroughly with water."
+    "how_To_Use": "Apply to wet face, lather, and massage gently. Rinse thoroughly with water.",
+    "product_price":  "13"
   },
   {
     "product_Id": 5,
@@ -42,7 +46,8 @@
     "product_Type": "Luxurious Cream",
     "product_Description": "GUERINESS is a luxurious cream face wash that provides a rich and indulgent cleanse, leaving the skin pampered.",
     "product_Ingredients": "Shea Butter, Rosehip Oil, Vitamin E",
-    "how_To_Use": "Apply to damp face, massage in circular motions, and rinse off with water or wipe with a damp cloth."
+    "how_To_Use": "Apply to damp face, massage in circular motions, and rinse off with water or wipe with a damp cloth.",
+    "product_price":  "13"
   },
   {
     "product_Id": 6,
@@ -51,6 +56,7 @@
     "product_Type": "Hydrating Cleanser",
     "product_Description": "Cereve is a hydrating cleanser that nourishes the skin while providing a thorough cleanse.",
     "product_Ingredients": "Ceramides, Hyaluronic Acid, Niacinamide",
-    "how_To_Use": "Apply to wet face, lather, and massage gently. Rinse thoroughly with water."
+    "how_To_Use": "Apply to wet face, lather, and massage gently. Rinse thoroughly with water.",
+    "product_price":  "13"
   }
 ]

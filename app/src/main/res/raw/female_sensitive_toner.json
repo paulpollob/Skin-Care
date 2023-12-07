@@ -6,7 +6,8 @@
     "product_Type": "Hydrating Cleanser",
     "product_Description": "Garnier is a hydrating face wash that replenishes moisture and leaves the skin feeling refreshed and nourished.",
     "product_Ingredients": "Hyaluronic Acid, Rose Water, Vitamin E",
-    "how_To_Use": "Apply to wet face, lather, and massage gently. Rinse thoroughly with water."
+    "how_To_Use": "Apply to wet face, lather, and massage gently. Rinse thoroughly with water.",
+    "product_price":  "13"
   },
   {
     "product_Id": 2,
@@ -15,7 +16,8 @@
     "product_Type": "Nourishing Cleanser",
     "product_Description": "Nutrient is a nourishing face wash that provides essential nutrients, leaving the skin soft, smooth, and revitalized.",
     "product_Ingredients": "Vitamin C, Aloe Vera, Coconut Extract",
-    "how_To_Use": "Wet face, apply a small amount, and massage in circular motions. Rinse thoroughly with water."
+    "how_To_Use": "Wet face, apply a small amount, and massage in circular motions. Rinse thoroughly with water.",
+    "product_price":  "13"
   },
   {
     "product_Id": 3,
@@ -24,7 +26,8 @@
     "product_Type": "Gentle Cleanser",
     "product_Description": "Tree To Tub is a gentle face wash suitable for sensitive skin, providing a mild and effective cleanse without irritation.",
     "product_Ingredients": "Soapberry Extract, Chamomile, Lavender Oil",
-    "how_To_Use": "Apply to wet face, lather, and massage gently. Rinse thoroughly with water."
+    "how_To_Use": "Apply to wet face, lather, and massage gently. Rinse thoroughly with water.",
+    "product_price":  "13"
   },
   {
     "product_Id": 4,
@@ -33,7 +36,8 @@
     "product_Type": "Tea Tree Cleanser",
     "product_Description": "Tea Tree is a cleanser with the purifying properties of tea tree oil, helping to control excess oil and blemishes.",
     "product_Ingredients": "Tea Tree Oil, Witch Hazel, Green Tea Extract",
-    "how_To_Use": "Apply to wet face, lather, and massage gently. Rinse thoroughly with water."
+    "how_To_Use": "Apply to wet face, lather, and massage gently. Rinse thoroughly with water.",
+    "product_price":  "13"
   },
   {
     "product_Id": 5,
@@ -42,7 +46,8 @@
     "product_Type": "Radiance Boosting Cleanser",
     "product_Description": "Simple r23 is a radiance-boosting face wash that enhances the skin's glow, leaving it looking vibrant and refreshed.",
     "product_Ingredients": "Vitamin B3, Hibiscus Extract, Rose Water",
-    "how_To_Use": "Apply to wet face, lather, and massage in circular motions. Rinse thoroughly with water."
+    "how_To_Use": "Apply to wet face, lather, and massage in circular motions. Rinse thoroughly with water.",
+    "product_price":  "13"
   },
   {
     "product_Id": 6,
@@ -51,6 +56,7 @@
     "product_Type": "Oil-Free Cleanser",
     "product_Description": "Neutrogena is an oil-free face wash that effectively cleanses without over-drying, suitable for daily use.",
     "product_Ingredients": "Salicylic Acid, Cucumber Extract, Glycerin",
-    "how_To_Use": "Wet face, apply a small amount, and massage gently. Rinse thoroughly with water."
+    "how_To_Use": "Wet face, apply a small amount, and massage gently. Rinse thoroughly with water.",
+    "product_price":  "13"
   }
 ]

@@ -6,7 +6,8 @@
     "product_Type": "Gentle Cleanser",
     "product_Description": "4F is a gentle face wash suitable for all skin types, providing a mild and effective cleanse without causing irritation.",
     "product_Ingredients": "Chamomile Extract, Glycerin, Vitamin E",
-    "how_To_Use": "Apply to wet face, lather, and massage gently. Rinse thoroughly with water."
+    "how_To_Use": "Apply to wet face, lather, and massage gently. Rinse thoroughly with water.",
+    "product_price":  "13"
   },
   {
     "product_Id": 2,
@@ -15,7 +16,8 @@
     "product_Type": "Sun Protection Cleanser",
     "product_Description": "Sunscream is a face wash with added sun protection, cleansing the skin while safeguarding it from harmful UV rays.",
     "product_Ingredients": "SPF 30, Aloe Vera, Green Tea Extract",
-    "how_To_Use": "Wet face, apply a small amount, and massage in circular motions. Rinse thoroughly with water."
+    "how_To_Use": "Wet face, apply a small amount, and massage in circular motions. Rinse thoroughly with water.",
+    "product_price":  "13"
   },
   {
     "product_Id": 3,
@@ -24,7 +26,8 @@
     "product_Type": "Energizing Cleanser",
     "product_Description": "Men is an energizing face wash designed for men, providing a revitalizing cleanse to invigorate the skin and awaken the senses.",
     "product_Ingredients": "Caffeine, Menthol, Eucalyptus Oil",
-    "how_To_Use": "Apply to wet face, lather, and massage gently. Rinse thoroughly with water."
+    "how_To_Use": "Apply to wet face, lather, and massage gently. Rinse thoroughly with water.",
+    "product_price":  "13"
   },
   {
     "product_Id": 4,
@@ -33,7 +36,8 @@
     "product_Type": "Clarifying Cleanser",
     "product_Description": "KJJRRFF3 is a clarifying face wash that helps control acne and breakouts, promoting clear and blemish-free skin.",
     "product_Ingredients": "Salicylic Acid, Tea Tree Oil, Witch Hazel",
-    "how_To_Use": "Wet face, apply a small amount, and massage in circular motions. Rinse thoroughly with water."
+    "how_To_Use": "Wet face, apply a small amount, and massage in circular motions. Rinse thoroughly with water.",
+    "product_price":  "13"
   },
   {
     "product_Id": 5,
@@ -42,7 +46,8 @@
     "product_Type": "Hydrating Cleanser",
     "product_Description": "Vaseline is a hydrating face wash that replenishes moisture and supports the skin's natural barrier, leaving it soft and supple.",
     "product_Ingredients": "Petroleum Jelly, Glycerin, Almond Oil",
-    "how_To_Use": "Wet face, apply a small amount, and massage in circular motions. Rinse thoroughly with water."
+    "how_To_Use": "Wet face, apply a small amount, and massage in circular motions. Rinse thoroughly with water.",
+    "product_price":  "13"
   },
   {
     "product_Id": 6,
@@ -51,6 +56,7 @@
     "product_Type": "Exotic Cleanser",
     "product_Description": "Hawayain is an exotic face wash with tropical ingredients, providing a luxurious and refreshing cleanse inspired by the Hawaiian islands.",
     "product_Ingredients": "Coconut Extract, Pineapple Enzymes, Hibiscus",
-    "how_To_Use": "Apply to wet face, lather, and massage gently. Rinse thoroughly with water."
+    "how_To_Use": "Apply to wet face, lather, and massage gently. Rinse thoroughly with water.",
+    "product_price":  "13"
   }
 ]

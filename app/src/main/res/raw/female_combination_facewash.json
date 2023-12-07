@@ -6,7 +6,8 @@
     "product_Type": "Gel Cleanser",
     "product_Description": "Simple Refreshing is a gel-based face wash that provides a refreshing and invigorating cleanse for the skin.",
     "product_Ingredients": "Water, Glycerin, Green Tea Extract, Chamomile",
-    "how_To_Use": "Apply to wet face, lather, and massage in circular motions. Rinse thoroughly with water."
+    "how_To_Use": "Apply to wet face, lather, and massage in circular motions. Rinse thoroughly with water.",
+    "product_price":  "13"
   },
   {
     "product_Id": 2,
@@ -15,7 +16,8 @@
     "product_Type": "Hydrating Cleanser",
     "product_Description": "Cerabhi is a hydrating cleanser that nourishes the skin while providing a thorough and gentle cleanse.",
     "product_Ingredients": "Ceramides, Hyaluronic Acid, Vitamin E",
-    "how_To_Use": "Apply to wet face, lather, and massage gently. Rinse thoroughly with water."
+    "how_To_Use": "Apply to wet face, lather, and massage gently. Rinse thoroughly with water.",
+    "product_price":  "13"
   },
   {
     "product_Id": 3,
@@ -24,7 +26,8 @@
     "product_Type": "Purifying Neem Face Wash",
     "product_Description": "Himalaya is a purifying neem face wash that helps cleanse and purify the skin, leaving it feeling fresh.",
     "product_Ingredients": "Neem Extract, Turmeric, Lemon",
-    "how_To_Use": "Wet face, apply a small amount, and massage in circular motions. Rinse thoroughly with water."
+    "how_To_Use": "Wet face, apply a small amount, and massage in circular motions. Rinse thoroughly with water.",
+    "product_price":  "13"
   },
   {
     "product_Id": 4,
@@ -33,7 +36,8 @@
     "product_Type": "Oil-Free Acne Wash",
     "product_Description": "Neutrogena is an oil-free acne wash that helps treat and prevent acne, leaving the skin clean and clear.",
     "product_Ingredients": "Salicylic Acid, Witch Hazel, Tea Tree Oil",
-    "how_To_Use": "Wet face, apply a small amount, and massage in circular motions. Rinse thoroughly with water."
+    "how_To_Use": "Wet face, apply a small amount, and massage in circular motions. Rinse thoroughly with water.",
+    "product_price":  "13"
   },
   {
     "product_Id": 5,
@@ -42,7 +46,8 @@
     "product_Type": "Charcoal Detox Cleanser",
     "product_Description": "Charchol is a charcoal detox cleanser that helps draw out impurities and toxins for a deep cleanse.",
     "product_Ingredients": "Activated Charcoal, Tea Tree Oil, Lavender Extract",
-    "how_To_Use": "Apply to wet face, leave on for a few minutes, and rinse off with water."
+    "how_To_Use": "Apply to wet face, leave on for a few minutes, and rinse off with water.",
+    "product_price":  "13"
   },
   {
     "product_Id": 6,
@@ -51,6 +56,7 @@
     "product_Type": "Deep Pore Charcoal Cleanser",
     "product_Description": "Biore is a deep pore charcoal cleanser that unclogs pores and removes impurities for a smoother complexion.",
     "product_Ingredients": "Charcoal, Menthol, Salicylic Acid",
-    "how_To_Use": "Apply to wet face, lather, and massage gently. Rinse thoroughly with water."
+    "how_To_Use": "Apply to wet face, lather, and massage gently. Rinse thoroughly with water.",
+    "product_price":  "13"
   }
 ]

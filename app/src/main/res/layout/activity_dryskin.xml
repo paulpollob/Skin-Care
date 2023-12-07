@@ -6,40 +6,30 @@
     android:layout_height="match_parent"
     android:background="#EB82AEDA"
     android:orientation="vertical"
+    android:gravity="center"
     tools:context=".dryskin">
 
     <ImageView
         android:layout_width="245dp"
         android:layout_height="345dp"
-        android:layout_marginTop="10dp"
-        android:layout_marginLeft="90dp"
-
-
         android:src="@drawable/arl" />
 
     <TextView
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
-        android:layout_marginLeft="98dp"
-        android:layout_marginTop="35dp"
-
         android:fontFamily="@font/ananda"
         android:text="Dry Skin Products"
         android:textColor="#303F9F"
         android:textSize="27sp"
 
-
-
         />
 
 
-    <LinearLayout
+    <GridLayout
         android:layout_marginTop="30dp"
         android:layout_width="wrap_content"
-
-        android:layout_marginLeft="13dp"
-        android:layout_marginRight="13dp"
-        android:layout_height="100dp"
+        android:columnCount="3"
+        android:layout_height="wrap_content"
         android:orientation="horizontal">
 
 
@@ -50,18 +40,14 @@
             android:layout_width="110dp"
             android:layout_height="80dp"
             android:text="Facewash"
-            android:layout_marginLeft="15dp"
+            android:layout_margin="5dp"
             android:paddingLeft="20dp"
-
             android:textStyle="bold"
             android:paddingRight="22dp"
             android:paddingTop="18dp"
             android:paddingBottom="16dp"
-
             android:textSize="10sp"
-            android:layout_marginTop="10dp"
             android:backgroundTint="#C1C4DC"
-
             android:textColor="@color/black"
 
             />
@@ -70,18 +56,14 @@
             android:layout_width="110dp"
             android:layout_height="80dp"
             android:text="Serum"
-            android:layout_marginLeft="15dp"
+            android:layout_margin="5dp"
             android:paddingLeft="20dp"
-
             android:textStyle="bold"
             android:paddingRight="22dp"
             android:paddingTop="18dp"
             android:paddingBottom="16dp"
-
             android:textSize="10sp"
-            android:layout_marginTop="10dp"
             android:backgroundTint="#C1C4DC"
-
             android:textColor="@color/black"
 
             />
@@ -90,33 +72,16 @@
             android:layout_width="110dp"
             android:layout_height="80dp"
             android:text="SunsCream"
-            android:layout_marginLeft="12dp"
             android:paddingLeft="20dp"
-
+            android:layout_margin="5dp"
             android:textStyle="bold"
             android:paddingRight="17dp"
             android:paddingTop="18dp"
             android:paddingBottom="16dp"
-
             android:textSize="10sp"
-            android:layout_marginTop="10dp"
             android:backgroundTint="#C1C4DC"
-
             android:textColor="@color/black"
-
             />
-
-
-    </LinearLayout>
-    <LinearLayout
-
-        android:layout_width="wrap_content"
-
-        android:layout_marginLeft="13dp"
-        android:layout_marginRight="13dp"
-        android:layout_height="match_parent"
-        android:orientation="horizontal">
-
 
 
 
@@ -125,18 +90,15 @@
             android:layout_width="110dp"
             android:layout_height="80dp"
             android:text="FacePack"
-            android:layout_marginLeft="15dp"
+            android:layout_margin="5dp"
             android:paddingLeft="20dp"
-
             android:textStyle="bold"
             android:paddingRight="22dp"
             android:paddingTop="18dp"
             android:paddingBottom="16dp"
-
             android:textSize="10sp"
             android:layout_marginTop="10dp"
             android:backgroundTint="#C1C4DC"
-
             android:textColor="@color/black"
 
             />
@@ -145,44 +107,36 @@
             android:layout_width="110dp"
             android:layout_height="80dp"
             android:text="Toner"
-            android:layout_marginLeft="15dp"
+            android:layout_margin="5dp"
             android:paddingLeft="20dp"
-
             android:textStyle="bold"
             android:paddingRight="22dp"
             android:paddingTop="18dp"
             android:paddingBottom="16dp"
-
             android:textSize="10sp"
             android:layout_marginTop="10dp"
             android:backgroundTint="#C1C4DC"
-
             android:textColor="@color/black"
-
             />
         <Button
             android:id="@+id/fdmstrzr"
             android:layout_width="110dp"
             android:layout_height="80dp"
             android:text="Moisturizer"
-            android:layout_marginLeft="15dp"
+            android:layout_margin="5dp"
             android:paddingLeft="6dp"
-
             android:textStyle="bold"
             android:paddingRight="22dp"
             android:paddingTop="18dp"
             android:paddingBottom="16dp"
-
             android:textSize="10sp"
-            android:layout_marginTop="10dp"
             android:backgroundTint="#C1C4DC"
-
             android:textColor="@color/black"
 
             />
 
 
-    </LinearLayout>
+    </GridLayout>
 
 
 </LinearLayout>

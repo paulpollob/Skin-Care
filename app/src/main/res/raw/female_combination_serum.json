@@ -6,7 +6,8 @@
     "product_Type": "Brightening Cleanser",
     "product_Description": "Wow Vitamin C is a brightening face wash that helps promote a radiant and even skin tone.",
     "product_Ingredients": "Vitamin C, Citrus Extracts, Aloe Vera",
-    "how_To_Use": "Apply to wet face, lather, and massage in circular motions. Rinse thoroughly with water."
+    "how_To_Use": "Apply to wet face, lather, and massage in circular motions. Rinse thoroughly with water.",
+    "product_price":  "13"
   },
   {
     "product_Id": 2,
@@ -15,7 +16,8 @@
     "product_Type": "Clarifying Cleanser",
     "product_Description": "Murad CF is a clarifying face wash that targets blemishes and impurities, leaving the skin clear and refreshed.",
     "product_Ingredients": "Salicylic Acid, Green Tea Extract, Witch Hazel",
-    "how_To_Use": "Apply to wet face, lather, and massage gently. Rinse thoroughly with water."
+    "how_To_Use": "Apply to wet face, lather, and massage gently. Rinse thoroughly with water.",
+    "product_price":  "13"
   },
   {
     "product_Id": 3,
@@ -24,7 +26,8 @@
     "product_Type": "Gentle Cleanser",
     "product_Description": "Minimilast is a gentle face wash that effectively cleanses without causing irritation, suitable for daily use.",
     "product_Ingredients": "Chamomile Extract, Calendula, Lavender Oil",
-    "how_To_Use": "Wet face, apply a small amount, and massage gently. Rinse thoroughly with water."
+    "how_To_Use": "Wet face, apply a small amount, and massage gently. Rinse thoroughly with water.",
+    "product_price":  "13"
   },
   {
     "product_Id": 4,
@@ -33,7 +36,8 @@
     "product_Type": "Nourishing Cleanser",
     "product_Description": "Lafz is a nourishing face wash that cleanses and nourishes the skin, leaving it soft and supple.",
     "product_Ingredients": "Hyaluronic Acid, Almond Oil, Vitamin E",
-    "how_To_Use": "Apply to wet face, lather, and massage in circular motions. Rinse thoroughly with water."
+    "how_To_Use": "Apply to wet face, lather, and massage in circular motions. Rinse thoroughly with water.",
+    "product_price":  "13"
   },
   {
     "product_Id": 5,
@@ -42,7 +46,8 @@
     "product_Type": "Nighttime Cleanser",
     "product_Description": "Night Brezze is a nighttime face wash that helps remove impurities and prepares the skin for nighttime skincare routines.",
     "product_Ingredients": "Lavender Extract, Chamomile, Jojoba Oil",
-    "how_To_Use": "Apply to wet face before bedtime, lather, and massage gently. Rinse thoroughly with water."
+    "how_To_Use": "Apply to wet face before bedtime, lather, and massage gently. Rinse thoroughly with water.",
+    "product_price":  "13"
   },
   {
     "product_Id": 6,
@@ -51,6 +56,7 @@
     "product_Type": "Deep Pore Charcoal Cleanser",
     "product_Description": "Biore is a deep pore charcoal cleanser that unclogs pores and removes impurities for a smoother complexion.",
     "product_Ingredients": "Charcoal, Menthol, Salicylic Acid",
-    "how_To_Use": "Apply to wet face, lather, and massage gently. Rinse thoroughly with water."
+    "how_To_Use": "Apply to wet face, lather, and massage gently. Rinse thoroughly with water.",
+    "product_price":  "13"
   }
 ]

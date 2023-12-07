@@ -32,7 +32,7 @@ public class oilyskinmen extends AppCompatActivity {
                 Gson gson = new Gson();
                 Type type = new TypeToken<ArrayList<Products>>() {}.getType();
                 ArrayList<Products> prdct = gson.fromJson(jsonContent, type);
-                prdct.add(new Products(-1, "Moistuzer For Men's Oily Skin", "", "", "", "", ""));
+                prdct.add(new Products(-1, "Moistuzer For Men's Oily Skin", "", "", "", "", "", 1));
                 Intent intent = new Intent(oilyskinmen.this, Products_List.class);
                 intent.putExtra("product", prdct);
                 startActivity(intent);
@@ -46,7 +46,7 @@ public class oilyskinmen extends AppCompatActivity {
                 Gson gson = new Gson();
                 Type type = new TypeToken<ArrayList<Products>>() {}.getType();
                 ArrayList<Products> prdct = gson.fromJson(jsonContent, type);
-                prdct.add(new Products(-1, "Sunscream For Men's Oily Skin", "", "", "", "", ""));
+                prdct.add(new Products(-1, "Sunscream For Men's Oily Skin", "", "", "", "", "", 1));
                 Intent intent = new Intent(oilyskinmen.this, Products_List.class);
                 intent.putExtra("product", prdct);
                 startActivity(intent);
@@ -60,7 +60,7 @@ public class oilyskinmen extends AppCompatActivity {
                 Gson gson = new Gson();
                 Type type = new TypeToken<ArrayList<Products>>() {}.getType();
                 ArrayList<Products> prdct = gson.fromJson(jsonContent, type);
-                prdct.add(new Products(-1, "Facewsash For Men's Oily Skin", "", "", "", "", ""));
+                prdct.add(new Products(-1, "Facewsash For Men's Oily Skin", "", "", "", "", "", 1));
                 Intent intent = new Intent(oilyskinmen.this, Products_List.class);
                 intent.putExtra("product", prdct);
                 startActivity(intent);

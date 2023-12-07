@@ -66,7 +66,6 @@ public class Menu_Adapter  extends RecyclerView.Adapter<Menu_Adapter.ViewHolder>
             @Override
             public void onClick(View v) {
                 NotificationManager notificationManager = (NotificationManager) context.getSystemService(Context.NOTIFICATION_SERVICE);
-                Toast.makeText(context, "HK id is: "+menu.get(position).NotificationId, Toast.LENGTH_SHORT).show();
                 if (notificationManager != null) {
                     notificationManager.cancel(Integer.parseInt(menu.get(position).NotificationId));
                 }
@@ -78,7 +77,7 @@ public class Menu_Adapter  extends RecyclerView.Adapter<Menu_Adapter.ViewHolder>
                 editor.putString("reminder", json);
                 editor.apply();
                 notifyDataSetChanged();
-                Toast.makeText(context, "Hare Krishna deleted!", Toast.LENGTH_SHORT).show();
+                Toast.makeText(context, "Reminder Canceled!", Toast.LENGTH_SHORT).show();
             }
         });
 

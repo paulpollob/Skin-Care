@@ -6,7 +6,8 @@
     "product_Type": "Foaming Cleanser",
     "product_Description": "SilyMarin CF is a foaming face wash enriched with natural extracts for a refreshing and revitalizing cleanse.",
     "product_Ingredients": "Silymarin, Chamomile Extract, Vitamin C, Glycerin",
-    "how_To_Use": "Wet face, apply a small amount, and massage in circular motions. Rinse thoroughly with water."
+    "how_To_Use": "Wet face, apply a small amount, and massage in circular motions. Rinse thoroughly with water.",
+    "product_price":  "13"
   },
   {
     "product_Id": 2,
@@ -15,7 +16,8 @@
     "product_Type": "Cream Cleanser",
     "product_Description": "Murad CF is a hydrating cream-based face wash designed to cleanse and nourish the skin, leaving it soft and supple.",
     "product_Ingredients": "Hyaluronic Acid, Aloe Vera, Green Tea Extract, Vitamin E",
-    "how_To_Use": "Apply to damp face, lather, and massage gently. Rinse off with water."
+    "how_To_Use": "Apply to damp face, lather, and massage gently. Rinse off with water.",
+    "product_price":  "13"
   },
   {
     "product_Id": 3,
@@ -24,7 +26,8 @@
     "product_Type": "Exfoliating Scrub",
     "product_Description": "Biomaya is an exfoliating face wash with natural extracts, promoting smooth and radiant skin.",
     "product_Ingredients": "Bamboo Particles, Papaya Enzymes, Green Tea Extract",
-    "how_To_Use": "Massage onto wet face, focusing on areas with impurities. Rinse off with water."
+    "how_To_Use": "Massage onto wet face, focusing on areas with impurities. Rinse off with water.",
+    "product_price":  "13"
   },
   {
     "product_Id": 4,
@@ -33,7 +36,8 @@
     "product_Type": "Ayurvedic Cleanser",
     "product_Description": "Lafz is an Ayurvedic face wash that promotes skin radiance and clarity with the power of natural ingredients.",
     "product_Ingredients": "Saffron, Sandalwood, Almond Oil, Rose Water",
-    "how_To_Use": "Apply to wet face, massage in a circular motion, and rinse off with water."
+    "how_To_Use": "Apply to wet face, massage in a circular motion, and rinse off with water.",
+    "product_price":  "13"
   },
   {
     "product_Id": 5,
@@ -42,7 +46,8 @@
     "product_Type": "Night Cleanser",
     "product_Description": "Night Breeze is a calming night cleanser for a relaxing skincare routine with soothing ingredients.",
     "product_Ingredients": "Lavender Oil, Chamomile, Jojoba Beads, Vitamin A",
-    "how_To_Use": "Use at night, apply to damp skin, and wash off before bedtime."
+    "how_To_Use": "Use at night, apply to damp skin, and wash off before bedtime.",
+    "product_price":  "13"
   },
   {
     "product_Id": 6,
@@ -51,6 +56,7 @@
     "product_Type": "Pore Unclogging Cleanser",
     "product_Description": "Biore is a pore unclogging face wash that removes impurities and excess oil, leaving the skin refreshed.",
     "product_Ingredients": "Salicylic Acid, Witch Hazel, Tea Tree Oil",
-    "how_To_Use": "Wet face, apply a small amount, and massage in circular motions. Rinse thoroughly with water."
+    "how_To_Use": "Wet face, apply a small amount, and massage in circular motions. Rinse thoroughly with water.",
+    "product_price":  "13"
   }
 ]

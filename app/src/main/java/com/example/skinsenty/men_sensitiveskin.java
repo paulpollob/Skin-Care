@@ -31,7 +31,7 @@ public class men_sensitiveskin extends AppCompatActivity {
                 Gson gson = new Gson();
                 Type type = new TypeToken<ArrayList<Products>>() {}.getType();
                 ArrayList<Products> prdct = gson.fromJson(jsonContent, type);
-                prdct.add(new Products(-1, "Moistuzer For Men's Sensitive Skin", "", "", "", "", ""));
+                prdct.add(new Products(-1, "Moistuzer For Men's Sensitive Skin", "", "", "", "", "", 1));
                 Intent intent = new Intent(men_sensitiveskin.this, Products_List.class);
                 intent.putExtra("product", prdct);
                 startActivity(intent);
@@ -45,7 +45,7 @@ public class men_sensitiveskin extends AppCompatActivity {
                 Gson gson = new Gson();
                 Type type = new TypeToken<ArrayList<Products>>() {}.getType();
                 ArrayList<Products> prdct = gson.fromJson(jsonContent, type);
-                prdct.add(new Products(-1, "Sunscream For Mens's Sensitive Skin", "", "", "", "", ""));
+                prdct.add(new Products(-1, "Sunscream For Mens's Sensitive Skin", "", "", "", "", "", 1));
                 Intent intent = new Intent(men_sensitiveskin.this, Products_List.class);
                 intent.putExtra("product", prdct);
                 startActivity(intent);
@@ -59,7 +59,7 @@ public class men_sensitiveskin extends AppCompatActivity {
                 Gson gson = new Gson();
                 Type type = new TypeToken<ArrayList<Products>>() {}.getType();
                 ArrayList<Products> prdct = gson.fromJson(jsonContent, type);
-                prdct.add(new Products(-1, "Facewash For Men's Sensitive Skin", "", "", "", "", ""));
+                prdct.add(new Products(-1, "Facewash For Men's Sensitive Skin", "", "", "", "", "", 1));
                 Intent intent = new Intent(men_sensitiveskin.this, Products_List.class);
                 intent.putExtra("product", prdct);
                 startActivity(intent);
